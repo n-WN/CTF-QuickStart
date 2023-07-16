@@ -13,150 +13,42 @@
     </div>
 
 
+文档依靠Mkdocs-material 基于Github-Page 依靠 gh-pages 部署在 [https://ctf.tj.cn/](https://ctf.tj.cn/)   
 
+您可以直接访问该页面[在线阅读](https://ctf.tj.cn/)，如果您想要转载本项目，请带上项目源地址：https://github.com/ProbiusOfficial/CTF-QuickStart
 
-<div align="center">
-<br>
+如果文档有帮助到你，麻烦点一个:star:支持一下！！
 
-|Web&nbsp;|MISC&nbsp;|Crypto&nbsp;|Reverse&nbsp;|PWN&nbsp;|iot&nbsp;|Blockchain&nbsp;|AI&nbsp;|
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| [🌐]() | [🕸]() | [🔑]() | [💫]() | [💥]() | [⚙]() | [🔐]() | [🤖]() |
+## 关于
 
-<br>
+随着网络安全的发展，有越来越多的小伙伴了解到了 **CTF** ，并且想要参与到比赛中来，但仅仅寻找学习资源就耗费了大量精力；  
+同时每年招新时 或者带新人入门的时候 都会面临很多相似的问题，于是本项目应运而生。  
+本项目旨在创建一本开源免费、新手友好的「 **夺旗赛 | CTF(Capture The Flag)** 」入门教程。  
 
-|AWD&nbsp;|AWDP&nbsp;|
-| :--: | :--: |
-| [⚔]() | [🛡]() |
+- 对于每个方向的基础知识点，我们都会尽力提供相应的题目(包括题目附件 题目源码 Dockerfile),所有题目均可本地部署也可在NSSCTF平台上直接开启,我们会在教程中逐步引导读者,并且鼓励读者自行复现,使学习过程更加具象;  
+- 在提供基础知识外，本书也将提供CTF相关的信息聚合，以消除信息差;  
+- 书籍在每篇文章下都设置有讨论区，欢迎讨论，提问，以及建议;   
 
-</div>
+## 加入我们
 
+本书仍然处于更新阶段，我们还有很多内容需要完善，欢迎您加入我们，一起完善本书，让更多的人了解CTF，参与CTF，享受CTF的乐趣。
+您随时可以通过提交 [「 Pr (PullRequest) 」](https://github.com/ProbiusOfficial/CTF-QuickStart/pulls)来协助我们完成本项目。
 
-## ☁关于
+- 如果您在阅读过程中发现任何 知识点错误，内容模糊，名词拼写错误等等的问题，还请您协助我们进行修改，您可以直接在评论区中提出，也可以直接提交PR。
+- 如果您有好的题目，好的题解，好的知识点讲解，或者其他合作意向，也欢迎您联系探姬([By QQ](2293808331))或者开启issue。
 
-### ❔这是什么
+## 致谢
+本项目基于[Mkdocs-material](https://github.com/squidfunk/mkdocs-material)搭建，感谢该项目提供的优秀的文档编写平台。  
 
-- 这是一个面向 0 基础 想入门 CTF 新手的快速入门手册，用来应对下面的情况：
-  - 有人问你CTF如何入门的时候。
-  - 面临致命几连问 "CTF 是什么"  "怎么入门 CTF"  "有什么推荐的学习资料么"的时候
-  - ......
+项目最初只是一个Readme文档，受到 **[Hello-algo](https://github.com/krahets/hello-algo/)** 项目的启发，这才有了这个项目现在的样子，如果你对算法感兴趣，强烈推荐这本在数据结构期末考试前帮了我大忙的书籍。  
 
-- 此外，针对国内高校 CTF 战队难以找到合适的培训资料的问题，我们也整理了一些培训用到的文档 / PPT / 视频 / 以及其他资源，希望他们对你有用 www。
-- 我们会持续更新这个项目，提供更多新手阶段乃至进阶阶段的内容，以便能够帮助到更多的人。
-- 如果你有什么好的建议或者想法，欢迎提 issue 或者 PR，我们会尽快回复。
+在提出这个项目的想法的时候，因为国内的环境问题，我怀疑过很多次自己这样做是否有意义，感谢 [*Ari @deCafLatte*](https://github.com/deCafLatte) 的支持和鼓励，让我有动力做自己喜欢的事情。
 
-### 🔗友情链接
-- **[CTFwiki](https://github.com/ctf-wiki/ctf-wiki)**：[https://ctf-wiki.github.io/ctf-wiki/](https://ctf-wiki.github.io/ctf-wiki/)
-Q：已经有了wiki，为什么还要做这个项目呢？
-A：因为wiki一下子给的信息太多了，对于新手来说，很难找到入门的地方，所以我们希望能够做一个更加简单的入门手册，让新手能够快速入门。
-### 🚀 [点我快速开始🎯](QuickStart.md)
+本项目的完成离不开以下小伙伴的贡献，感谢他们的付出。
+<p align="left">
+    <a href="https://github.com/ProbiusOfficial/CTF-QuickStart/graphs/contributors">
+        <img width="550" src="https://contrib.rocks/image?repo=ProbiusOfficial/CTF-QuickStart" />
+    </a>
+</p>
 
-- 初来乍到，我还不知道什么是CTF / 我对 CTF 有兴趣 / 想要入门 CTF ： [点我前往入门文档！](QuickStart.md) 
-- 想让更多的人了解 CTF / 想组建一支校内 CTF 战队 / CTF 实验室想要招新宣讲没有资料 :
-- 如果您有其他需求，或者您认为文档中缺少某些内容，又或者文档存在一些错误等等的各种情况欢迎通过下面的方式向我反馈：
-  - 通过issue或者PR
-  - 通过B站私信反馈：[探姬_Official](https://space.bilibili.com/27109929)  
-  - 通过填写反馈表（无需登录）：[点我填写反馈表](https://f.kdocs.cn/g/CwnhSjjK/)  
-  - 通过QQ群聊反馈：[点击加入反馈群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=wJ35e-T-qSlU7Y3Cs-PAasrAvZfRSc9k&authKey=WNEQbZUpolxgfKjUHHoUIoTBvSnvk2jZtcyWlhaDcUZ6ZYGgvywqi1ah5D7UwUrg&noverify=0&group_code=590430891)    
-  
-
-
- ### 🔔公告
-最基本的入门手册可能还会再完善几次，别担心，目前的版本已经足够用作入门文档了，您随时可以将他发给刚入门或者想入门的师傅们。  
-
-后续的计划挺多的，我想每个方向再做具体一点，还有一些资源的整合什么的。  
-
-最近忙着学校网络安全校赛的各个工作，而且作者本身也有工作 比较忙，所以更新会 非常非常慢 希望各位谅解，虽然会很慢，但项目绝对不会废弃的QAQ。  
-
-共勉💖
-
-### 📅CTF赛事
-**国内赛事 https://www.su-sanha.cn/events/**
-  - 使用API进行获取：http://event.ctf.probius.xyz/cn_CTF
-    ```json
-    " API地址 " : "http://event.ctf.probius.xyz/cn_CTF"
-    " 调用方法 " :"/GET"
-    " 返回格式 " :"json"
-    [
-        {
-            "比赛名称": "2023XCTF分站赛-SCTF",
-            "比赛链接": "https://sctf2023.xctf.org.cn",
-            "比赛类型": "团队赛",
-            "报名开始": "无需报名",
-            "报名截止": "无需报名",
-            "比赛开始": "2023年06月17日09:00",
-            "比赛结束": "2023年06月19日09:00",
-            "其他说明": "QQ群：729402738"
-        },
-        {},
-        {},
-        ...
-    ]
-    ```
-  - 加入赛事群获取  
-  
-    [![CTF赛事通知报名群](https://img.shields.io/badge/CTF赛事通知报名群-734535934-black)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=38s-tPEVrv3hVMNEUXiNkumy5khQuS-j&authKey=6aQuubgO2nQDOK%2Bf6N1tm2Yw7Eo45TLU21IH3ek1KslG3XIcm2LOjS9EOOzyncN2&noverify=0&group_code=734535934)  
-    -
-    [![CTF赛事通知报名群(满)](https://img.shields.io/badge/CTF赛事通知报名群(满)-829089482-black)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=cRU05F4Cicj4Ze6jEb9NeDrxgzIfTGpk&authKey=lAbuNnRkKKkt6Rmitby04CiPw2wLrlfS%2BPYNKNBR%2FuIwPeLT8tLox65s07moRdob&noverify=0&group_code=829089482)  
-
- <br>  
-
-**国外赛事 https://ctftime.org/**
-- 使用API进行获取：http://event.ctf.probius.xyz/global_CTF
-
-  ```json
-  " API地址 " : "http://event.ctf.probius.xyz/global_CTF"
-  " 调用方法 " :"/GET"
-  " 返回格式 " :"json"
-  [
-      {
-          "比赛名称": "BSides Indore CTF 2023 (http://ctf.bsidesindore.in/)",
-          "比赛时间": "2023-06-17 01:30:00 - 2023-06-18 01:30:00 UTC+8",
-          "添加日历": "https://ctftime.org/event/2017.ics",
-          "比赛形式": "Jeopardy",
-          "比赛链接": "http://ctf.bsidesindore.in/",
-          "比赛标志": "https://ctftime.org/media/events/  Red_Black_Logo_Transparent.png",
-          "比赛权重": "0.00",
-          "赛事主办": "BSides Indore (https://ctftime.org/team/227864)"
-      },
-      {
-          "比赛名称": "Codegate CTF 2023 Preliminary (https://codegate2023. org/)",
-          "比赛时间": "2023-06-17 09:00:00 - 2023-06-18 09:00:00 UTC+8",
-          "添加日历": "https://ctftime.org/event/2006.ics",
-          "比赛形式": "Jeopardy",
-          "比赛链接": "https://codegate2023.org/",
-          "比赛标志": "https://ctftime.org",
-          "比赛权重": "25.00",
-          "赛事主办": "CODEGATE (https://ctftime.org/team/39352)"
-      },
-      {},
-      {},
-      ...
-  ]
-  ```
-
-- 使用RSS订阅  
-  [![RSS](https://img.shields.io/badge/RSS-black)](https://ctftime.org/event/list/upcoming/rss/) 
-  
-    
-
-## 🏴CTF & 🗡AWD
-
-### :globe_with_meridians:Web
-
-### 🕸MISC
-
-### :key:Crypto
-
-### :dizzy:Reverse
-
-### 💥PWN
-
-### ⚙iot
-
-### 🔐Blockchain  
-
-### 🤖AI
-
-### ⚔AWD 
-
-### 🛡AWDP
+**向每一个为开源社区做出努力和贡献的人，致以崇高的敬意！！！**
