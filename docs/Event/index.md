@@ -285,13 +285,6 @@ hide:
             适度CTF益脑，沉迷CTF伤身。合理安排时间，享受健康生活。
     
     === "*正在报名*"
-        ??? Quote "[XYCTF高校新生联合赛 2024](https://www.xyctf.top/)"  
-            **比赛名称** : [XYCTF高校新生联合赛 2024](https://www.xyctf.top/)  
-            **比赛类型** : 团队赛 | 1-3人  
-            **报名时间** : 2024年03月05日 10:00 - 2024年04月01日 09:00  
-            **比赛时间** : 2024年04月01日 10:00 - 2024年05月01日 10:00  
-            **其他说明** : 赛事群：798794707  
-            
         ??? Quote "[第二届数据安全大赛暨首届“数信杯”数据安全大赛](https://shuxinbei.ichunqiu.com/)"  
             **比赛名称** : [第二届数据安全大赛暨首届“数信杯”数据安全大赛](https://shuxinbei.ichunqiu.com/)  
             **比赛类型** : 团队赛|1-3人  
@@ -301,13 +294,6 @@ hide:
             
     === "*即将开始*"
         === "国内赛事"
-            ??? Quote "[XYCTF高校新生联合赛 2024](https://www.xyctf.top/)"  
-                **比赛名称** : [XYCTF高校新生联合赛 2024](https://www.xyctf.top/)  
-                **比赛类型** : 团队赛 | 1-3人  
-                **报名时间** : 2024年03月05日 10:00 - 2024年04月01日 09:00  
-                **比赛时间** : 2024年04月01日 10:00 - 2024年05月01日 10:00  
-                **其他说明** : 赛事群：798794707  
-                
             ??? Quote "[第二届数据安全大赛暨首届“数信杯”数据安全大赛](https://shuxinbei.ichunqiu.com/)"  
                 **比赛名称** : [第二届数据安全大赛暨首届“数信杯”数据安全大赛](https://shuxinbei.ichunqiu.com/)  
                 **比赛类型** : 团队赛|1-3人  
@@ -341,9 +327,9 @@ hide:
                 **赛事主办** : les amateurs (https://ctftime.org/team/166729)  
                 **添加日历** : https://ctftime.org/event/2226.ics  
                 
-            ??? Quote "[RITSEC CTF 2024]()"  
-                [![](https://ctftime.org/media/events/Ritsec-CTF-2024-r1.jpg){ width="200" align=left }]()  
-                **比赛名称** : [RITSEC CTF 2024]()  
+            ??? Quote "[RITSEC CTF 2024](https://ctfd.ritsec.club/)"  
+                [![](https://ctftime.org/media/events/Ritsec-CTF-2024-r1.jpg){ width="200" align=left }](https://ctfd.ritsec.club/)  
+                **比赛名称** : [RITSEC CTF 2024](https://ctfd.ritsec.club/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2024-04-06 00:00:00 - 2024-04-08 00:00:00 UTC+8  
                 **比赛权重** : 26.98  
@@ -784,7 +770,13 @@ hide:
                 
     === "*正在进行*"
         === "国内赛事"
-    
+            ??? Quote "[XYCTF高校新生联合赛 2024](https://www.xyctf.top/)"  
+                **比赛名称** : [XYCTF高校新生联合赛 2024](https://www.xyctf.top/)  
+                **比赛类型** : 团队赛 | 1-3人  
+                **报名时间** : 2024年03月05日 10:00 - 2024年04月01日 09:00  
+                **比赛时间** : 2024年04月01日 10:00 - 2024年05月01日 10:00  
+                **其他说明** : 赛事群：798794707  
+                
         === "国外赛事"
             ??? Quote "[Sydbox CTF: read /etc/CTF](https://git.sr.ht/~alip/syd#ctf-howto-sydbx-capture-the-flag-challenge)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://git.sr.ht/~alip/syd#ctf-howto-sydbx-capture-the-flag-challenge)  
@@ -794,15 +786,6 @@ hide:
                 **比赛权重** : 0  
                 **赛事主办** : Exherbo GNU/Linux (https://ctftime.org/team/275214)  
                 **添加日历** : https://ctftime.org/event/2178.ics  
-                
-            ??? Quote "[CursedCTF 2024 Quals](https://cursedc.tf/)"  
-                [![](https://ctftime.org/media/events/Screenshot_2024-01-23_at_11.45.46_AM.png){ width="200" align=left }](https://cursedc.tf/)  
-                **比赛名称** : [CursedCTF 2024 Quals](https://cursedc.tf/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-03-30 08:00:00 - 2024-04-01 08:00:00 UTC+8  
-                **比赛权重** : 19.50  
-                **赛事主办** : cursed (https://ctftime.org/team/199492)  
-                **添加日历** : https://ctftime.org/event/2239.ics  
                 
     === "*已经结束*"
         === "国内赛事"
@@ -936,6 +919,15 @@ hide:
                 **比赛权重** : 0.00  
                 **赛事主办** : CyberVT (https://ctftime.org/team/173872)  
                 **添加日历** : https://ctftime.org/event/2237.ics  
+                
+            ??? Quote "[CursedCTF 2024 Quals](https://cursedc.tf/)"  
+                [![](https://ctftime.org/media/events/Screenshot_2024-01-23_at_11.45.46_AM.png){ width="200" align=left }](https://cursedc.tf/)  
+                **比赛名称** : [CursedCTF 2024 Quals](https://cursedc.tf/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-03-30 08:00:00 - 2024-04-01 08:00:00 UTC+8  
+                **比赛权重** : 19.50  
+                **赛事主办** : cursed (https://ctftime.org/team/199492)  
+                **添加日历** : https://ctftime.org/event/2239.ics  
                 
             ??? Quote "[UTCTF 2024](https://isss.io/utctf)"  
                 [![](https://ctftime.org/media/events/UTCTF2024.png){ width="200" align=left }](https://isss.io/utctf)  
@@ -1158,7 +1150,7 @@ hide:
                 **比赛名称** : [osu!gaming CTF 2024](https://www.osugaming.lol/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2024-03-02 01:00:00 - 2024-03-04 01:00:00 UTC+8  
-                **比赛权重** : 23.91  
+                **比赛权重** : 23.93  
                 **赛事主办** : osu!gaming (https://ctftime.org/team/186954)  
                 **添加日历** : https://ctftime.org/event/2165.ics  
                 
@@ -1809,15 +1801,6 @@ hide:
                 **比赛权重** : 25.00  
                 **赛事主办** : keva (https://ctftime.org/team/2980)  
                 **添加日历** : https://ctftime.org/event/2132.ics  
-                
-            ??? Quote "[CyberSci Regional Qualifiers 2023-24](https://CyberSci.ca/)"  
-                [![](https://ctftime.org/media/events/f064d8074a08720a1fceac259a831e7e.png){ width="200" align=left }](https://CyberSci.ca/)  
-                **比赛名称** : [CyberSci Regional Qualifiers 2023-24](https://CyberSci.ca/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2023-11-19 00:00:00 - 2023-11-19 07:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : CyberSciOrganizers (https://ctftime.org/team/157536)  
-                **添加日历** : https://ctftime.org/event/2171.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
