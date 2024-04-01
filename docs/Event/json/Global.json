@@ -112,7 +112,7 @@
         "比赛时间": "2024-04-12 20:00:00 - 2024-04-14 20:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2250.ics",
         "比赛形式": "Jeopardy",
-        "比赛链接": "http://ctf.b01lers.com/",
+        "比赛链接": "https://b01lersc.tf/",
         "比赛标志": "https://ctftime.org/media/events/b01lers-griffen_1.png",
         "比赛权重": "30.80",
         "赛事主办": "b01lers (https://ctftime.org/team/11464)",
@@ -624,18 +624,6 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "UTCTF 2024",
-        "比赛时间": "2024-03-30 07:00:00 - 2024-04-01 07:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2302.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://isss.io/utctf",
-        "比赛标志": "https://ctftime.org/media/events/UTCTF2024.png",
-        "比赛权重": "48.00",
-        "赛事主办": "isss (https://ctftime.org/team/69010)",
-        "比赛ID": "281",
-        "比赛状态": "nowrunning"
-    },
-    {
         "比赛名称": "CursedCTF 2024 Quals",
         "比赛时间": "2024-03-30 08:00:00 - 2024-04-01 08:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2239.ics",
@@ -648,18 +636,6 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "SummitCTF 2024",
-        "比赛时间": "2024-03-30 21:00:00 - 2024-04-01 04:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2237.ics",
-        "比赛形式": "Hack quest",
-        "比赛链接": "https://summitctf.org/",
-        "比赛标志": "https://ctftime.org/media/events/default_background_removed.png",
-        "比赛权重": "0.00",
-        "赛事主办": "CyberVT (https://ctftime.org/team/173872)",
-        "比赛ID": "884",
-        "比赛状态": "nowrunning"
-    },
-    {
         "比赛名称": "VolgaCTF 2024 Qualifier",
         "比赛时间": "2024-03-30 23:00:00 - 2024-03-31 23:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2200.ics",
@@ -669,6 +645,30 @@
         "比赛权重": "35.91",
         "赛事主办": "VolgaCTF.org (https://ctftime.org/team/27094)",
         "比赛ID": "52",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "SummitCTF 2024",
+        "比赛时间": "2024-03-30 21:00:00 - 2024-04-01 04:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2237.ics",
+        "比赛形式": "Hack quest",
+        "比赛链接": "https://summitctf.org/",
+        "比赛标志": "https://ctftime.org/media/events/default_background_removed.png",
+        "比赛权重": "0.00",
+        "赛事主办": "CyberVT (https://ctftime.org/team/173872)",
+        "比赛ID": "884",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "UTCTF 2024",
+        "比赛时间": "2024-03-30 07:00:00 - 2024-04-01 07:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2302.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://isss.io/utctf",
+        "比赛标志": "https://ctftime.org/media/events/UTCTF2024.png",
+        "比赛权重": "48.00",
+        "赛事主办": "isss (https://ctftime.org/team/69010)",
+        "比赛ID": "281",
         "比赛状态": "past"
     },
     {
@@ -786,7 +786,7 @@
         "比赛形式": "Attack-Defense",
         "比赛链接": "https://snowfort2024.cyberscoring.ca/",
         "比赛标志": "https://ctftime.org/media/events/logo_2024.png",
-        "比赛权重": "22.14",
+        "比赛权重": "21.25",
         "赛事主办": "Shell We Hack? (https://ctftime.org/team/220236)",
         "比赛ID": "1057",
         "比赛状态": "past"
@@ -954,7 +954,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://www.osugaming.lol/",
         "比赛标志": "https://ctftime.org/media/events/unknown_1.png",
-        "比赛权重": "23.89",
+        "比赛权重": "23.91",
         "赛事主办": "osu!gaming (https://ctftime.org/team/186954)",
         "比赛ID": "998",
         "比赛状态": "past"
@@ -1230,7 +1230,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://mapnactf.com/",
         "比赛标志": "https://ctftime.org/media/events/MAPNA.jpg",
-        "比赛权重": "24.57",
+        "比赛权重": "24.58",
         "赛事主办": "ASIS (https://ctftime.org/team/4140)",
         "比赛ID": "1034",
         "比赛状态": "past"
@@ -1266,7 +1266,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://ctf.uoftctf.org/",
         "比赛标志": "https://ctftime.org/media/events/ctf_logo_1.png",
-        "比赛权重": "23.75",
+        "比赛权重": "23.77",
         "赛事主办": "UofTCTF (https://ctftime.org/team/139261)",
         "比赛ID": "1052",
         "比赛状态": "past"
@@ -1833,30 +1833,6 @@
         "比赛权重": "0.00",
         "赛事主办": "CyberSciOrganizers (https://ctftime.org/team/157536)",
         "比赛ID": "643",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "saarCTF 2023",
-        "比赛时间": "2023-11-18 21:00:00 - 2023-11-19 06:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2049.ics",
-        "比赛形式": "Attack-Defense",
-        "比赛链接": "https://ctf.saarland/",
-        "比赛标志": "https://ctftime.org",
-        "比赛权重": "90.62",
-        "赛事主办": "saarsec (https://ctftime.org/team/15337)",
-        "比赛ID": "412",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "isfcr{ctf} 2023",
-        "比赛时间": "2023-11-18 18:30:00 - 2023-11-19 18:30:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2167.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://isfcr.ctfd.io/",
-        "比赛标志": "https://ctftime.org",
-        "比赛权重": "0.00",
-        "赛事主办": "ISFCR PESU (https://ctftime.org/team/166645)",
-        "比赛ID": "942",
         "比赛状态": "past"
     }
 ]
