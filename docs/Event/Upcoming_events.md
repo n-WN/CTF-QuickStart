@@ -19,6 +19,13 @@ comments: true
     **比赛时间** : 2024年05月01日 08:00 - 2024年05月25日 08:00  
     **其他说明** : QQ群:619577692 / 852601317 邮箱:iscc2004@163.com  
     
+??? Quote "第一届“帕鲁杯”CTF应急响应挑战赛"  
+    **比赛名称** : [第一届“帕鲁杯”CTF应急响应挑战赛](https://paluctf.runctf.cn/)  
+    **比赛类型** : 团体赛1-4人  
+    **报名时间** : 2024年04月16日 08:00 - 2024年04月19日 08:00  
+    **比赛时间** : 2024年04月19日 08:00 - 2024年04月21日 19:00  
+    **其他说明** : QQ群：710672599  
+    
 ??? Quote "第十七届全国大学生信息安全竞赛 - 作品赛"  
     **比赛名称** : [第十七届全国大学生信息安全竞赛 - 作品赛](http://www.ciscn.cn/competition/securityCompetition?compet_id=39)  
     **比赛类型** : 作品赛  
@@ -50,15 +57,6 @@ comments: true
 
 ## 国际赛事
 
-??? Quote "[Incognito 5.0](https://ictf5.ninja/)"  
-    [![](https://ctftime.org/media/events/lo.png){ width="200" align=left }](https://ictf5.ninja/)  
-    **比赛名称** : [Incognito 5.0](https://ictf5.ninja/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-04-16 18:00:00 - 2024-04-17 06:00:00 UTC+8  
-    **比赛权重** : 21.95  
-    **赛事主办** : Byt3Scr4pp3rs (https://ctftime.org/team/57772)  
-    **添加日历** : https://ctftime.org/event/2316.ics  
-    
 ??? Quote "[SpartanCTF 2024](https://spartan.ctfd.io/)"  
     [![](https://ctftime.org/media/events/zdc_emblem.png){ width="200" align=left }](https://spartan.ctfd.io/)  
     **比赛名称** : [SpartanCTF 2024](https://spartan.ctfd.io/)  
@@ -67,15 +65,6 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : Zero Day Club (https://ctftime.org/team/286318)  
     **添加日历** : https://ctftime.org/event/2313.ics  
-    
-??? Quote "[D^3CTF 2024](https://d3c.tf/)"  
-    [![](https://ctftime.org/media/events/ddd.png){ width="200" align=left }](https://d3c.tf/)  
-    **比赛名称** : [D^3CTF 2024](https://d3c.tf/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-04-19 20:00:00 - 2024-04-21 20:00:00 UTC+8  
-    **比赛权重** : 39.40  
-    **赛事主办** : D^3CTF Organizers (https://ctftime.org/team/91096)  
-    **添加日历** : https://ctftime.org/event/2276.ics  
     
 ??? Quote "[CTF@CIT 2024](https://ctf.cyber-cit.club/)"  
     [![](https://ctftime.org/media/events/CTF-CIT-ctftime.png){ width="200" align=left }](https://ctf.cyber-cit.club/)  
@@ -162,7 +151,7 @@ comments: true
     [![](https://ctftime.org){ width="200" align=left }](https://insomnihack.ch/contests/)  
     **比赛名称** : [Insomni'hack 2024](https://insomnihack.ch/contests/)  
     **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-04-27 02:00:00 - 2024-04-27 13:00:00 UTC+8  
+    **比赛时间** : 2024-04-27 00:30:00 - 2024-04-27 11:00:00 UTC+8  
     **比赛权重** : 33.40  
     **赛事主办** : Insomni'hack Team (https://ctftime.org/team/104742)  
     **添加日历** : https://ctftime.org/event/2271.ics  
