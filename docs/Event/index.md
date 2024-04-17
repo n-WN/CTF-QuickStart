@@ -365,15 +365,6 @@ hide:
                 **其他说明** : QQ群：810961465  
                 
         === "国外赛事"
-            ??? Quote "[SpartanCTF 2024](https://spartan.ctfd.io/)"  
-                [![](https://ctftime.org/media/events/zdc_emblem.png){ width="200" align=left }](https://spartan.ctfd.io/)  
-                **比赛名称** : [SpartanCTF 2024](https://spartan.ctfd.io/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-04-18 00:00:00 - 2024-04-22 13:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : Zero Day Club (https://ctftime.org/team/286318)  
-                **添加日历** : https://ctftime.org/event/2313.ics  
-                
             ??? Quote "[CTF@CIT 2024](https://ctf.cyber-cit.club/)"  
                 [![](https://ctftime.org/media/events/CTF-CIT-ctftime.png){ width="200" align=left }](https://ctf.cyber-cit.club/)  
                 **比赛名称** : [CTF@CIT 2024](https://ctf.cyber-cit.club/)  
@@ -906,6 +897,15 @@ hide:
                 **赛事主办** : Exherbo GNU/Linux (https://ctftime.org/team/275214)  
                 **添加日历** : https://ctftime.org/event/2178.ics  
                 
+            ??? Quote "[SpartanCTF 2024](https://spartan.ctfd.io/)"  
+                [![](https://ctftime.org/media/events/zdc_emblem.png){ width="200" align=left }](https://spartan.ctfd.io/)  
+                **比赛名称** : [SpartanCTF 2024](https://spartan.ctfd.io/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-04-18 00:00:00 - 2024-04-22 13:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : Zero Day Club (https://ctftime.org/team/286318)  
+                **添加日历** : https://ctftime.org/event/2313.ics  
+                
     === "*已经结束*"
         === "国内赛事"
             ??? Quote "[第四届红明谷杯（初赛）](https://www.sm.gov.cn/inc/hgbm/)"  
@@ -984,13 +984,6 @@ hide:
                 **报名时间** : 2024年01月11日 14:00 - 2024年02月18日 09:00  
                 **比赛时间** : 2024年02月16日 09:00 - 2024年02月18日 18:00  
                 **其他说明** : 比赛QQ群：737732413  本次比赛采用CTF赛制，题目难度两级分化，无论是刚刚入门的萌新还是轻车熟路的大神，都可以快速找到属于你的比赛乐趣哦~  
-                
-            ??? Quote "[VNCTF 2024](https://vnctf2024.manqiu.top/)"  
-                **比赛名称** : [VNCTF 2024](https://vnctf2024.manqiu.top/)  
-                **比赛类型** : 个人赛  
-                **报名时间** : 2023年02月18日 21:00 - 2024年02月17日 20:00  
-                **比赛时间** : 2024年02月17日 08:00 - 2024年02月17日 20:00  
-                **其他说明** : V&N 联合战队招新赛，赛事QQ群：717513199  
                 
         === "国外赛事"
             ??? Quote "[Incognito 5.0](https://ictf5.ninja/)"  
