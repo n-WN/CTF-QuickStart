@@ -83,41 +83,41 @@ hide:
             **其他说明** : QQ群:619577692 / 852601317 邮箱:iscc2004@163.com  
                 
     === "国外比赛"
-        ??? Quote "[CPCTF 2024](https://cpctf.space/)"  
-            [![](https://ctftime.org/media/events/624f1650cfdb45fb857a62b9304d4a1c.png){ width="200" align=left }](https://cpctf.space/)  
-            **比赛名称** : [CPCTF 2024](https://cpctf.space/)  
+        ??? Quote "[Midnight Sun CTF 2024 Quals](https://midnightsunctf.com/)"  
+            [![](https://ctftime.org/media/events/midnight.png){ width="200" align=left }](https://midnightsunctf.com/)  
+            **比赛名称** : [Midnight Sun CTF 2024 Quals](https://midnightsunctf.com/)  
             **比赛形式** : Jeopardy  
-            **比赛时间** : 2024-04-20 09:00:00 - 2024-04-21 15:00:00 UTC+8  
-            **比赛权重** : 0  
-            **赛事主办** : traP (https://ctftime.org/team/62510)  
-            **添加日历** : https://ctftime.org/event/2338.ics  
+            **比赛时间** : 2024-04-20 18:00:00 - 2024-04-21 18:00:00 UTC+8  
+            **比赛权重** : 35.74  
+            **赛事主办** : HackingForSoju (https://ctftime.org/team/3208)  
+            **添加日历** : https://ctftime.org/event/2247.ics  
             
-        ??? Quote "[AVSS Contest 2024](https://avss.geekcon.top/)"  
-            [![](https://ctftime.org/media/events/AVSS.png){ width="200" align=left }](https://avss.geekcon.top/)  
-            **比赛名称** : [AVSS Contest 2024](https://avss.geekcon.top/)  
+        ??? Quote "[Challenge the Cyber - Cyber Chef](https://challengethecyber.nl/)"  
+            [![](https://ctftime.org/media/events/12e936bf3a5de410fc3506bfdffb608a.jpg){ width="200" align=left }](https://challengethecyber.nl/)  
+            **比赛名称** : [Challenge the Cyber - Cyber Chef](https://challengethecyber.nl/)  
             **比赛形式** : Jeopardy  
-            **比赛时间** : 2024-04-20 10:00:00 - 2024-04-22 10:00:00 UTC+8  
+            **比赛时间** : 2024-04-20 19:00:00 - 2024-04-21 01:00:00 UTC+8  
             **比赛权重** : 0.00  
-            **赛事主办** : GEEKCON (https://ctftime.org/team/255059)  
-            **添加日历** : https://ctftime.org/event/2335.ics  
+            **赛事主办** : Challenge the Cyber (https://ctftime.org/team/181210)  
+            **添加日历** : https://ctftime.org/event/2277.ics  
             
-        ??? Quote "[Grey Cat The Flag 2024 Qualifiers](https://ctf.nusgreyhats.org/)"  
-            [![](https://ctftime.org){ width="200" align=left }](https://ctf.nusgreyhats.org/)  
-            **比赛名称** : [Grey Cat The Flag 2024 Qualifiers](https://ctf.nusgreyhats.org/)  
+        ??? Quote "[cr3 CTF 2024](https://cr3c.tf/)"  
+            [![](https://ctftime.org/media/events/cr3ctf_2024.png){ width="200" align=left }](https://cr3c.tf/)  
+            **比赛名称** : [cr3 CTF 2024](https://cr3c.tf/)  
             **比赛形式** : Jeopardy  
-            **比赛时间** : 2024-04-20 12:00:00 - 2024-04-21 12:00:00 UTC+8  
-            **比赛权重** : 22.46  
-            **赛事主办** : NUSGreyhats (https://ctftime.org/team/16740)  
-            **添加日历** : https://ctftime.org/event/2242.ics  
-            
-        ??? Quote "[Nexus Elites CTF](https://nexusctf.ycfteam.in/)"  
-            [![](https://ctftime.org/media/events/CTF_logo.jpg){ width="200" align=left }](https://nexusctf.ycfteam.in/)  
-            **比赛名称** : [Nexus Elites CTF](https://nexusctf.ycfteam.in/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2024-04-20 12:00:00 - 2024-04-21 12:00:00 UTC+8  
+            **比赛时间** : 2024-04-26 21:00:00 - 2024-04-28 09:00:00 UTC+8  
             **比赛权重** : 0.00  
-            **赛事主办** : YCF (https://ctftime.org/team/179685)  
-            **添加日历** : https://ctftime.org/event/2331.ics  
+            **赛事主办** : cr3.mov (https://ctftime.org/team/242101)  
+            **添加日历** : https://ctftime.org/event/2288.ics  
+            
+        ??? Quote "[Insomni'hack 2024](https://insomnihack.ch/contests/)"  
+            [![](https://ctftime.org){ width="200" align=left }](https://insomnihack.ch/contests/)  
+            **比赛名称** : [Insomni'hack 2024](https://insomnihack.ch/contests/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2024-04-27 00:30:00 - 2024-04-27 11:00:00 UTC+8  
+            **比赛权重** : 33.40  
+            **赛事主办** : Insomni'hack Team (https://ctftime.org/team/104742)  
+            **添加日历** : https://ctftime.org/event/2271.ics  
             
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](./Event/)
