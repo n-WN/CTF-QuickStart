@@ -40,34 +40,9 @@ comments: true
     **比赛时间** : 2024年05月01日 00:00 - 2024年05月02日 00:00  
     **其他说明** : 比赛时间未定  
     
-??? Quote "浙江警察学院平航杯电子数据取证比赛"  
-    **比赛名称** : [浙江警察学院平航杯电子数据取证比赛](https://mp.weixin.qq.com/s/ImWNs003Xsh-lruhC_addQ)  
-    **比赛类型** : 团队赛|1-3人  
-    **报名时间** : 2024年04月05日 12:00 - 2024年04月15日 12:00  
-    **比赛时间** : 2024年04月20日 14:00 - 2024年04月20日 18:00  
-    **其他说明** : QQ群：810961465  
-    
 
 ## 国际赛事
 
-??? Quote "[Midnight Sun CTF 2024 Quals](https://midnightsunctf.com/)"  
-    [![](https://ctftime.org/media/events/midnight.png){ width="200" align=left }](https://midnightsunctf.com/)  
-    **比赛名称** : [Midnight Sun CTF 2024 Quals](https://midnightsunctf.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-04-20 18:00:00 - 2024-04-21 18:00:00 UTC+8  
-    **比赛权重** : 35.74  
-    **赛事主办** : HackingForSoju (https://ctftime.org/team/3208)  
-    **添加日历** : https://ctftime.org/event/2247.ics  
-    
-??? Quote "[Challenge the Cyber - Cyber Chef](https://challengethecyber.nl/)"  
-    [![](https://ctftime.org/media/events/12e936bf3a5de410fc3506bfdffb608a.jpg){ width="200" align=left }](https://challengethecyber.nl/)  
-    **比赛名称** : [Challenge the Cyber - Cyber Chef](https://challengethecyber.nl/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-04-20 19:00:00 - 2024-04-21 01:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : Challenge the Cyber (https://ctftime.org/team/181210)  
-    **添加日历** : https://ctftime.org/event/2277.ics  
-    
 ??? Quote "[cr3 CTF 2024](https://cr3c.tf/)"  
     [![](https://ctftime.org/media/events/cr3ctf_2024.png){ width="200" align=left }](https://cr3c.tf/)  
     **比赛名称** : [cr3 CTF 2024](https://cr3c.tf/)  
