@@ -801,13 +801,6 @@ hide:
                 **比赛时间** : 2024年04月19日 20:00 - 2024年04月21日 20:00  
                 **其他说明** : QQ群：317828357  
                 
-            ??? Quote "[第一届“帕鲁杯”CTF应急响应挑战赛](https://paluctf.runctf.cn/)"  
-                **比赛名称** : [第一届“帕鲁杯”CTF应急响应挑战赛](https://paluctf.runctf.cn/)  
-                **比赛类型** : 团体赛1-4人  
-                **报名时间** : 2024年04月16日 08:00 - 2024年04月19日 08:00  
-                **比赛时间** : 2024年04月19日 08:00 - 2024年04月21日 19:00  
-                **其他说明** : QQ群：710672599  
-                
             ??? Quote "[XYCTF高校新生联合赛 2024](https://www.xyctf.top/)"  
                 **比赛名称** : [XYCTF高校新生联合赛 2024](https://www.xyctf.top/)  
                 **比赛类型** : 团队赛 | 1-3人  
@@ -852,15 +845,6 @@ hide:
                 **赛事主办** : SavedByTheShell (https://ctftime.org/team/78233)  
                 **添加日历** : https://ctftime.org/event/2287.ics  
                 
-            ??? Quote "[CPCTF 2024](https://cpctf.space/)"  
-                [![](https://ctftime.org/media/events/624f1650cfdb45fb857a62b9304d4a1c.png){ width="200" align=left }](https://cpctf.space/)  
-                **比赛名称** : [CPCTF 2024](https://cpctf.space/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-04-20 09:00:00 - 2024-04-21 15:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : traP (https://ctftime.org/team/62510)  
-                **添加日历** : https://ctftime.org/event/2338.ics  
-                
             ??? Quote "[AVSS Contest 2024](https://avss.geekcon.top/)"  
                 [![](https://ctftime.org/media/events/AVSS.png){ width="200" align=left }](https://avss.geekcon.top/)  
                 **比赛名称** : [AVSS Contest 2024](https://avss.geekcon.top/)  
@@ -870,17 +854,15 @@ hide:
                 **赛事主办** : GEEKCON (https://ctftime.org/team/255059)  
                 **添加日历** : https://ctftime.org/event/2335.ics  
                 
-            ??? Quote "[Midnight Sun CTF 2024 Quals](https://midnightsunctf.com/)"  
-                [![](https://ctftime.org/media/events/midnight.png){ width="200" align=left }](https://midnightsunctf.com/)  
-                **比赛名称** : [Midnight Sun CTF 2024 Quals](https://midnightsunctf.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-04-20 18:00:00 - 2024-04-21 18:00:00 UTC+8  
-                **比赛权重** : 35.74  
-                **赛事主办** : HackingForSoju (https://ctftime.org/team/3208)  
-                **添加日历** : https://ctftime.org/event/2247.ics  
-                
     === "*已经结束*"
         === "国内赛事"
+            ??? Quote "[第一届“帕鲁杯”CTF应急响应挑战赛](https://paluctf.runctf.cn/)"  
+                **比赛名称** : [第一届“帕鲁杯”CTF应急响应挑战赛](https://paluctf.runctf.cn/)  
+                **比赛类型** : 团体赛1-4人  
+                **报名时间** : 2024年04月16日 08:00 - 2024年04月19日 08:00  
+                **比赛时间** : 2024年04月19日 08:00 - 2024年04月21日 19:00  
+                **其他说明** : QQ群：710672599  
+                
             ??? Quote "[浙江警察学院平航杯电子数据取证比赛](https://mp.weixin.qq.com/s/ImWNs003Xsh-lruhC_addQ)"  
                 **比赛名称** : [浙江警察学院平航杯电子数据取证比赛](https://mp.weixin.qq.com/s/ImWNs003Xsh-lruhC_addQ)  
                 **比赛类型** : 团队赛|1-3人  
@@ -968,6 +950,15 @@ hide:
                 **赛事主办** : Challenge the Cyber (https://ctftime.org/team/181210)  
                 **添加日历** : https://ctftime.org/event/2277.ics  
                 
+            ??? Quote "[Midnight Sun CTF 2024 Quals](https://midnightsunctf.com/)"  
+                [![](https://ctftime.org/media/events/midnight.png){ width="200" align=left }](https://midnightsunctf.com/)  
+                **比赛名称** : [Midnight Sun CTF 2024 Quals](https://midnightsunctf.com/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-04-20 18:00:00 - 2024-04-21 18:00:00 UTC+8  
+                **比赛权重** : 35.74  
+                **赛事主办** : HackingForSoju (https://ctftime.org/team/3208)  
+                **添加日历** : https://ctftime.org/event/2247.ics  
+                
             ??? Quote "[Grey Cat The Flag 2024 Qualifiers](https://ctf.nusgreyhats.org/)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://ctf.nusgreyhats.org/)  
                 **比赛名称** : [Grey Cat The Flag 2024 Qualifiers](https://ctf.nusgreyhats.org/)  
@@ -985,6 +976,15 @@ hide:
                 **比赛权重** : 0.00  
                 **赛事主办** : YCF (https://ctftime.org/team/179685)  
                 **添加日历** : https://ctftime.org/event/2331.ics  
+                
+            ??? Quote "[CPCTF 2024](https://cpctf.space/)"  
+                [![](https://ctftime.org/media/events/624f1650cfdb45fb857a62b9304d4a1c.png){ width="200" align=left }](https://cpctf.space/)  
+                **比赛名称** : [CPCTF 2024](https://cpctf.space/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-04-20 09:00:00 - 2024-04-21 15:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : traP (https://ctftime.org/team/62510)  
+                **添加日历** : https://ctftime.org/event/2338.ics  
                 
             ??? Quote "[Incognito 5.0](https://ictf5.ninja/)"  
                 [![](https://ctftime.org/media/events/lo.png){ width="200" align=left }](https://ictf5.ninja/)  
@@ -1840,24 +1840,6 @@ hide:
                 **比赛权重** : 6.67  
                 **赛事主办** : UAC (https://ctftime.org/team/140846)  
                 **添加日历** : https://ctftime.org/event/2099.ics  
-                
-            ??? Quote "[IWCON CTF](https://iwcon.live/ctf)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://iwcon.live/ctf)  
-                **比赛名称** : [IWCON CTF](https://iwcon.live/ctf)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2023-12-14 18:26:53 - 2023-12-15 18:26:53 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : IWCON (https://ctftime.org/team/277281)  
-                **添加日历** : https://ctftime.org/event/2214.ics  
-                
-            ??? Quote "[Intent CTF 2023](https://intentsummit.org/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://intentsummit.org/)  
-                **比赛名称** : [Intent CTF 2023](https://intentsummit.org/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2023-12-13 16:30:00 - 2023-12-15 16:30:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : Security Research Summit (SRS) (https://ctftime.org/team/163107)  
-                **添加日历** : https://ctftime.org/event/2130.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
