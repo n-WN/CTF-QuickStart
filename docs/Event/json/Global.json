@@ -600,30 +600,6 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "SpartanCTF 2024",
-        "比赛时间": "2024-04-18 00:00:00 - 2024-04-22 13:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2313.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://spartan.ctfd.io/",
-        "比赛标志": "https://ctftime.org/media/events/zdc_emblem.png",
-        "比赛权重": "0.00",
-        "赛事主办": "Zero Day Club (https://ctftime.org/team/286318)",
-        "比赛ID": "1089",
-        "比赛状态": "nowrunning"
-    },
-    {
-        "比赛名称": "AVSS Contest 2024",
-        "比赛时间": "2024-04-20 10:00:00 - 2024-04-22 10:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2335.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://avss.geekcon.top/",
-        "比赛标志": "https://ctftime.org/media/events/AVSS.png",
-        "比赛权重": "0.00",
-        "赛事主办": "GEEKCON (https://ctftime.org/team/255059)",
-        "比赛ID": "976",
-        "比赛状态": "nowrunning"
-    },
-    {
         "比赛名称": "Challenge the Cyber - Cyber Chef",
         "比赛时间": "2024-04-20 19:00:00 - 2024-04-21 01:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2277.ics",
@@ -672,6 +648,18 @@
         "比赛状态": "past"
     },
     {
+        "比赛名称": "AVSS Contest 2024",
+        "比赛时间": "2024-04-20 10:00:00 - 2024-04-22 10:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2335.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://avss.geekcon.top/",
+        "比赛标志": "https://ctftime.org/media/events/AVSS.png",
+        "比赛权重": "0.00",
+        "赛事主办": "GEEKCON (https://ctftime.org/team/255059)",
+        "比赛ID": "976",
+        "比赛状态": "past"
+    },
+    {
         "比赛名称": "CPCTF 2024",
         "比赛时间": "2024-04-20 09:00:00 - 2024-04-21 15:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2338.ics",
@@ -705,6 +693,18 @@
         "比赛权重": "0",
         "赛事主办": "HACK@CIT (https://ctftime.org/team/287896)",
         "比赛ID": "1109",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "SpartanCTF 2024",
+        "比赛时间": "2024-04-18 00:00:00 - 2024-04-22 13:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2313.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://spartan.ctfd.io/",
+        "比赛标志": "https://ctftime.org/media/events/zdc_emblem.png",
+        "比赛权重": "0.00",
+        "赛事主办": "Zero Day Club (https://ctftime.org/team/286318)",
+        "比赛ID": "1089",
         "比赛状态": "past"
     },
     {
@@ -1326,7 +1326,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://www.osugaming.lol/",
         "比赛标志": "https://ctftime.org/media/events/unknown_1.png",
-        "比赛权重": "23.89",
+        "比赛权重": "23.91",
         "赛事主办": "osu!gaming (https://ctftime.org/team/186954)",
         "比赛ID": "998",
         "比赛状态": "past"
@@ -1797,30 +1797,6 @@
         "比赛权重": "34.00",
         "赛事主办": "InfoSecIITR (https://ctftime.org/team/16691)",
         "比赛ID": "49",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "DiceCTF Teaser 2023",
-        "比赛时间": "2023-12-16 05:00:00 - 2023-12-17 05:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2162.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.dicega.ng/",
-        "比赛标志": "https://ctftime.org",
-        "比赛权重": "0.00",
-        "赛事主办": "DiceGang (https://ctftime.org/team/109452)",
-        "比赛ID": "331",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "Wargames.MY CTF 2023",
-        "比赛时间": "2023-12-16 00:00:00 - 2023-12-17 00:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2203.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://pro2023.wargames.my/",
-        "比赛标志": "https://ctftime.org/media/events/wgmy2023_logo.png",
-        "比赛权重": "0.00",
-        "赛事主办": "Wargames.MY (https://ctftime.org/team/86069)",
-        "比赛ID": "1038",
         "比赛状态": "past"
     }
 ]
