@@ -6,7 +6,7 @@ comments: true
 ## 国内赛事
 
 ??? Quote "H&NCTF"  
-    **比赛名称** : [H&NCTF](暂无)  
+    **比赛名称** : [H&NCTF](https://hnctf.imxbt.cn/)  
     **比赛类型** : 团队赛|1-4人  
     **报名时间** : 2024年5月10日 8:00 - 2024年5月13日 18:00  
     **比赛时间** : 2024年5月12日 8:00 - 2024年5月13日 18:00  
@@ -552,7 +552,7 @@ comments: true
     **比赛名称** : [ASIS CTF Quals 2024](https://asisctf.com/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2024-09-21 22:00:00 - 2024-09-22 22:00:00 UTC+8  
-    **比赛权重** : 0.00  
+    **比赛权重** : 66.25  
     **赛事主办** : ASIS (https://ctftime.org/team/4140)  
     **添加日历** : https://ctftime.org/event/2211.ics  
     
