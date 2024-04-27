@@ -60,3 +60,21 @@ comments: true
     **赛事主办** : Insomni'hack Team (https://ctftime.org/team/104742)  
     **添加日历** : https://ctftime.org/event/2271.ics  
     
+??? Quote "[SpringForwardCTF](https://springforward.ctfd.io/)"  
+    [![](https://ctftime.org/media/events/NICC-2-green.png){ width="200" align=left }](https://springforward.ctfd.io/)  
+    **比赛名称** : [SpringForwardCTF](https://springforward.ctfd.io/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-04-27 05:00:00 - 2024-04-29 05:00:00 UTC+8  
+    **比赛权重** : 22.40  
+    **赛事主办** : G1tc_Gu4rdians (https://ctftime.org/team/202828)  
+    **添加日历** : https://ctftime.org/event/2348.ics  
+    
+??? Quote "[UMDCTF 2024](https://umdctf.io/)"  
+    [![](https://ctftime.org/media/events/logo_95.png){ width="200" align=left }](https://umdctf.io/)  
+    **比赛名称** : [UMDCTF 2024](https://umdctf.io/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-04-27 06:00:00 - 2024-04-29 06:00:00 UTC+8  
+    **比赛权重** : 48.92  
+    **赛事主办** : UMDCSEC (https://ctftime.org/team/87711)  
+    **添加日历** : https://ctftime.org/event/2323.ics  
+    
