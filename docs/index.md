@@ -83,18 +83,9 @@ hide:
             **其他说明** : QQ群：733181790  
                 
     === "国外比赛"
-        ??? Quote "[AirOverflow CTF - 2024](https://ctf.airoverflow.com/)"  
-            [![](https://ctftime.org/media/events/Cropped_-_No_Name.png){ width="200" align=left }](https://ctf.airoverflow.com/)  
-            **比赛名称** : [AirOverflow CTF - 2024](https://ctf.airoverflow.com/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2024-04-27 20:00:00 - 2024-04-29 04:00:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : AirOverFlow (https://ctftime.org/team/140448)  
-            **添加日历** : https://ctftime.org/event/2360.ics  
-            
-        ??? Quote "[Midnight Flag - Operation BACKSLASH]()"  
-            [![](https://ctftime.org/media/events/logo-3848x3084-upscaled.png){ width="200" align=left }]()  
-            **比赛名称** : [Midnight Flag - Operation BACKSLASH]()  
+        ??? Quote "[Midnight Flag - Operation BACKSLASH](https://ctfd.midnightflag.fr/)"  
+            [![](https://ctftime.org/media/events/logo-3848x3084-upscaled.png){ width="200" align=left }](https://ctfd.midnightflag.fr/)  
+            **比赛名称** : [Midnight Flag - Operation BACKSLASH](https://ctfd.midnightflag.fr/)  
             **比赛形式** : Jeopardy  
             **比赛时间** : 2024-04-28 04:00:00 - 2024-04-28 15:00:00 UTC+8  
             **比赛权重** : 37.00  
@@ -118,6 +109,15 @@ hide:
             **比赛权重** : 20.95  
             **赛事主办** : Codeby Games (https://ctftime.org/team/299486)  
             **添加日历** : https://ctftime.org/event/2341.ics  
+            
+        ??? Quote "[MireaCTF Quals 2024](https://spring.mireactf.ru/)"  
+            [![](https://ctftime.org/media/events/image_2024-04-26_00-28-23.png){ width="200" align=left }](https://spring.mireactf.ru/)  
+            **比赛名称** : [MireaCTF Quals 2024](https://spring.mireactf.ru/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2024-05-01 16:00:00 - 2024-05-02 00:00:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : cR4.sh (https://ctftime.org/team/224675)  
+            **添加日历** : https://ctftime.org/event/2367.ics  
             
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](./Event/)

@@ -43,18 +43,9 @@ comments: true
 
 ## 国际赛事
 
-??? Quote "[AirOverflow CTF - 2024](https://ctf.airoverflow.com/)"  
-    [![](https://ctftime.org/media/events/Cropped_-_No_Name.png){ width="200" align=left }](https://ctf.airoverflow.com/)  
-    **比赛名称** : [AirOverflow CTF - 2024](https://ctf.airoverflow.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-04-27 20:00:00 - 2024-04-29 04:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : AirOverFlow (https://ctftime.org/team/140448)  
-    **添加日历** : https://ctftime.org/event/2360.ics  
-    
-??? Quote "[Midnight Flag - Operation BACKSLASH]()"  
-    [![](https://ctftime.org/media/events/logo-3848x3084-upscaled.png){ width="200" align=left }]()  
-    **比赛名称** : [Midnight Flag - Operation BACKSLASH]()  
+??? Quote "[Midnight Flag - Operation BACKSLASH](https://ctfd.midnightflag.fr/)"  
+    [![](https://ctftime.org/media/events/logo-3848x3084-upscaled.png){ width="200" align=left }](https://ctfd.midnightflag.fr/)  
+    **比赛名称** : [Midnight Flag - Operation BACKSLASH](https://ctfd.midnightflag.fr/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2024-04-28 04:00:00 - 2024-04-28 15:00:00 UTC+8  
     **比赛权重** : 37.00  
@@ -78,6 +69,15 @@ comments: true
     **比赛权重** : 20.95  
     **赛事主办** : Codeby Games (https://ctftime.org/team/299486)  
     **添加日历** : https://ctftime.org/event/2341.ics  
+    
+??? Quote "[MireaCTF Quals 2024](https://spring.mireactf.ru/)"  
+    [![](https://ctftime.org/media/events/image_2024-04-26_00-28-23.png){ width="200" align=left }](https://spring.mireactf.ru/)  
+    **比赛名称** : [MireaCTF Quals 2024](https://spring.mireactf.ru/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-05-01 16:00:00 - 2024-05-02 00:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : cR4.sh (https://ctftime.org/team/224675)  
+    **添加日历** : https://ctftime.org/event/2367.ics  
     
 ??? Quote "[LakeCTF Finals 23](https://lakectf.epfl.ch/)"  
     [![](https://ctftime.org/media/events/lakeCTFLogo.png){ width="200" align=left }](https://lakectf.epfl.ch/)  
@@ -114,6 +114,15 @@ comments: true
     **比赛权重** : 24.82  
     **赛事主办** : Punk Security (https://ctftime.org/team/212540)  
     **添加日历** : https://ctftime.org/event/2285.ics  
+    
+??? Quote "[MireaCTF Finals 2024](https://spring.mireactf.ru/)"  
+    [![](https://ctftime.org/media/events/image_2024-04-26_00-28-23_1.png){ width="200" align=left }](https://spring.mireactf.ru/)  
+    **比赛名称** : [MireaCTF Finals 2024](https://spring.mireactf.ru/)  
+    **比赛形式** : Attack-Defense  
+    **比赛时间** : 2024-05-10 16:00:00 - 2024-05-10 22:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : cR4.sh (https://ctftime.org/team/224675)  
+    **添加日历** : https://ctftime.org/event/2368.ics  
     
 ??? Quote "[RPCA CTF 2024](https://ctf.rpca.ac.th/)"  
     [![](https://ctftime.org/media/events/RPCACTF2024-Logo_page-0001.jpg){ width="200" align=left }](https://ctf.rpca.ac.th/)  
@@ -240,6 +249,15 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : Hacky'Nov (https://ctftime.org/team/178939)  
     **添加日历** : https://ctftime.org/event/2319.ics  
+    
+??? Quote "[NahamCon CTF 2024](https://ctf.nahamcon.com/)"  
+    [![](https://ctftime.org/media/events/NAHAMCON-LOGO_BRANDING_D3_A1_1.png){ width="200" align=left }](https://ctf.nahamcon.com/)  
+    **比赛名称** : [NahamCon CTF 2024](https://ctf.nahamcon.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-05-24 04:00:00 - 2024-05-26 04:00:00 UTC+8  
+    **比赛权重** : 41.61  
+    **赛事主办** : JustHacking (https://ctftime.org/team/59573)  
+    **添加日历** : https://ctftime.org/event/2364.ics  
     
 ??? Quote "[L3akCTF 2024](https://ctf.l3ak.team/)"  
     [![](https://ctftime.org/media/events/ctf_final.png){ width="200" align=left }](https://ctf.l3ak.team/)  
@@ -393,6 +411,15 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : NUSGreyhats (https://ctftime.org/team/16740)  
     **添加日历** : https://ctftime.org/event/2244.ics  
+    
+??? Quote "[CyberSci Nationals 2024](https://cybersecuritychallenge.ca/)"  
+    [![](https://ctftime.org/media/events/c0c445488770d1de63c46986bc92e8e6.png){ width="200" align=left }](https://cybersecuritychallenge.ca/)  
+    **比赛名称** : [CyberSci Nationals 2024](https://cybersecuritychallenge.ca/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-06-21 20:00:00 - 2024-06-23 06:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : CyberSciOrganizers (https://ctftime.org/team/157536)  
+    **添加日历** : https://ctftime.org/event/2366.ics  
     
 ??? Quote "[Google Capture The Flag 2024](https://g.co/ctf)"  
     [![](https://ctftime.org){ width="200" align=left }](https://g.co/ctf)  
