@@ -344,24 +344,6 @@ hide:
                 **其他说明** : 比赛时间未定  
                 
         === "国外赛事"
-            ??? Quote "[HACKTHEON SEJONG 2024 Preliminaries](https://hacktheon.org/)"  
-                [![](https://ctftime.org/media/events/CTF_2024.JPG){ width="200" align=left }](https://hacktheon.org/)  
-                **比赛名称** : [HACKTHEON SEJONG 2024 Preliminaries](https://hacktheon.org/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-04-27 08:00:00 - 2024-04-27 17:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : Sejong City Hall (https://ctftime.org/team/214900)  
-                **添加日历** : https://ctftime.org/event/2286.ics  
-                
-            ??? Quote "[Dreamhack Invitational Quals 2024](https://dreamhack.io/ctf/518/)"  
-                [![](https://ctftime.org/media/events/_mini_round_light2x.png){ width="200" align=left }](https://dreamhack.io/ctf/518/)  
-                **比赛名称** : [Dreamhack Invitational Quals 2024](https://dreamhack.io/ctf/518/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-04-27 08:00:00 - 2024-04-28 08:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : Theori (https://ctftime.org/team/250867)  
-                **添加日历** : https://ctftime.org/event/2308.ics  
-                
             ??? Quote "[UrchinSec Tanzania National CTF MMXXIV](https://ctf.urchinsec.com/)"  
                 [![](https://ctftime.org/media/events/TkH-DDqG_400x400.png){ width="200" align=left }](https://ctf.urchinsec.com/)  
                 **比赛名称** : [UrchinSec Tanzania National CTF MMXXIV](https://ctf.urchinsec.com/)  
@@ -939,15 +921,6 @@ hide:
                 **赛事主办** : cr3.mov (https://ctftime.org/team/242101)  
                 **添加日历** : https://ctftime.org/event/2288.ics  
                 
-            ??? Quote "[Insomni'hack 2024](https://insomnihack.ch/contests/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://insomnihack.ch/contests/)  
-                **比赛名称** : [Insomni'hack 2024](https://insomnihack.ch/contests/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-04-27 00:30:00 - 2024-04-27 11:00:00 UTC+8  
-                **比赛权重** : 33.40  
-                **赛事主办** : Insomni'hack Team (https://ctftime.org/team/104742)  
-                **添加日历** : https://ctftime.org/event/2271.ics  
-                
             ??? Quote "[SpringForwardCTF](https://springforward.ctfd.io/)"  
                 [![](https://ctftime.org/media/events/NICC-2-green.png){ width="200" align=left }](https://springforward.ctfd.io/)  
                 **比赛名称** : [SpringForwardCTF](https://springforward.ctfd.io/)  
@@ -965,6 +938,24 @@ hide:
                 **比赛权重** : 48.92  
                 **赛事主办** : UMDCSEC (https://ctftime.org/team/87711)  
                 **添加日历** : https://ctftime.org/event/2323.ics  
+                
+            ??? Quote "[HACKTHEON SEJONG 2024 Preliminaries](https://hacktheon.org/)"  
+                [![](https://ctftime.org/media/events/CTF_2024.JPG){ width="200" align=left }](https://hacktheon.org/)  
+                **比赛名称** : [HACKTHEON SEJONG 2024 Preliminaries](https://hacktheon.org/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-04-27 08:00:00 - 2024-04-27 17:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : Sejong City Hall (https://ctftime.org/team/214900)  
+                **添加日历** : https://ctftime.org/event/2286.ics  
+                
+            ??? Quote "[Dreamhack Invitational Quals 2024](https://dreamhack.io/ctf/518/)"  
+                [![](https://ctftime.org/media/events/_mini_round_light2x.png){ width="200" align=left }](https://dreamhack.io/ctf/518/)  
+                **比赛名称** : [Dreamhack Invitational Quals 2024](https://dreamhack.io/ctf/518/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-04-27 08:00:00 - 2024-04-28 08:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : Theori (https://ctftime.org/team/250867)  
+                **添加日历** : https://ctftime.org/event/2308.ics  
                 
     === "*已经结束*"
         === "国内赛事"
@@ -1067,6 +1058,15 @@ hide:
                 **其他说明** : QQ群：134591168   适合新手参加  
                 
         === "国外赛事"
+            ??? Quote "[Insomni'hack 2024](https://insomnihack.ch/contests/)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://insomnihack.ch/contests/)  
+                **比赛名称** : [Insomni'hack 2024](https://insomnihack.ch/contests/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-04-27 00:30:00 - 2024-04-27 11:00:00 UTC+8  
+                **比赛权重** : 33.40  
+                **赛事主办** : Insomni'hack Team (https://ctftime.org/team/104742)  
+                **添加日历** : https://ctftime.org/event/2271.ics  
+                
             ??? Quote "[Kernel Kombat](http://18.206.160.227/)"  
                 [![](https://ctftime.org/media/events/jeclat.png){ width="200" align=left }](http://18.206.160.227/)  
                 **比赛名称** : [Kernel Kombat](http://18.206.160.227/)  
@@ -1957,15 +1957,6 @@ hide:
                 **比赛权重** : 0.00  
                 **赛事主办** : SECCON CTF (https://ctftime.org/team/11918)  
                 **添加日历** : https://ctftime.org/event/2160.ics  
-                
-            ??? Quote "[SECCON CTF 2023 International Finals](https://ctf.seccon.jp/)"  
-                [![](https://ctftime.org/media/events/seccon_s_5.png){ width="200" align=left }](https://ctf.seccon.jp/)  
-                **比赛名称** : [SECCON CTF 2023 International Finals](https://ctf.seccon.jp/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2023-12-23 09:00:00 - 2023-12-24 17:00:00 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : SECCON CTF (https://ctftime.org/team/11918)  
-                **添加日历** : https://ctftime.org/event/2159.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
