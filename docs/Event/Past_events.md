@@ -98,6 +98,24 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[CyberSphere CTF](https://securinets.tn/)"  
+    [![](https://ctftime.org){ width="200" align=left }](https://securinets.tn/)  
+    **比赛名称** : [CyberSphere CTF](https://securinets.tn/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-04-28 05:00:00 - 2024-04-28 17:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : Securinets (https://ctftime.org/team/5084)  
+    **添加日历** : https://ctftime.org/event/2328.ics  
+    
+??? Quote "[Midnight Flag - Operation BACKSLASH](https://ctfd.midnightflag.fr/)"  
+    [![](https://ctftime.org/media/events/logo-3848x3084-upscaled.png){ width="200" align=left }](https://ctfd.midnightflag.fr/)  
+    **比赛名称** : [Midnight Flag - Operation BACKSLASH](https://ctfd.midnightflag.fr/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-04-28 04:00:00 - 2024-04-28 15:00:00 UTC+8  
+    **比赛权重** : 37.00  
+    **赛事主办** : Midnight Flag (https://ctftime.org/team/179110)  
+    **添加日历** : https://ctftime.org/event/2295.ics  
+    
 ??? Quote "[HACKTHEON SEJONG 2024 Preliminaries](https://hacktheon.org/)"  
     [![](https://ctftime.org/media/events/CTF_2024.JPG){ width="200" align=left }](https://hacktheon.org/)  
     **比赛名称** : [HACKTHEON SEJONG 2024 Preliminaries](https://hacktheon.org/)  
@@ -979,22 +997,4 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : ShaastraCTF2024 (https://ctftime.org/team/276568)  
     **添加日历** : https://ctftime.org/event/2220.ics  
-    
-??? Quote "[New Year CTF 2024](http://ctf-spcs.mf.grsu.by/)"  
-    [![](https://ctftime.org/media/events/logo_25_2.png){ width="200" align=left }](http://ctf-spcs.mf.grsu.by/)  
-    **比赛名称** : [New Year CTF 2024](http://ctf-spcs.mf.grsu.by/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2023-12-31 01:00:00 - 2024-01-15 05:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : Beavers0 (https://ctftime.org/team/269281)  
-    **添加日历** : https://ctftime.org/event/2218.ics  
-    
-??? Quote "[ASIS CTF Finals 2023](https://asisctf.com/)"  
-    [![](https://ctftime.org/media/events/asis_logo_512_2.png){ width="200" align=left }](https://asisctf.com/)  
-    **比赛名称** : [ASIS CTF Finals 2023](https://asisctf.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2023-12-29 22:30:00 - 2023-12-30 22:30:00 UTC+8  
-    **比赛权重** : 83.00  
-    **赛事主办** : ASIS (https://ctftime.org/team/4140)  
-    **添加日历** : https://ctftime.org/event/1953.ics  
     
