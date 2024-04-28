@@ -83,24 +83,6 @@ hide:
             **其他说明** : QQ群：733181790  
                 
     === "国外比赛"
-        ??? Quote "[Midnight Flag - Operation BACKSLASH](https://ctfd.midnightflag.fr/)"  
-            [![](https://ctftime.org/media/events/logo-3848x3084-upscaled.png){ width="200" align=left }](https://ctfd.midnightflag.fr/)  
-            **比赛名称** : [Midnight Flag - Operation BACKSLASH](https://ctfd.midnightflag.fr/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2024-04-28 04:00:00 - 2024-04-28 15:00:00 UTC+8  
-            **比赛权重** : 37.00  
-            **赛事主办** : Midnight Flag (https://ctftime.org/team/179110)  
-            **添加日历** : https://ctftime.org/event/2295.ics  
-            
-        ??? Quote "[CyberSphere CTF](https://securinets.tn/)"  
-            [![](https://ctftime.org){ width="200" align=left }](https://securinets.tn/)  
-            **比赛名称** : [CyberSphere CTF](https://securinets.tn/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2024-04-28 05:00:00 - 2024-04-28 17:00:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : Securinets (https://ctftime.org/team/5084)  
-            **添加日历** : https://ctftime.org/event/2328.ics  
-            
         ??? Quote "[Cybercoliseum Ⅲ](https://cybercoliseum.codeby.games/en)"  
             [![](https://ctftime.org/media/events/logo-cdb.png){ width="200" align=left }](https://cybercoliseum.codeby.games/en)  
             **比赛名称** : [Cybercoliseum Ⅲ](https://cybercoliseum.codeby.games/en)  
@@ -118,6 +100,24 @@ hide:
             **比赛权重** : 0.00  
             **赛事主办** : cR4.sh (https://ctftime.org/team/224675)  
             **添加日历** : https://ctftime.org/event/2367.ics  
+            
+        ??? Quote "[LakeCTF Finals 23](https://lakectf.epfl.ch/)"  
+            [![](https://ctftime.org/media/events/lakeCTFLogo.png){ width="200" align=left }](https://lakectf.epfl.ch/)  
+            **比赛名称** : [LakeCTF Finals 23](https://lakectf.epfl.ch/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2024-05-03 16:00:00 - 2024-05-04 00:00:00 UTC+8  
+            **比赛权重** : 36.00  
+            **赛事主办** : polygl0ts (https://ctftime.org/team/53791)  
+            **添加日历** : https://ctftime.org/event/2246.ics  
+            
+        ??? Quote "[BSidesSF 2024 CTF](https://ctf.bsidessf.net/)"  
+            [![](https://ctftime.org){ width="200" align=left }](https://ctf.bsidessf.net/)  
+            **比赛名称** : [BSidesSF 2024 CTF](https://ctf.bsidessf.net/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2024-05-04 08:00:00 - 2024-05-06 07:59:59 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : BSidesSF (https://ctftime.org/team/54737)  
+            **添加日历** : https://ctftime.org/event/2357.ics  
             
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](./Event/)
