@@ -285,6 +285,13 @@ hide:
             适度CTF益脑，沉迷CTF伤身。合理安排时间，享受健康生活。
     
     === "*正在报名*"
+        ??? Quote "[ISCC 2024](http://www.isclab.org.cn)"  
+            **比赛名称** : [ISCC 2024](http://www.isclab.org.cn)  
+            **比赛类型** : 个人赛 | 人脉  
+            **报名时间** : 2024年04月30日 08:00 - 2024年05月25日 08:00  
+            **比赛时间** : 2024年05月01日 08:00 - 2024年05月25日 08:00  
+            **其他说明** : QQ群:619577692 / 852601317 邮箱:iscc2004@163.com  
+            
         ??? Quote "[矩阵杯](https://matrixcup.net/page/race/home/)"  
             **比赛名称** : [矩阵杯](https://matrixcup.net/page/race/home/)  
             **比赛类型** : 团队赛|1-4人  
@@ -450,9 +457,9 @@ hide:
                 **赛事主办** : ECSC2024 (https://ctftime.org/team/283828)  
                 **添加日历** : https://ctftime.org/event/2355.ics  
                 
-            ??? Quote "[BYUCTF 2024](https://cyberjousting.com/)"  
-                [![](https://ctftime.org/media/events/cougar.jpg){ width="200" align=left }](https://cyberjousting.com/)  
-                **比赛名称** : [BYUCTF 2024](https://cyberjousting.com/)  
+            ??? Quote "[BYUCTF 2024](https://ctfd.cyberjousting.com/)"  
+                [![](https://ctftime.org/media/events/cougar.jpg){ width="200" align=left }](https://ctfd.cyberjousting.com/)  
+                **比赛名称** : [BYUCTF 2024](https://ctfd.cyberjousting.com/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2024-05-17 08:00:00 - 2024-05-19 08:00:00 UTC+8  
                 **比赛权重** : 30.75  
