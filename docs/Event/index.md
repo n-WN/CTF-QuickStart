@@ -350,13 +350,6 @@ hide:
                 **比赛时间** : 2024年04月10日 23:00 - 2024年06月05日 23:00  
                 **其他说明** : 作品赛，不提供更多信息，如有疑问请前往比赛通知页面 http://www.ciscn.cn/competition/securityCompetition?compet_id=39  
                 
-            ??? Quote "[第二届数据安全大赛暨首届“数信杯”数据安全大赛](https://shuxinbei.ichunqiu.com/)"  
-                **比赛名称** : [第二届数据安全大赛暨首届“数信杯”数据安全大赛](https://shuxinbei.ichunqiu.com/)  
-                **比赛类型** : 团队赛|1-3人  
-                **报名时间** : 2023年11月15日 00:00 - 2024年04月30日 00:00  
-                **比赛时间** : 2024年05月01日 00:00 - 2024年05月02日 00:00  
-                **其他说明** : 比赛时间未定  
-                
         === "国外赛事"
             ??? Quote "[MireaCTF Quals 2024](https://spring.mireactf.ru/)"  
                 [![](https://ctftime.org/media/events/image_2024-04-26_00-28-23.png){ width="200" align=left }](https://spring.mireactf.ru/)  
@@ -882,6 +875,13 @@ hide:
                 
     === "*正在进行*"
         === "国内赛事"
+            ??? Quote "[第二届数据安全大赛暨首届“数信杯”数据安全大赛](https://shuxinbei.ichunqiu.com/)"  
+                **比赛名称** : [第二届数据安全大赛暨首届“数信杯”数据安全大赛](https://shuxinbei.ichunqiu.com/)  
+                **比赛类型** : 团队赛|1-3人  
+                **报名时间** : 2023年11月15日 00:00 - 2024年04月30日 00:00  
+                **比赛时间** : 2024年05月01日 00:00 - 2024年05月02日 00:00  
+                **其他说明** : 比赛时间未定  
+                
             ??? Quote "[XYCTF高校新生联合赛 2024](https://www.xyctf.top/)"  
                 **比赛名称** : [XYCTF高校新生联合赛 2024](https://www.xyctf.top/)  
                 **比赛类型** : 团队赛 | 1-3人  
@@ -984,13 +984,6 @@ hide:
                 **报名时间** : 2023年12月21日 00:00 - 2024年02月23日 18:00  
                 **比赛时间** : 2024年03月10日 09:00 - 2024年03月12日 18:00  
                 **其他说明** : 比赛时间2024年3月 未定  
-                
-            ??? Quote "[青少年CTF擂台挑战赛 2024 #Round 1](https://www.qsnctf.com/#/main/race-center/race-guide?id=11)"  
-                **比赛名称** : [青少年CTF擂台挑战赛 2024 #Round 1](https://www.qsnctf.com/#/main/race-center/race-guide?id=11)  
-                **比赛类型** : 团队赛|1-4人  
-                **报名时间** : 2024年02月05日 00:00 - 2024年02月28日 22:00  
-                **比赛时间** : 2024年02月29日 09:00 - 2024年03月01日 22:00  
-                **其他说明** : QQ 群号：820016571  
                 
         === "国外赛事"
             ??? Quote "[Cybercoliseum Ⅲ](https://cybercoliseum.codeby.games/en)"  
