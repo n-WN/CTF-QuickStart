@@ -107,9 +107,9 @@ comments: true
     **赛事主办** : Codeby Games (https://ctftime.org/team/299486)  
     **添加日历** : https://ctftime.org/event/2341.ics  
     
-??? Quote "[CyberSphere CTF](https://securinets.tn/)"  
+??? Quote "[CyberSphere CTF - 2024](https://securinets.tn/)"  
     [![](https://ctftime.org){ width="200" align=left }](https://securinets.tn/)  
-    **比赛名称** : [CyberSphere CTF](https://securinets.tn/)  
+    **比赛名称** : [CyberSphere CTF - 2024](https://securinets.tn/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2024-04-28 05:00:00 - 2024-04-28 17:00:00 UTC+8  
     **比赛权重** : 0.00  
@@ -122,7 +122,7 @@ comments: true
     **比赛形式** : Jeopardy  
     **比赛时间** : 2024-04-28 04:00:00 - 2024-04-28 15:00:00 UTC+8  
     **比赛权重** : 37.00  
-    **赛事主办** : Midnight Flag (https://ctftime.org/team/179110)  
+    **赛事主办** : Midnight Flag - BACKSLASH (https://ctftime.org/team/179110)  
     **添加日历** : https://ctftime.org/event/2295.ics  
     
 ??? Quote "[AirOverflow CTF - 2024](https://ctf.airoverflow.com/)"  
