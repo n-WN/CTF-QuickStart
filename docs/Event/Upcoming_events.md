@@ -5,6 +5,20 @@ comments: true
 
 ## 国内赛事
 
+??? Quote "第二届京麒CTF挑战赛"  
+    **比赛名称** : [第二届京麒CTF挑战赛](jqctf.jd.com)  
+    **比赛类型** : 团队赛  
+    **报名时间** : 2024年05月06日 08:00 - 2024年05月26日 07:00  
+    **比赛时间** : 2024年05月26日 08:00 - 2024年05月26日 18:00  
+    **其他说明** : QQ群：605379906  
+    
+??? Quote "R3CTF/YUANHENGCTF 2024"  
+    **比赛名称** : [R3CTF/YUANHENGCTF 2024](https://ctf2024.r3kapig.com/)  
+    **比赛类型** : 团队赛  
+    **报名时间** : 2024年05月15日 08:00 - 2024年06月08日 09:00  
+    **比赛时间** : 2024年06月08日 10:00 - 2024年06月10日 18:00  
+    **其他说明** : R3CTF2024 是由 r3kapig 和 YuanHeng实验室 组织的在线解题(jeopardy)CTF。同时 YuanHeng实验室 提供所有奖品！我们欢迎来自世界各地的CTFer在这48小时内玩得开心。更多信息：https://discord.gg/zU64ekBsgA  
+    
 ??? Quote "H&NCTF"  
     **比赛名称** : [H&NCTF](https://hnctf.imxbt.cn/)  
     **比赛类型** : 团队赛|1-4人  
@@ -50,15 +64,6 @@ comments: true
 
 ## 国际赛事
 
-??? Quote "[LakeCTF Finals 23](https://lakectf.epfl.ch/)"  
-    [![](https://ctftime.org/media/events/lakeCTFLogo.png){ width="200" align=left }](https://lakectf.epfl.ch/)  
-    **比赛名称** : [LakeCTF Finals 23](https://lakectf.epfl.ch/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-05-03 16:00:00 - 2024-05-04 00:00:00 UTC+8  
-    **比赛权重** : 36.00  
-    **赛事主办** : polygl0ts (https://ctftime.org/team/53791)  
-    **添加日历** : https://ctftime.org/event/2246.ics  
-    
 ??? Quote "[DEF CON CTF Qualifier 2024](https://nautilus.institute/)"  
     [![](https://ctftime.org){ width="200" align=left }](https://nautilus.institute/)  
     **比赛名称** : [DEF CON CTF Qualifier 2024](https://nautilus.institute/)  
@@ -184,15 +189,6 @@ comments: true
     **比赛权重** : 35.60  
     **赛事主办** : tjcsc (https://ctftime.org/team/53812)  
     **添加日历** : https://ctftime.org/event/2321.ics  
-    
-??? Quote "[R3CTF/YUANHENGCTF 2024](https://ctf2024.r3kapig.com/)"  
-    [![](https://ctftime.org/media/events/r3_logo.png){ width="200" align=left }](https://ctf2024.r3kapig.com/)  
-    **比赛名称** : [R3CTF/YUANHENGCTF 2024](https://ctf2024.r3kapig.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-05-18 10:00:00 - 2024-05-20 10:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : r3kapig (https://ctftime.org/team/58979)  
-    **添加日历** : https://ctftime.org/event/2273.ics  
     
 ??? Quote "[VulnX CTF 2024](https://vulncon.in/)"  
     [![](https://ctftime.org/media/events/VulnX-Profile_pic.png){ width="200" align=left }](https://vulncon.in/)  
@@ -337,6 +333,15 @@ comments: true
     **比赛权重** : 46.33  
     **赛事主办** : BCACTF (https://ctftime.org/team/81702)  
     **添加日历** : https://ctftime.org/event/2274.ics  
+    
+??? Quote "[R3CTF/YUANHENGCTF 2024](https://ctf2024.r3kapig.com/)"  
+    [![](https://ctftime.org/media/events/r3_logo.png){ width="200" align=left }](https://ctf2024.r3kapig.com/)  
+    **比赛名称** : [R3CTF/YUANHENGCTF 2024](https://ctf2024.r3kapig.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-06-08 10:00:00 - 2024-06-10 10:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : r3kapig (https://ctftime.org/team/58979)  
+    **添加日历** : https://ctftime.org/event/2273.ics  
     
 ??? Quote "[DIVER OSINT CTF 2024](https://twitter.com/DIVER_OSINT_CTF)"  
     [![](https://ctftime.org/media/events/tQF2eZgQ_400x400.jpg){ width="200" align=left }](https://twitter.com/DIVER_OSINT_CTF)  
