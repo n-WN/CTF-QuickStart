@@ -379,15 +379,6 @@ hide:
                 **其他说明** : 作品赛，不提供更多信息，如有疑问请前往比赛通知页面 http://www.ciscn.cn/competition/securityCompetition?compet_id=39  
                 
         === "国外赛事"
-            ??? Quote "[Punk Security DevSecOps Birthday CTF](https://punksecurity.co.uk/ctf)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://punksecurity.co.uk/ctf)  
-                **比赛名称** : [Punk Security DevSecOps Birthday CTF](https://punksecurity.co.uk/ctf)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-05-04 17:00:00 - 2024-05-05 05:00:00 UTC+8  
-                **比赛权重** : 24.82  
-                **赛事主办** : Punk Security (https://ctftime.org/team/212540)  
-                **添加日历** : https://ctftime.org/event/2285.ics  
-                
             ??? Quote "[squ1rrel CTF 2024](https://ctf.squ1rrel.dev/)"  
                 [![](https://ctftime.org/media/events/squ1rrel.png){ width="200" align=left }](https://ctf.squ1rrel.dev/)  
                 **比赛名称** : [squ1rrel CTF 2024](https://ctf.squ1rrel.dev/)  
@@ -856,9 +847,9 @@ hide:
                 **赛事主办** : FAUST (https://ctftime.org/team/550)  
                 **添加日历** : https://ctftime.org/event/2351.ics  
                 
-            ??? Quote "[TCP1P CTF 2024: Exploring Nusantara's Digital Realm](https://tcp1p.github.io/tcp1p-pages/tcp1pctf-2024)"  
-                [![](https://ctftime.org/media/events/TCP1P-logo.png){ width="200" align=left }](https://tcp1p.github.io/tcp1p-pages/tcp1pctf-2024)  
-                **比赛名称** : [TCP1P CTF 2024: Exploring Nusantara's Digital Realm](https://tcp1p.github.io/tcp1p-pages/tcp1pctf-2024)  
+            ??? Quote "[TCP1P CTF 2024: Exploring Nusantara's Digital Realm](https://tcp1p.team/tcp1pctf-2024)"  
+                [![](https://ctftime.org/media/events/TCP1P-logo.png){ width="200" align=left }](https://tcp1p.team/tcp1pctf-2024)  
+                **比赛名称** : [TCP1P CTF 2024: Exploring Nusantara's Digital Realm](https://tcp1p.team/tcp1pctf-2024)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2024-10-11 20:00:00 - 2024-10-13 20:00:00 UTC+8  
                 **比赛权重** : 24.85  
@@ -910,6 +901,15 @@ hide:
                 **比赛权重** : 0.00  
                 **赛事主办** : BSidesSF (https://ctftime.org/team/54737)  
                 **添加日历** : https://ctftime.org/event/2357.ics  
+                
+            ??? Quote "[Punk Security DevSecOps Birthday CTF](https://punksecurity.co.uk/ctf)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://punksecurity.co.uk/ctf)  
+                **比赛名称** : [Punk Security DevSecOps Birthday CTF](https://punksecurity.co.uk/ctf)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-05-04 17:00:00 - 2024-05-05 05:00:00 UTC+8  
+                **比赛权重** : 24.82  
+                **赛事主办** : Punk Security (https://ctftime.org/team/212540)  
+                **添加日历** : https://ctftime.org/event/2285.ics  
                 
     === "*已经结束*"
         === "国内赛事"
@@ -1089,7 +1089,7 @@ hide:
                 **比赛名称** : [HACKTHEON SEJONG 2024 Preliminaries](https://hacktheon.org/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2024-04-27 08:00:00 - 2024-04-27 17:00:00 UTC+8  
-                **比赛权重** : 0  
+                **比赛权重** : 0.00  
                 **赛事主办** : Sejong City Hall (https://ctftime.org/team/214900)  
                 **添加日历** : https://ctftime.org/event/2286.ics  
                 
