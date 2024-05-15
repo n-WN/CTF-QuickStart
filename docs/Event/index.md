@@ -285,6 +285,13 @@ hide:
             适度CTF益脑，沉迷CTF伤身。合理安排时间，享受健康生活。
     
     === "*正在报名*"
+        ??? Quote "[R3CTF/YUANHENGCTF 2024](https://ctf2024.r3kapig.com/)"  
+            **比赛名称** : [R3CTF/YUANHENGCTF 2024](https://ctf2024.r3kapig.com/)  
+            **比赛类型** : 团队赛  
+            **报名时间** : 2024年05月15日 08:00 - 2024年06月08日 09:00  
+            **比赛时间** : 2024年06月08日 10:00 - 2024年06月10日 18:00  
+            **其他说明** : R3CTF2024 是由 r3kapig 和 YuanHeng实验室 组织的在线解题(jeopardy)CTF。同时 YuanHeng实验室 提供所有奖品！我们欢迎来自世界各地的CTFer在这48小时内玩得开心。更多信息：https://discord.gg/zU64ekBsgA  
+            
         ??? Quote "[DragonKnight CTF](https://www.qsnctf.com/#/main/race-center)"  
             **比赛名称** : [DragonKnight CTF](https://www.qsnctf.com/#/main/race-center)  
             **比赛类型** : 团队赛|1-4人  
@@ -1769,9 +1776,9 @@ hide:
                 **赛事主办** : Galette Cidre CTF (https://ctftime.org/team/246488)  
                 **添加日历** : https://ctftime.org/event/2251.ics  
                 
-            ??? Quote "[osu!gaming CTF 2024](https://www.osugaming.lol/)"  
-                [![](https://ctftime.org/media/events/unknown_1.png){ width="200" align=left }](https://www.osugaming.lol/)  
-                **比赛名称** : [osu!gaming CTF 2024](https://www.osugaming.lol/)  
+            ??? Quote "[osu!gaming CTF 2024](https://osugaming.pages.dev/)"  
+                [![](https://ctftime.org/media/events/unknown_1.png){ width="200" align=left }](https://osugaming.pages.dev/)  
+                **比赛名称** : [osu!gaming CTF 2024](https://osugaming.pages.dev/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2024-03-02 01:00:00 - 2024-03-04 01:00:00 UTC+8  
                 **比赛权重** : 23.93  
