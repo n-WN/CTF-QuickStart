@@ -407,15 +407,6 @@ hide:
                 **其他说明** : 545083579 (17届信安创新实践赛指导老师群)  327904910 (17届信安创新实践赛学生①群)  191965192 (17届信安创新实践赛学生②群)  566613050 (17届信安创新实践赛学生③群)  570834671 (17届信安创新实践赛学生④群)  
                 
         === "国外赛事"
-            ??? Quote "[BYUCTF 2024](https://ctfd.cyberjousting.com/)"  
-                [![](https://ctftime.org/media/events/cougar.jpg){ width="200" align=left }](https://ctfd.cyberjousting.com/)  
-                **比赛名称** : [BYUCTF 2024](https://ctfd.cyberjousting.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-05-17 08:00:00 - 2024-05-19 08:00:00 UTC+8  
-                **比赛权重** : 30.75  
-                **赛事主办** : BYU Cyberia (https://ctftime.org/team/155711)  
-                **添加日历** : https://ctftime.org/event/2252.ics  
-                
             ??? Quote "[Black Cell SecOps 2024 - Online Blue Teaming Jeopardy CTF](https://blackcell.io/ctf/)"  
                 [![](https://ctftime.org/media/events/SecOps2024_logo.png){ width="200" align=left }](https://blackcell.io/ctf/)  
                 **比赛名称** : [Black Cell SecOps 2024 - Online Blue Teaming Jeopardy CTF](https://blackcell.io/ctf/)  
@@ -876,6 +867,15 @@ hide:
                 **赛事主办** : ECSC2024 (https://ctftime.org/team/283828)  
                 **添加日历** : https://ctftime.org/event/2355.ics  
                 
+            ??? Quote "[BYUCTF 2024](https://ctfd.cyberjousting.com/)"  
+                [![](https://ctftime.org/media/events/cougar.jpg){ width="200" align=left }](https://ctfd.cyberjousting.com/)  
+                **比赛名称** : [BYUCTF 2024](https://ctfd.cyberjousting.com/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-05-17 08:00:00 - 2024-05-19 08:00:00 UTC+8  
+                **比赛权重** : 30.75  
+                **赛事主办** : BYU Cyberia (https://ctftime.org/team/155711)  
+                **添加日历** : https://ctftime.org/event/2252.ics  
+                
     === "*已经结束*"
         === "国内赛事"
             ??? Quote "[H&NCTF](https://hnctf.imxbt.cn/)"  
@@ -961,13 +961,6 @@ hide:
                 **报名时间** : 2024年03月10日 10:00 - 2024年03月22日 18:00  
                 **比赛时间** : 2024年03月22日 19:00 - 2024年03月23日 19:00  
                 **其他说明** : QQ群：630246091  
-                
-            ??? Quote "[DubheCTF 2024](https://adworld.xctf.org.cn/contest/assess?hash=94938be6-ce42-11ee-ab28-000c29bc20bf)"  
-                **比赛名称** : [DubheCTF 2024](https://adworld.xctf.org.cn/contest/assess?hash=94938be6-ce42-11ee-ab28-000c29bc20bf)  
-                **比赛类型** : 团队赛 | 1-n  
-                **报名时间** : 2024年03月01日 09:00 - 2024年03月16日 08:00  
-                **比赛时间** : 2024年03月16日 09:00 - 2024年03月18日 09:00  
-                **其他说明** : Discord: https://discord.gg/hq4m3KrVfG QQ群：512066352 本届DubheCTF2024由XCTF联赛的合作单位天枢Dubhe战队组织，由赛宁网安提供技术支持。作为第八届XCTF国际联赛的分站赛，本次比赛将采用在线网络安全夺旗挑战赛的形式，面向全球开放。 此次比赛冠军队伍将直接晋级第八届XCTF总决赛（总决赛具体地点待定，将在确定后通知获得资格的国际和国内队伍）。其他参赛的队伍也将获得积分，来竞争XCTF总决赛的其他席位。  
                 
         === "国外赛事"
             ??? Quote "[CyberSecurityRumble Quals](https://quals.rumble.host/)"  
