@@ -71,15 +71,6 @@ comments: true
 
 ## 国际赛事
 
-??? Quote "[Break the Syntax CTF 2024](https://bts2024.wh.edu.pl/)"  
-    [![](https://ctftime.org/media/events/logo_99.png){ width="200" align=left }](https://bts2024.wh.edu.pl/)  
-    **比赛名称** : [Break the Syntax CTF 2024](https://bts2024.wh.edu.pl/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-05-18 00:00:00 - 2024-05-19 18:00:00 UTC+8  
-    **比赛权重** : 28.30  
-    **赛事主办** : PWr Synt@x Err0r (https://ctftime.org/team/88205)  
-    **添加日历** : https://ctftime.org/event/2289.ics  
-    
 ??? Quote "[TJCTF 2024](https://tjctf.org/)"  
     [![](https://ctftime.org/media/events/logo_96.png){ width="200" align=left }](https://tjctf.org/)  
     **比赛名称** : [TJCTF 2024](https://tjctf.org/)  
@@ -152,9 +143,9 @@ comments: true
     **赛事主办** : L3ak (https://ctftime.org/team/220336)  
     **添加日历** : https://ctftime.org/event/2322.ics  
     
-??? Quote "[CrewCTF 2024](https://2024.crewc.tf/)"  
+??? Quote "[[ POSTPONED ] CrewCTF 2024](https://2024.crewc.tf/)"  
     [![](https://ctftime.org/media/events/THC_new.png){ width="200" align=left }](https://2024.crewc.tf/)  
-    **比赛名称** : [CrewCTF 2024](https://2024.crewc.tf/)  
+    **比赛名称** : [[ POSTPONED ] CrewCTF 2024](https://2024.crewc.tf/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2024-05-25 01:00:00 - 2024-05-27 01:00:00 UTC+8  
     **比赛权重** : 26.89  
