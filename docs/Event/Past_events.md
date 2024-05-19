@@ -5,6 +5,13 @@ comments: true
 
 ## 国内赛事
 
+??? Quote "第十七届全国大学生信息安全竞赛——创新实践能力赛"  
+    **比赛名称** : [第十七届全国大学生信息安全竞赛——创新实践能力赛](http://www.ciscn.cn/)  
+    **比赛类型** : 团队赛 | 1-4人  
+    **报名时间** : 2024年04月12日 00:00 - 2024年05月14日 18:00  
+    **比赛时间** : 2024年05月18日 09:00 - 2024年05月19日 18:00  
+    **其他说明** : 545083579 (17届信安创新实践赛指导老师群)  327904910 (17届信安创新实践赛学生①群)  191965192 (17届信安创新实践赛学生②群)  566613050 (17届信安创新实践赛学生③群)  570834671 (17届信安创新实践赛学生④群)  
+    
 ??? Quote "H&NCTF"  
     **比赛名称** : [H&NCTF](https://hnctf.imxbt.cn/)  
     **比赛类型** : 团队赛|1-4人  
@@ -91,6 +98,33 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[Hacky'Nov 0x03](https://hackynov.fr/)"  
+    [![](https://ctftime.org){ width="200" align=left }](https://hackynov.fr/)  
+    **比赛名称** : [Hacky'Nov 0x03](https://hackynov.fr/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-05-18 22:00:00 - 2024-05-19 15:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : Hacky'Nov (https://ctftime.org/team/178939)  
+    **添加日历** : https://ctftime.org/event/2319.ics  
+    
+??? Quote "[VulnX CTF 2024](https://vulncon.in/)"  
+    [![](https://ctftime.org/media/events/VulnX-Profile_pic.png){ width="200" align=left }](https://vulncon.in/)  
+    **比赛名称** : [VulnX CTF 2024](https://vulncon.in/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-05-18 18:30:00 - 2024-05-19 18:30:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : VulnX (https://ctftime.org/team/117274)  
+    **添加日历** : https://ctftime.org/event/2318.ics  
+    
+??? Quote "[Break the Syntax CTF 2024](https://bts2024.wh.edu.pl/)"  
+    [![](https://ctftime.org/media/events/logo_99.png){ width="200" align=left }](https://bts2024.wh.edu.pl/)  
+    **比赛名称** : [Break the Syntax CTF 2024](https://bts2024.wh.edu.pl/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-05-18 00:00:00 - 2024-05-19 18:00:00 UTC+8  
+    **比赛权重** : 28.30  
+    **赛事主办** : PWr Synt@x Err0r (https://ctftime.org/team/88205)  
+    **添加日历** : https://ctftime.org/event/2289.ics  
+    
 ??? Quote "[BYUCTF 2024](https://ctfd.cyberjousting.com/)"  
     [![](https://ctftime.org/media/events/cougar.jpg){ width="200" align=left }](https://ctfd.cyberjousting.com/)  
     **比赛名称** : [BYUCTF 2024](https://ctfd.cyberjousting.com/)  
@@ -963,31 +997,4 @@ comments: true
     **比赛权重** : 24.93  
     **赛事主办** : PBR | UCLA (https://ctftime.org/team/186494)  
     **添加日历** : https://ctftime.org/event/2102.ics  
-    
-??? Quote "[Pragyan CTF 2024](https://ctf.pragyan.org/)"  
-    [![](https://ctftime.org){ width="200" align=left }](https://ctf.pragyan.org/)  
-    **比赛名称** : [Pragyan CTF 2024](https://ctf.pragyan.org/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-02-16 22:30:00 - 2024-02-17 22:30:00 UTC+8  
-    **比赛权重** : 2.80  
-    **赛事主办** : Pragyan (https://ctftime.org/team/33867)  
-    **添加日历** : https://ctftime.org/event/2266.ics  
-    
-??? Quote "[SAIBORG - Elite Hacking Competition](https://www.saiborg.io/)"  
-    [![](https://ctftime.org/media/events/saiborg-profile.jpg){ width="200" align=left }](https://www.saiborg.io/)  
-    **比赛名称** : [SAIBORG - Elite Hacking Competition](https://www.saiborg.io/)  
-    **比赛形式** : Hack quest  
-    **比赛时间** : 2024-02-16 12:00:00 - 2024-02-16 18:30:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : Saiborg (https://ctftime.org/team/271868)  
-    **添加日历** : https://ctftime.org/event/2147.ics  
-    
-??? Quote "[BITSCTF 2024](https://ctf.bitskrieg.org/)"  
-    [![](https://ctftime.org/media/events/bitskrieg.jpg){ width="200" align=left }](https://ctf.bitskrieg.org/)  
-    **比赛名称** : [BITSCTF 2024](https://ctf.bitskrieg.org/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-02-16 02:30:00 - 2024-02-18 02:30:00 UTC+8  
-    **比赛权重** : 21.91  
-    **赛事主办** : BITSkrieg (https://ctftime.org/team/22310)  
-    **添加日历** : https://ctftime.org/event/2235.ics  
     

@@ -1,17 +1,5 @@
 [
     {
-        "比赛名称": "BSides Mumbai CTF 2024",
-        "比赛时间": "2024-05-19 18:30:00 - 2024-05-20 06:30:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2369.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.bsidesmumbai.in/",
-        "比赛标志": "https://ctftime.org/media/events/Logo_11.png",
-        "比赛权重": "0",
-        "赛事主办": "DarkArmy (https://ctftime.org/team/26569)",
-        "比赛ID": "1120",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "NahamCon CTF 2024",
         "比赛时间": "2024-05-24 04:00:00 - 2024-05-26 04:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2364.ics",
@@ -528,18 +516,6 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "Break the Syntax CTF 2024",
-        "比赛时间": "2024-05-18 00:00:00 - 2024-05-19 18:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2289.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://bts2024.wh.edu.pl/",
-        "比赛标志": "https://ctftime.org/media/events/logo_99.png",
-        "比赛权重": "28.30",
-        "赛事主办": "PWr Synt@x Err0r (https://ctftime.org/team/88205)",
-        "比赛ID": "558",
-        "比赛状态": "nowrunning"
-    },
-    {
         "比赛名称": "TJCTF 2024",
         "比赛时间": "2024-05-18 02:30:00 - 2024-05-20 02:30:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2321.ics",
@@ -549,18 +525,6 @@
         "比赛权重": "35.60",
         "赛事主办": "tjcsc (https://ctftime.org/team/53812)",
         "比赛ID": "144",
-        "比赛状态": "nowrunning"
-    },
-    {
-        "比赛名称": "VulnX CTF 2024",
-        "比赛时间": "2024-05-18 18:30:00 - 2024-05-19 18:30:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2318.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://vulncon.in/",
-        "比赛标志": "https://ctftime.org/media/events/VulnX-Profile_pic.png",
-        "比赛权重": "0",
-        "赛事主办": "VulnX (https://ctftime.org/team/117274)",
-        "比赛ID": "461",
         "比赛状态": "nowrunning"
     },
     {
@@ -588,6 +552,18 @@
         "比赛状态": "nowrunning"
     },
     {
+        "比赛名称": "BSides Mumbai CTF 2024",
+        "比赛时间": "2024-05-19 18:30:00 - 2024-05-20 06:30:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2369.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.bsidesmumbai.in/",
+        "比赛标志": "https://ctftime.org/media/events/Logo_11.png",
+        "比赛权重": "0",
+        "赛事主办": "DarkArmy (https://ctftime.org/team/26569)",
+        "比赛ID": "1120",
+        "比赛状态": "nowrunning"
+    },
+    {
         "比赛名称": "Hacky'Nov 0x03",
         "比赛时间": "2024-05-18 22:00:00 - 2024-05-19 15:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2319.ics",
@@ -597,7 +573,31 @@
         "比赛权重": "0.00",
         "赛事主办": "Hacky'Nov (https://ctftime.org/team/178939)",
         "比赛ID": "759",
-        "比赛状态": "nowrunning"
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "VulnX CTF 2024",
+        "比赛时间": "2024-05-18 18:30:00 - 2024-05-19 18:30:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2318.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://vulncon.in/",
+        "比赛标志": "https://ctftime.org/media/events/VulnX-Profile_pic.png",
+        "比赛权重": "0",
+        "赛事主办": "VulnX (https://ctftime.org/team/117274)",
+        "比赛ID": "461",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "Break the Syntax CTF 2024",
+        "比赛时间": "2024-05-18 00:00:00 - 2024-05-19 18:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2289.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://bts2024.wh.edu.pl/",
+        "比赛标志": "https://ctftime.org/media/events/logo_99.png",
+        "比赛权重": "28.30",
+        "赛事主办": "PWr Synt@x Err0r (https://ctftime.org/team/88205)",
+        "比赛ID": "558",
+        "比赛状态": "past"
     },
     {
         "比赛名称": "BYUCTF 2024",
@@ -1761,42 +1761,6 @@
         "比赛权重": "24.93",
         "赛事主办": "PBR | UCLA (https://ctftime.org/team/186494)",
         "比赛ID": "820",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "Pragyan CTF 2024",
-        "比赛时间": "2024-02-16 22:30:00 - 2024-02-17 22:30:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2266.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.pragyan.org/",
-        "比赛标志": "https://ctftime.org",
-        "比赛权重": "2.80",
-        "赛事主办": "Pragyan (https://ctftime.org/team/33867)",
-        "比赛ID": "97",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "SAIBORG - Elite Hacking Competition",
-        "比赛时间": "2024-02-16 12:00:00 - 2024-02-16 18:30:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2147.ics",
-        "比赛形式": "Hack quest",
-        "比赛链接": "https://www.saiborg.io/",
-        "比赛标志": "https://ctftime.org/media/events/saiborg-profile.jpg",
-        "比赛权重": "0.00",
-        "赛事主办": "Saiborg (https://ctftime.org/team/271868)",
-        "比赛ID": "1009",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "BITSCTF 2024",
-        "比赛时间": "2024-02-16 02:30:00 - 2024-02-18 02:30:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2235.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.bitskrieg.org/",
-        "比赛标志": "https://ctftime.org/media/events/bitskrieg.jpg",
-        "比赛权重": "21.91",
-        "赛事主办": "BITSkrieg (https://ctftime.org/team/22310)",
-        "比赛ID": "182",
         "比赛状态": "past"
     }
 ]
