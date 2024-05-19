@@ -409,6 +409,15 @@ hide:
                 **赛事主办** : JustHacking (https://ctftime.org/team/59573)  
                 **添加日历** : https://ctftime.org/event/2364.ics  
                 
+            ??? Quote "[AI CTF 2024](https://aictf.phdays.fun/)"  
+                [![](https://ctftime.org/media/events/AI_CTF_AI_TRACK_.png){ width="200" align=left }](https://aictf.phdays.fun/)  
+                **比赛名称** : [AI CTF 2024](https://aictf.phdays.fun/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-05-24 17:00:00 - 2024-05-26 05:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : [TechnoPandas] (https://ctftime.org/team/1946)  
+                **添加日历** : https://ctftime.org/event/2383.ics  
+                
             ??? Quote "[L3akCTF 2024](https://ctf.l3ak.team/)"  
                 [![](https://ctftime.org/media/events/ctf_final.png){ width="200" align=left }](https://ctf.l3ak.team/)  
                 **比赛名称** : [L3akCTF 2024](https://ctf.l3ak.team/)  
@@ -806,15 +815,6 @@ hide:
                 **赛事主办** : tjcsc (https://ctftime.org/team/53812)  
                 **添加日历** : https://ctftime.org/event/2321.ics  
                 
-            ??? Quote "[SAS CTF 2024 Quals](https://ctf.thesascon.com/)"  
-                [![](https://ctftime.org/media/events/SAS24_2.png){ width="200" align=left }](https://ctf.thesascon.com/)  
-                **比赛名称** : [SAS CTF 2024 Quals](https://ctf.thesascon.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-05-18 20:00:00 - 2024-05-19 20:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : SAS CREW (https://ctftime.org/team/283057)  
-                **添加日历** : https://ctftime.org/event/2299.ics  
-                
             ??? Quote "[HTB Business CTF 2024: The Vault Of Hope](https://ctf.hackthebox.com/event/details/htb-business-ctf-2024-the-vault-of-hope-1474)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://ctf.hackthebox.com/event/details/htb-business-ctf-2024-the-vault-of-hope-1474)  
                 **比赛名称** : [HTB Business CTF 2024: The Vault Of Hope](https://ctf.hackthebox.com/event/details/htb-business-ctf-2024-the-vault-of-hope-1474)  
@@ -936,6 +936,15 @@ hide:
                 **赛事主办** : Hacky'Nov (https://ctftime.org/team/178939)  
                 **添加日历** : https://ctftime.org/event/2319.ics  
                 
+            ??? Quote "[SAS CTF 2024 Quals](https://ctf.thesascon.com/)"  
+                [![](https://ctftime.org/media/events/SAS24_2.png){ width="200" align=left }](https://ctf.thesascon.com/)  
+                **比赛名称** : [SAS CTF 2024 Quals](https://ctf.thesascon.com/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-05-18 20:00:00 - 2024-05-19 20:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : SAS CREW (https://ctftime.org/team/283057)  
+                **添加日历** : https://ctftime.org/event/2299.ics  
+                
             ??? Quote "[VulnX CTF 2024](https://vulncon.in/)"  
                 [![](https://ctftime.org/media/events/VulnX-Profile_pic.png){ width="200" align=left }](https://vulncon.in/)  
                 **比赛名称** : [VulnX CTF 2024](https://vulncon.in/)  
@@ -1013,7 +1022,7 @@ hide:
                 **比赛名称** : [squ1rrel CTF 2024](https://ctf.squ1rrel.dev/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2024-05-04 23:00:00 - 2024-05-06 11:00:00 UTC+8  
-                **比赛权重** : 24.32  
+                **比赛权重** : 24.34  
                 **赛事主办** : squ1rrel (https://ctftime.org/team/201730)  
                 **添加日历** : https://ctftime.org/event/2370.ics  
                 
@@ -1817,15 +1826,6 @@ hide:
                 **比赛权重** : 22.51  
                 **赛事主办** : BroncoSec (https://ctftime.org/team/112673)  
                 **添加日历** : https://ctftime.org/event/2261.ics  
-                
-            ??? Quote "[LA CTF 2024](https://lac.tf/)"  
-                [![](https://ctftime.org/media/events/lactf-square-logo_1.png){ width="200" align=left }](https://lac.tf/)  
-                **比赛名称** : [LA CTF 2024](https://lac.tf/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-02-17 12:00:00 - 2024-02-19 06:00:00 UTC+8  
-                **比赛权重** : 24.93  
-                **赛事主办** : PBR | UCLA (https://ctftime.org/team/186494)  
-                **添加日历** : https://ctftime.org/event/2102.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
