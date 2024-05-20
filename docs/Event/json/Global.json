@@ -504,42 +504,6 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "openECSC 2024 - Round 3",
-        "比赛时间": "2024-05-13 18:00:00 - 2024-05-20 06:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2355.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://open.ecsc2024.it/",
-        "比赛标志": "https://ctftime.org",
-        "比赛权重": "0",
-        "赛事主办": "ECSC2024 (https://ctftime.org/team/283828)",
-        "比赛ID": "1084",
-        "比赛状态": "nowrunning"
-    },
-    {
-        "比赛名称": "Black Cell SecOps 2024 - Online Blue Teaming Jeopardy CTF",
-        "比赛时间": "2024-05-17 17:00:00 - 2024-05-20 02:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2135.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://blackcell.io/ctf/",
-        "比赛标志": "https://ctftime.org/media/events/SecOps2024_logo.png",
-        "比赛权重": "0.00",
-        "赛事主办": "Black Cell Secops (https://ctftime.org/team/270941)",
-        "比赛ID": "995",
-        "比赛状态": "nowrunning"
-    },
-    {
-        "比赛名称": "TJCTF 2024",
-        "比赛时间": "2024-05-18 02:30:00 - 2024-05-20 02:30:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2321.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://tjctf.org/",
-        "比赛标志": "https://ctftime.org/media/events/logo_96.png",
-        "比赛权重": "35.60",
-        "赛事主办": "tjcsc (https://ctftime.org/team/53812)",
-        "比赛ID": "144",
-        "比赛状态": "nowrunning"
-    },
-    {
         "比赛名称": "HTB Business CTF 2024: The Vault Of Hope",
         "比赛时间": "2024-05-18 21:00:00 - 2024-05-22 21:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2315.ics",
@@ -561,7 +525,7 @@
         "比赛权重": "0",
         "赛事主办": "DarkArmy (https://ctftime.org/team/26569)",
         "比赛ID": "1120",
-        "比赛状态": "nowrunning"
+        "比赛状态": "past"
     },
     {
         "比赛名称": "Hacky'Nov 0x03",
@@ -600,6 +564,18 @@
         "比赛状态": "past"
     },
     {
+        "比赛名称": "TJCTF 2024",
+        "比赛时间": "2024-05-18 02:30:00 - 2024-05-20 02:30:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2321.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://tjctf.org/",
+        "比赛标志": "https://ctftime.org/media/events/logo_96.png",
+        "比赛权重": "35.60",
+        "赛事主办": "tjcsc (https://ctftime.org/team/53812)",
+        "比赛ID": "144",
+        "比赛状态": "past"
+    },
+    {
         "比赛名称": "Break the Syntax CTF 2024",
         "比赛时间": "2024-05-18 00:00:00 - 2024-05-19 18:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2289.ics",
@@ -612,6 +588,18 @@
         "比赛状态": "past"
     },
     {
+        "比赛名称": "Black Cell SecOps 2024 - Online Blue Teaming Jeopardy CTF",
+        "比赛时间": "2024-05-17 17:00:00 - 2024-05-20 02:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2135.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://blackcell.io/ctf/",
+        "比赛标志": "https://ctftime.org/media/events/SecOps2024_logo.png",
+        "比赛权重": "0.00",
+        "赛事主办": "Black Cell Secops (https://ctftime.org/team/270941)",
+        "比赛ID": "995",
+        "比赛状态": "past"
+    },
+    {
         "比赛名称": "BYUCTF 2024",
         "比赛时间": "2024-05-17 08:00:00 - 2024-05-19 08:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2252.ics",
@@ -621,6 +609,18 @@
         "比赛权重": "30.75",
         "赛事主办": "BYU Cyberia (https://ctftime.org/team/155711)",
         "比赛ID": "768",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "openECSC 2024 - Round 3",
+        "比赛时间": "2024-05-13 18:00:00 - 2024-05-20 06:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2355.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://open.ecsc2024.it/",
+        "比赛标志": "https://ctftime.org",
+        "比赛权重": "0",
+        "赛事主办": "ECSC2024 (https://ctftime.org/team/283828)",
+        "比赛ID": "1084",
         "比赛状态": "past"
     },
     {
@@ -1713,54 +1713,6 @@
         "比赛权重": "33.43",
         "赛事主办": "CyberCellVIIT (https://ctftime.org/team/144677)",
         "比赛ID": "599",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "WEC CTF",
-        "比赛时间": "2024-02-24 20:30:00 - 2024-02-25 20:30:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2270.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://wecctf.nitk.ac.in/",
-        "比赛标志": "https://ctftime.org/media/events/weclogo.png",
-        "比赛权重": "0.00",
-        "赛事主办": "Web Club NITK (https://ctftime.org/team/216903)",
-        "比赛ID": "913",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "bi0sCTF 2024",
-        "比赛时间": "2024-02-24 20:00:00 - 2024-02-26 08:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2117.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.bi0s.in/",
-        "比赛标志": "https://ctftime.org/media/events/Untitled-removebg-preview_1.png",
-        "比赛权重": "79.83",
-        "赛事主办": "bi0s (https://ctftime.org/team/662)",
-        "比赛ID": "31",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "BraekerCTF",
-        "比赛时间": "2024-02-23 20:00:00 - 2024-02-25 00:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2181.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://github.com/spipm/BraekerCTF_2024_public",
-        "比赛标志": "https://ctftime.org/media/events/AI_Robot4.png",
-        "比赛权重": "24.70",
-        "赛事主办": "Braeker (https://ctftime.org/team/274910)",
-        "比赛ID": "1026",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "BroncoCTF 2024",
-        "比赛时间": "2024-02-18 03:00:00 - 2024-02-19 03:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2261.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "http://broncoctf.xyz/",
-        "比赛标志": "https://ctftime.org",
-        "比赛权重": "22.51",
-        "赛事主办": "BroncoSec (https://ctftime.org/team/112673)",
-        "比赛ID": "1017",
         "比赛状态": "past"
     }
 ]
