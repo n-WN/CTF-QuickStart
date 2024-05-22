@@ -285,6 +285,13 @@ hide:
             适度CTF益脑，沉迷CTF伤身。合理安排时间，享受健康生活。
     
     === "*正在报名*"
+        ??? Quote "[第五届“闽盾杯”网络空间安全大赛（黑盾全国大学生赛道）](http://heidunbei.si.net.cn/hdc/cover)"  
+            **比赛名称** : [第五届“闽盾杯”网络空间安全大赛（黑盾全国大学生赛道）](http://heidunbei.si.net.cn/hdc/cover)  
+            **比赛类型** : 团队赛|1-3人  
+            **报名时间** : 2024年05月21日 00:00 - 2024年06月19日 18:00  
+            **比赛时间** : 2024年06月21日 09:00 - 2024年06月21日 17:00  
+            **其他说明** : QQ群：566180593  
+            
         ??? Quote "[R3CTF/YUANHENGCTF 2024](https://ctf2024.r3kapig.com/)"  
             **比赛名称** : [R3CTF/YUANHENGCTF 2024](https://ctf2024.r3kapig.com/)  
             **比赛类型** : 团队赛  
@@ -343,6 +350,13 @@ hide:
             
     === "*即将开始*"
         === "国内赛事"
+            ??? Quote "[第五届“闽盾杯”网络空间安全大赛（黑盾全国大学生赛道）](http://heidunbei.si.net.cn/hdc/cover)"  
+                **比赛名称** : [第五届“闽盾杯”网络空间安全大赛（黑盾全国大学生赛道）](http://heidunbei.si.net.cn/hdc/cover)  
+                **比赛类型** : 团队赛|1-3人  
+                **报名时间** : 2024年05月21日 00:00 - 2024年06月19日 18:00  
+                **比赛时间** : 2024年06月21日 09:00 - 2024年06月21日 17:00  
+                **其他说明** : QQ群：566180593  
+                
             ??? Quote "[R3CTF/YUANHENGCTF 2024](https://ctf2024.r3kapig.com/)"  
                 **比赛名称** : [R3CTF/YUANHENGCTF 2024](https://ctf2024.r3kapig.com/)  
                 **比赛类型** : 团队赛  
@@ -788,15 +802,6 @@ hide:
                 **赛事主办** : Exherbo GNU/Linux (https://ctftime.org/team/275214)  
                 **添加日历** : https://ctftime.org/event/2178.ics  
                 
-            ??? Quote "[HTB Business CTF 2024: The Vault Of Hope](https://ctf.hackthebox.com/event/details/htb-business-ctf-2024-the-vault-of-hope-1474)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://ctf.hackthebox.com/event/details/htb-business-ctf-2024-the-vault-of-hope-1474)  
-                **比赛名称** : [HTB Business CTF 2024: The Vault Of Hope](https://ctf.hackthebox.com/event/details/htb-business-ctf-2024-the-vault-of-hope-1474)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-05-18 21:00:00 - 2024-05-22 21:00:00 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : Hack The Box (https://ctftime.org/team/136056)  
-                **添加日历** : https://ctftime.org/event/2315.ics  
-                
     === "*已经结束*"
         === "国内赛事"
             ??? Quote "[第十七届全国大学生信息安全竞赛——创新实践能力赛](http://www.ciscn.cn/)"  
@@ -901,6 +906,15 @@ hide:
                 **比赛权重** : 0.00  
                 **赛事主办** : Hacky'Nov (https://ctftime.org/team/178939)  
                 **添加日历** : https://ctftime.org/event/2319.ics  
+                
+            ??? Quote "[HTB Business CTF 2024: The Vault Of Hope](https://ctf.hackthebox.com/event/details/htb-business-ctf-2024-the-vault-of-hope-1474)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://ctf.hackthebox.com/event/details/htb-business-ctf-2024-the-vault-of-hope-1474)  
+                **比赛名称** : [HTB Business CTF 2024: The Vault Of Hope](https://ctf.hackthebox.com/event/details/htb-business-ctf-2024-the-vault-of-hope-1474)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-05-18 21:00:00 - 2024-05-22 21:00:00 UTC+8  
+                **比赛权重** : 25.00  
+                **赛事主办** : Hack The Box (https://ctftime.org/team/136056)  
+                **添加日历** : https://ctftime.org/event/2315.ics  
                 
             ??? Quote "[SAS CTF 2024 Quals](https://ctf.thesascon.com/)"  
                 [![](https://ctftime.org/media/events/SAS24_2.png){ width="200" align=left }](https://ctf.thesascon.com/)  
@@ -1774,15 +1788,6 @@ hide:
                 **比赛权重** : 0.00  
                 **赛事主办** : Jeanne d'Hack CTF (https://ctftime.org/team/283058)  
                 **添加日历** : https://ctftime.org/event/2311.ics  
-                
-            ??? Quote "[VishwaCTF 2024](https://vishwactf.com/)"  
-                [![](https://ctftime.org/media/events/VishwaCTF_3.png){ width="200" align=left }](https://vishwactf.com/)  
-                **比赛名称** : [VishwaCTF 2024](https://vishwactf.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-03-01 18:30:00 - 2024-03-03 18:29:59 UTC+8  
-                **比赛权重** : 33.43  
-                **赛事主办** : CyberCellVIIT (https://ctftime.org/team/144677)  
-                **添加日历** : https://ctftime.org/event/2272.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
