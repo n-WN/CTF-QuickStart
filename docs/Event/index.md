@@ -306,13 +306,6 @@ hide:
             **比赛时间** : 2024年05月25日 09:00 - 2024年05月27日 09:00  
             **其他说明** : QQ群：512066352  
             
-        ??? Quote "[第二届京麒CTF挑战赛](jqctf.jd.com)"  
-            **比赛名称** : [第二届京麒CTF挑战赛](jqctf.jd.com)  
-            **比赛类型** : 团队赛  
-            **报名时间** : 2024年05月06日 08:00 - 2024年05月26日 07:00  
-            **比赛时间** : 2024年05月26日 08:00 - 2024年05月26日 18:00  
-            **其他说明** : QQ群：605379906  
-            
         ??? Quote "[LitCTF2024](https://www.nssctf.cn/contest/470/)"  
             **比赛名称** : [LitCTF2024](https://www.nssctf.cn/contest/470/)  
             **比赛类型** : 团队赛|1-4人  
@@ -350,13 +343,6 @@ hide:
                 **比赛时间** : 2024年05月25日 09:00 - 2024年05月27日 09:00  
                 **其他说明** : QQ群：512066352  
                 
-            ??? Quote "[第二届京麒CTF挑战赛](jqctf.jd.com)"  
-                **比赛名称** : [第二届京麒CTF挑战赛](jqctf.jd.com)  
-                **比赛类型** : 团队赛  
-                **报名时间** : 2024年05月06日 08:00 - 2024年05月26日 07:00  
-                **比赛时间** : 2024年05月26日 08:00 - 2024年05月26日 18:00  
-                **其他说明** : QQ群：605379906  
-                
             ??? Quote "[LitCTF2024](https://www.nssctf.cn/contest/470/)"  
                 **比赛名称** : [LitCTF2024](https://www.nssctf.cn/contest/470/)  
                 **比赛类型** : 团队赛|1-4人  
@@ -370,6 +356,13 @@ hide:
                 **报名时间** : 2024年04月07日 23:00 - 2024年06月05日 23:00  
                 **比赛时间** : 2024年04月10日 23:00 - 2024年06月05日 23:00  
                 **其他说明** : 作品赛，不提供更多信息，如有疑问请前往比赛通知页面 http://www.ciscn.cn/competition/securityCompetition?compet_id=39  
+                
+            ??? Quote "[第二届京麒CTF挑战赛](jqctf.jd.com)"  
+                **比赛名称** : [第二届京麒CTF挑战赛](jqctf.jd.com)  
+                **比赛类型** : 团队赛  
+                **报名时间** : 2024年05月06日 08:00 - 2024年05月26日 07:00  
+                **比赛时间** : 2024年05月26日 08:00 - 2024年05月26日 18:00  
+                **其他说明** : QQ群：605379906  
                 
             ??? Quote "[矩阵杯](https://matrixcup.net/page/race/home/)"  
                 **比赛名称** : [矩阵杯](https://matrixcup.net/page/race/home/)  
@@ -713,24 +706,6 @@ hide:
                 **赛事主办** : Exherbo GNU/Linux (https://ctftime.org/team/275214)  
                 **添加日历** : https://ctftime.org/event/2178.ics  
                 
-            ??? Quote "[NahamCon CTF 2024](https://ctf.nahamcon.com/)"  
-                [![](https://ctftime.org/media/events/NAHAMCON-LOGO_BRANDING_D3_A1_1.png){ width="200" align=left }](https://ctf.nahamcon.com/)  
-                **比赛名称** : [NahamCon CTF 2024](https://ctf.nahamcon.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-05-24 04:00:00 - 2024-05-26 04:00:00 UTC+8  
-                **比赛权重** : 41.61  
-                **赛事主办** : JustHacking (https://ctftime.org/team/59573)  
-                **添加日历** : https://ctftime.org/event/2364.ics  
-                
-            ??? Quote "[AI CTF 2024](https://aictf.phdays.fun/)"  
-                [![](https://ctftime.org/media/events/AI_CTF_AI_TRACK_.png){ width="200" align=left }](https://aictf.phdays.fun/)  
-                **比赛名称** : [AI CTF 2024](https://aictf.phdays.fun/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-05-24 17:00:00 - 2024-05-26 05:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : [TechnoPandas] (https://ctftime.org/team/1946)  
-                **添加日历** : https://ctftime.org/event/2383.ics  
-                
             ??? Quote "[L3akCTF 2024](https://ctf.l3ak.team/)"  
                 [![](https://ctftime.org/media/events/ctf_final.png){ width="200" align=left }](https://ctf.l3ak.team/)  
                 **比赛名称** : [L3akCTF 2024](https://ctf.l3ak.team/)  
@@ -861,6 +836,24 @@ hide:
                 **其他说明** : QQ群：521330139  
                 
         === "国外赛事"
+            ??? Quote "[AI CTF 2024](https://aictf.phdays.fun/)"  
+                [![](https://ctftime.org/media/events/AI_CTF_AI_TRACK_.png){ width="200" align=left }](https://aictf.phdays.fun/)  
+                **比赛名称** : [AI CTF 2024](https://aictf.phdays.fun/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-05-24 17:00:00 - 2024-05-26 05:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : [TechnoPandas] (https://ctftime.org/team/1946)  
+                **添加日历** : https://ctftime.org/event/2383.ics  
+                
+            ??? Quote "[NahamCon CTF 2024](https://ctf.nahamcon.com/)"  
+                [![](https://ctftime.org/media/events/NAHAMCON-LOGO_BRANDING_D3_A1_1.png){ width="200" align=left }](https://ctf.nahamcon.com/)  
+                **比赛名称** : [NahamCon CTF 2024](https://ctf.nahamcon.com/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-05-24 04:00:00 - 2024-05-26 04:00:00 UTC+8  
+                **比赛权重** : 41.61  
+                **赛事主办** : JustHacking (https://ctftime.org/team/59573)  
+                **添加日历** : https://ctftime.org/event/2364.ics  
+                
             ??? Quote "[BSides Mumbai CTF 2024](https://ctf.bsidesmumbai.in/)"  
                 [![](https://ctftime.org/media/events/Logo_11.png){ width="200" align=left }](https://ctf.bsidesmumbai.in/)  
                 **比赛名称** : [BSides Mumbai CTF 2024](https://ctf.bsidesmumbai.in/)  
@@ -1742,24 +1735,6 @@ hide:
                 **比赛权重** : 24.92  
                 **赛事主办** : Galette Cidre CTF (https://ctftime.org/team/246488)  
                 **添加日历** : https://ctftime.org/event/2251.ics  
-                
-            ??? Quote "[osu!gaming CTF 2024](https://osugaming.pages.dev/)"  
-                [![](https://ctftime.org/media/events/unknown_1.png){ width="200" align=left }](https://osugaming.pages.dev/)  
-                **比赛名称** : [osu!gaming CTF 2024](https://osugaming.pages.dev/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-03-02 01:00:00 - 2024-03-04 01:00:00 UTC+8  
-                **比赛权重** : 23.93  
-                **赛事主办** : osu!gaming (https://ctftime.org/team/186954)  
-                **添加日历** : https://ctftime.org/event/2165.ics  
-                
-            ??? Quote "[Jeanne d'Hack CTF 2024](https://jeanne-dhack-ctf.univ-rouen.fr/)"  
-                [![](https://ctftime.org/media/events/JeannedHackCTF_100_x_100_px1.png){ width="200" align=left }](https://jeanne-dhack-ctf.univ-rouen.fr/)  
-                **比赛名称** : [Jeanne d'Hack CTF 2024](https://jeanne-dhack-ctf.univ-rouen.fr/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-03-01 21:30:00 - 2024-03-03 00:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : Jeanne d'Hack CTF (https://ctftime.org/team/283058)  
-                **添加日历** : https://ctftime.org/event/2311.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
