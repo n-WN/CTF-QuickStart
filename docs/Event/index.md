@@ -700,7 +700,7 @@ hide:
                 **比赛名称** : [Hackceler8 2024](https://capturetheflag.withgoogle.com/hackceler8)  
                 **比赛形式** : Hack quest  
                 **比赛时间** : 2024-10-18 08:00:00 - 2024-10-21 07:00:00 UTC+8  
-                **比赛权重** : 99.41  
+                **比赛权重** : 0.00  
                 **赛事主办** : Google CTF (https://ctftime.org/team/23929)  
                 **添加日历** : https://ctftime.org/event/2379.ics  
                 
@@ -945,7 +945,7 @@ hide:
                 **比赛名称** : [L3akCTF 2024](https://ctf.l3ak.team/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2024-05-24 20:00:00 - 2024-05-26 20:00:00 UTC+8  
-                **比赛权重** : 24.54  
+                **比赛权重** : 24.56  
                 **赛事主办** : L3ak (https://ctftime.org/team/220336)  
                 **添加日历** : https://ctftime.org/event/2322.ics  
                 
