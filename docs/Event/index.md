@@ -316,15 +316,6 @@ hide:
                 **其他说明** : R3CTF2024 是由 r3kapig 和 YuanHeng实验室 组织的在线解题(jeopardy)CTF。同时 YuanHeng实验室 提供所有奖品！我们欢迎来自世界各地的CTFer在这48小时内玩得开心。更多信息：https://discord.gg/zU64ekBsgA  
                 
         === "国外赛事"
-            ??? Quote "[Akasec CTF 2024](https://ctf.akasec.club/)"  
-                [![](https://ctftime.org/media/events/akasec-ctf-logo_3.jpeg){ width="200" align=left }](https://ctf.akasec.club/)  
-                **比赛名称** : [Akasec CTF 2024](https://ctf.akasec.club/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-06-07 21:37:00 - 2024-06-09 21:37:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : Akasec (https://ctftime.org/team/107202)  
-                **添加日历** : https://ctftime.org/event/2222.ics  
-                
             ??? Quote "[BCACTF 5.0](https://www.bcactf.com/)"  
                 [![](https://ctftime.org/media/events/bcactflogoocean.png){ width="200" align=left }](https://www.bcactf.com/)  
                 **比赛名称** : [BCACTF 5.0](https://www.bcactf.com/)  
@@ -396,15 +387,6 @@ hide:
                 **比赛权重** : 34.00  
                 **赛事主办** : View Source (https://ctftime.org/team/175828)  
                 **添加日历** : https://ctftime.org/event/2248.ics  
-                
-            ??? Quote "[idekCTF 2024](https://ctf.idek.team/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://ctf.idek.team/)  
-                **比赛名称** : [idekCTF 2024](https://ctf.idek.team/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-06-15 08:00:00 - 2024-06-17 08:00:00 UTC+8  
-                **比赛权重** : 35.41  
-                **赛事主办** : idek (https://ctftime.org/team/157039)  
-                **添加日历** : https://ctftime.org/event/2304.ics  
                 
             ??? Quote "[justCTF 2024 teaser](http://2024.justctf.team/)"  
                 [![](https://ctftime.org/media/events/logo-ctf_3.png){ width="200" align=left }](http://2024.justctf.team/)  
@@ -622,6 +604,15 @@ hide:
                 **赛事主办** : n00bzUnit3d (https://ctftime.org/team/152491)  
                 **添加日历** : https://ctftime.org/event/2378.ics  
                 
+            ??? Quote "[idekCTF 2024](https://ctf.idek.team/)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://ctf.idek.team/)  
+                **比赛名称** : [idekCTF 2024](https://ctf.idek.team/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-08-17 08:00:00 - 2024-08-19 08:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : idek (https://ctftime.org/team/157039)  
+                **添加日历** : https://ctftime.org/event/2304.ics  
+                
             ??? Quote "[SekaiCTF 2024](https://ctf.sekai.team/)"  
                 [![](https://ctftime.org/media/events/sekai2_SEKAI_CTF_Square_Black_BG.r_1_1.png){ width="200" align=left }](https://ctf.sekai.team/)  
                 **比赛名称** : [SekaiCTF 2024](https://ctf.sekai.team/)  
@@ -769,6 +760,15 @@ hide:
                 **比赛权重** : 0  
                 **赛事主办** : PlayCyber (https://ctftime.org/team/165788)  
                 **添加日历** : https://ctftime.org/event/2350.ics  
+                
+            ??? Quote "[Akasec CTF 2024](https://ctf.akasec.club/)"  
+                [![](https://ctftime.org/media/events/akasec-ctf-logo_3.jpeg){ width="200" align=left }](https://ctf.akasec.club/)  
+                **比赛名称** : [Akasec CTF 2024](https://ctf.akasec.club/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-06-07 21:37:00 - 2024-06-09 21:37:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : Akasec (https://ctftime.org/team/107202)  
+                **添加日历** : https://ctftime.org/event/2222.ics  
                 
     === "*已经结束*"
         === "国内赛事"
