@@ -690,15 +690,6 @@ hide:
                 **赛事主办** : Exherbo GNU/Linux (https://ctftime.org/team/275214)  
                 **添加日历** : https://ctftime.org/event/2178.ics  
                 
-            ??? Quote "[Season IV, US Cyber Open](https://www.uscybergames.com/apply-to-play-season-4?hsCtaTracking=b8a9eb7a-183c-4113-a5d4-a4ac7b486e4f%7Cb5c8f25c-5752-4e8f-815b-82cb4d186af1)"  
-                [![](https://ctftime.org/media/events/2022-10-USCG_S3_logos_cybergames_1.png){ width="200" align=left }](https://www.uscybergames.com/apply-to-play-season-4?hsCtaTracking=b8a9eb7a-183c-4113-a5d4-a4ac7b486e4f%7Cb5c8f25c-5752-4e8f-815b-82cb4d186af1)  
-                **比赛名称** : [Season IV, US Cyber Open](https://www.uscybergames.com/apply-to-play-season-4?hsCtaTracking=b8a9eb7a-183c-4113-a5d4-a4ac7b486e4f%7Cb5c8f25c-5752-4e8f-815b-82cb4d186af1)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-05-31 19:59:00 - 2024-06-10 07:59:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : PlayCyber (https://ctftime.org/team/165788)  
-                **添加日历** : https://ctftime.org/event/2350.ics  
-                
             ??? Quote "[BCACTF 5.0](https://www.bcactf.com/)"  
                 [![](https://ctftime.org/media/events/bcactflogoocean.png){ width="200" align=left }](https://www.bcactf.com/)  
                 **比赛名称** : [BCACTF 5.0](https://www.bcactf.com/)  
@@ -707,15 +698,6 @@ hide:
                 **比赛权重** : 46.33  
                 **赛事主办** : BCACTF (https://ctftime.org/team/81702)  
                 **添加日历** : https://ctftime.org/event/2274.ics  
-                
-            ??? Quote "[R3CTF/YUANHENGCTF 2024](https://ctf2024.r3kapig.com/)"  
-                [![](https://ctftime.org/media/events/r3_logo.png){ width="200" align=left }](https://ctf2024.r3kapig.com/)  
-                **比赛名称** : [R3CTF/YUANHENGCTF 2024](https://ctf2024.r3kapig.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-06-08 10:00:00 - 2024-06-10 10:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : r3kapig (https://ctftime.org/team/58979)  
-                **添加日历** : https://ctftime.org/event/2273.ics  
                 
     === "*已经结束*"
         === "国内赛事"
@@ -873,6 +855,15 @@ hide:
                 **赛事主办** : diver_osint (https://ctftime.org/team/299569)  
                 **添加日历** : https://ctftime.org/event/2365.ics  
                 
+            ??? Quote "[R3CTF/YUANHENGCTF 2024](https://ctf2024.r3kapig.com/)"  
+                [![](https://ctftime.org/media/events/r3_logo.png){ width="200" align=left }](https://ctf2024.r3kapig.com/)  
+                **比赛名称** : [R3CTF/YUANHENGCTF 2024](https://ctf2024.r3kapig.com/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-06-08 10:00:00 - 2024-06-10 10:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : r3kapig (https://ctftime.org/team/58979)  
+                **添加日历** : https://ctftime.org/event/2273.ics  
+                
             ??? Quote "[ESAIP CTF 2024](https://ctf.esaip.org/)"  
                 [![](https://ctftime.org/media/events/Logo_discord.png){ width="200" align=left }](https://ctf.esaip.org/)  
                 **比赛名称** : [ESAIP CTF 2024](https://ctf.esaip.org/)  
@@ -905,7 +896,7 @@ hide:
                 **比赛名称** : [N0PSctf](https://ctf.nops.re/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2024-06-01 16:00:00 - 2024-06-03 04:00:00 UTC+8  
-                **比赛权重** : 24.41  
+                **比赛权重** : 24.18  
                 **赛事主办** : NOPS (https://ctftime.org/team/4056)  
                 **添加日历** : https://ctftime.org/event/2358.ics  
                 
@@ -926,6 +917,15 @@ hide:
                 **比赛权重** : 0.00  
                 **赛事主办** : Hardware CTF by Quarkslab (https://ctftime.org/team/274600)  
                 **添加日历** : https://ctftime.org/event/2400.ics  
+                
+            ??? Quote "[Season IV, US Cyber Open](https://www.uscybergames.com/apply-to-play-season-4?hsCtaTracking=b8a9eb7a-183c-4113-a5d4-a4ac7b486e4f%7Cb5c8f25c-5752-4e8f-815b-82cb4d186af1)"  
+                [![](https://ctftime.org/media/events/2022-10-USCG_S3_logos_cybergames_1.png){ width="200" align=left }](https://www.uscybergames.com/apply-to-play-season-4?hsCtaTracking=b8a9eb7a-183c-4113-a5d4-a4ac7b486e4f%7Cb5c8f25c-5752-4e8f-815b-82cb4d186af1)  
+                **比赛名称** : [Season IV, US Cyber Open](https://www.uscybergames.com/apply-to-play-season-4?hsCtaTracking=b8a9eb7a-183c-4113-a5d4-a4ac7b486e4f%7Cb5c8f25c-5752-4e8f-815b-82cb4d186af1)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-05-31 19:59:00 - 2024-06-10 07:59:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : PlayCyber (https://ctftime.org/team/165788)  
+                **添加日历** : https://ctftime.org/event/2350.ics  
                 
             ??? Quote "[GPN CTF 2024](https://ctf.kitctf.de/)"  
                 [![](https://ctftime.org/media/events/2acc1e50ba516aa0bc42a61798cfa10d.png){ width="200" align=left }](https://ctf.kitctf.de/)  
@@ -1157,7 +1157,7 @@ hide:
                 **比赛名称** : [squ1rrel CTF 2024](https://ctf.squ1rrel.dev/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2024-05-04 23:00:00 - 2024-05-06 11:00:00 UTC+8  
-                **比赛权重** : 24.38  
+                **比赛权重** : 24.14  
                 **赛事主办** : squ1rrel (https://ctftime.org/team/201730)  
                 **添加日历** : https://ctftime.org/event/2370.ics  
                 
@@ -1544,7 +1544,7 @@ hide:
                 **比赛名称** : [SwampCTF 2024](https://swampctf.com/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2024-04-06 06:00:00 - 2024-04-08 06:00:00 UTC+8  
-                **比赛权重** : 41.41  
+                **比赛权重** : 41.00  
                 **赛事主办** : Kernel Sanders (https://ctftime.org/team/397)  
                 **添加日历** : https://ctftime.org/event/2138.ics  
                 
@@ -1727,24 +1727,6 @@ hide:
                 **比赛权重** : 25.00  
                 **赛事主办** : bitsentinel (https://ctftime.org/team/280005)  
                 **添加日历** : https://ctftime.org/event/2298.ics  
-                
-            ??? Quote "[ApoorvCTF](https://unstop.com/hackathons/capture-the-flag-apoorv-2024-iiit-kottayam-925229)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://unstop.com/hackathons/capture-the-flag-apoorv-2024-iiit-kottayam-925229)  
-                **比赛名称** : [ApoorvCTF](https://unstop.com/hackathons/capture-the-flag-apoorv-2024-iiit-kottayam-925229)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-03-22 14:30:00 - 2024-03-24 14:30:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : r3d_kn1ght5 (https://ctftime.org/team/212248)  
-                **添加日历** : https://ctftime.org/event/2312.ics  
-                
-            ??? Quote "[openECSC 2024 - Round 1](https://open.ecsc2024.it/)"  
-                [![](https://ctftime.org/media/events/openECSC.png){ width="200" align=left }](https://open.ecsc2024.it/)  
-                **比赛名称** : [openECSC 2024 - Round 1](https://open.ecsc2024.it/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-03-18 18:00:00 - 2024-03-25 06:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : ECSC2024 (https://ctftime.org/team/283828)  
-                **添加日历** : https://ctftime.org/event/2305.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
