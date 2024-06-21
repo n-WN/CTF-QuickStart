@@ -301,13 +301,6 @@ hide:
                 **比赛时间** : 2024年07月05日 10:00 - 2024年07月06日 16:00  
                 **其他说明** : QQ群：277328440  
                 
-            ??? Quote "[第五届“闽盾杯”网络空间安全大赛（黑盾全国大学生赛道）](http://heidunbei.si.net.cn/hdc/cover)"  
-                **比赛名称** : [第五届“闽盾杯”网络空间安全大赛（黑盾全国大学生赛道）](http://heidunbei.si.net.cn/hdc/cover)  
-                **比赛类型** : 团队赛|1-3人  
-                **报名时间** : 2024年05月21日 00:00 - 2024年06月19日 18:00  
-                **比赛时间** : 2024年06月21日 09:00 - 2024年06月21日 17:00  
-                **其他说明** : QQ群：566180593  
-                
         === "国外赛事"
             ??? Quote "[CyberSci Nationals 2024](https://cybersecuritychallenge.ca/)"  
                 [![](https://ctftime.org/media/events/c0c445488770d1de63c46986bc92e8e6.png){ width="200" align=left }](https://cybersecuritychallenge.ca/)  
@@ -635,7 +628,13 @@ hide:
                 
     === "*正在进行*"
         === "国内赛事"
-    
+            ??? Quote "[第五届“闽盾杯”网络空间安全大赛（黑盾全国大学生赛道）](http://heidunbei.si.net.cn/hdc/cover)"  
+                **比赛名称** : [第五届“闽盾杯”网络空间安全大赛（黑盾全国大学生赛道）](http://heidunbei.si.net.cn/hdc/cover)  
+                **比赛类型** : 团队赛|1-3人  
+                **报名时间** : 2024年05月21日 00:00 - 2024年06月19日 18:00  
+                **比赛时间** : 2024年06月21日 09:00 - 2024年06月21日 17:00  
+                **其他说明** : QQ群：566180593  
+                
         === "国外赛事"
             ??? Quote "[Sydbox CTF: read /etc/CTF](https://git.sr.ht/~alip/syd#ctf-howto-sydbx-capture-the-flag-challenge)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://git.sr.ht/~alip/syd#ctf-howto-sydbx-capture-the-flag-challenge)  
@@ -777,13 +776,6 @@ hide:
                 **报名时间** : 2024年03月05日 10:00 - 2024年04月01日 09:00  
                 **比赛时间** : 2024年04月01日 10:00 - 2024年05月01日 10:00  
                 **其他说明** : 赛事群：798794707  
-                
-            ??? Quote "[GEEKCON 2024 国际站AVSS挑战赛](https://mp.weixin.qq.com/s/iA1PQ9ExwVlRN_iOB7INAg)"  
-                **比赛名称** : [GEEKCON 2024 国际站AVSS挑战赛](https://mp.weixin.qq.com/s/iA1PQ9ExwVlRN_iOB7INAg)  
-                **比赛类型** : 团队赛  
-                **报名时间** : 2024年4月15日 00:00 - 2024年4月20日 10:00  
-                **比赛时间** : 2024年4月20日 10:00 - 2024年4月22日 10:00  
-                **其他说明** : https://discord.gg/dWvBrfwAmF  
                 
         === "国外赛事"
             ??? Quote "[Midnight Sun CTF 2024 Finals](https://play.midnightsunctf.com/)"  
