@@ -33,13 +33,6 @@ comments: true
     **比赛时间** : 2024年07月05日 10:00 - 2024年07月06日 16:00  
     **其他说明** : QQ群：277328440  
     
-??? Quote "CTFshow-西瓜杯CTF"  
-    **比赛名称** : [CTFshow-西瓜杯CTF](https://ctf.show/)  
-    **比赛类型** : 个人赛  
-    **报名时间** : 2024年06月21日 09:30 - 2024年07月05日 19:00  
-    **比赛时间** : 2024年07月05日 20:00 - 2024年07月07日 20:00  
-    **其他说明** : QQ群：558694708  
-    
 ??? Quote "第五届“闽盾杯”网络空间安全大塞黑盾全国大学生赛道（决赛）"  
     **比赛名称** : [第五届“闽盾杯”网络空间安全大塞黑盾全国大学生赛道（决赛）](http://heidunbei.si.net.cn/hdc/cover)  
     **比赛类型** : 团队赛|3人  
@@ -57,15 +50,6 @@ comments: true
 
 ## 国际赛事
 
-??? Quote "[Interlogica CTF2024 - Wastelands](https://ctf.interlogica.ninja/)"  
-    [![](https://ctftime.org/media/events/Untitled_2.png){ width="200" align=left }](https://ctf.interlogica.ninja/)  
-    **比赛名称** : [Interlogica CTF2024 - Wastelands](https://ctf.interlogica.ninja/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-07-05 20:37:00 - 2024-07-08 06:59:59 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : Interlogica (https://ctftime.org/team/250899)  
-    **添加日历** : https://ctftime.org/event/2301.ics  
-    
 ??? Quote "[HITCON CTF 2024 Quals](https://ctf2024.hitcon.org/)"  
     [![](https://ctftime.org/media/events/hitcon-ctf_monotone_black.png){ width="200" align=left }](https://ctf2024.hitcon.org/)  
     **比赛名称** : [HITCON CTF 2024 Quals](https://ctf2024.hitcon.org/)  
