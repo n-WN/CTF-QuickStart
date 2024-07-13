@@ -5,7 +5,13 @@ comments: true
 
 ## 国内赛事
 
-
+??? Quote "第四届极客少年挑战赛（初赛）"  
+    **比赛名称** : [第四届极客少年挑战赛（初赛）](https://www.cdccs.cn/#/geekYouth)  
+    **比赛类型** : 个人赛  
+    **报名时间** : 2024年06月19日 00:00 - 2024年07月13日 23:59  
+    **比赛时间** : 2024年07月06日 10:00 - 2024年07月20日 12:00  
+    **其他说明** : QQ群：961713058  
+    
 
 ## 国际赛事
 
@@ -35,13 +41,4 @@ comments: true
     **比赛权重** : 100.00  
     **赛事主办** : HITCON (https://ctftime.org/team/8299)  
     **添加日历** : https://ctftime.org/event/2345.ics  
-    
-??? Quote "[OSCTF](https://ctf.os.ftp.sh/)"  
-    [![](https://ctftime.org/media/events/os_ctf_logo.png){ width="200" align=left }](https://ctf.os.ftp.sh/)  
-    **比赛名称** : [OSCTF](https://ctf.os.ftp.sh/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-07-13 08:30:00 - 2024-07-14 00:30:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : OSCTF (https://ctftime.org/team/307415)  
-    **添加日历** : https://ctftime.org/event/2416.ics  
     
