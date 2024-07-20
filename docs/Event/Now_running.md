@@ -12,13 +12,6 @@ comments: true
     **比赛时间** : 2024年07月20日 00:00 - 2024年07月21日 23:59  
     **其他说明** : QQ群：979328132  
     
-??? Quote "第四届极客少年挑战赛（初赛）"  
-    **比赛名称** : [第四届极客少年挑战赛（初赛）](https://www.cdccs.cn/#/geekYouth)  
-    **比赛类型** : 个人赛  
-    **报名时间** : 2024年06月19日 00:00 - 2024年07月13日 23:59  
-    **比赛时间** : 2024年07月06日 10:00 - 2024年07月20日 12:00  
-    **其他说明** : QQ群：961713058  
-    
 
 ## 国际赛事
 
@@ -57,4 +50,13 @@ comments: true
     **比赛权重** : 49.81  
     **赛事主办** : ImaginaryCTF (https://ctftime.org/team/131529)  
     **添加日历** : https://ctftime.org/event/2396.ics  
+    
+??? Quote "[DASCTF 2024 Summer Challenge](https://buuoj.cn/match/matches/207)"  
+    [![](https://ctftime.org/media/events/Dingtalk_20240709141420.jpg){ width="200" align=left }](https://buuoj.cn/match/matches/207)  
+    **比赛名称** : [DASCTF 2024 Summer Challenge](https://buuoj.cn/match/matches/207)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-07-20 10:00:00 - 2024-07-20 18:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : DASCTF (https://ctftime.org/team/303691)  
+    **添加日历** : https://ctftime.org/event/2429.ics  
     

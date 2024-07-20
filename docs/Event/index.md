@@ -400,15 +400,6 @@ hide:
                 **其他说明** : QQ群：676547374 或 566180593  
                 
         === "国外赛事"
-            ??? Quote "[DASCTF 2024 Summer Challenge](https://buuoj.cn/match/matches/207)"  
-                [![](https://ctftime.org/media/events/Dingtalk_20240709141420.jpg){ width="200" align=left }](https://buuoj.cn/match/matches/207)  
-                **比赛名称** : [DASCTF 2024 Summer Challenge](https://buuoj.cn/match/matches/207)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-07-20 10:00:00 - 2024-07-20 18:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : DASCTF (https://ctftime.org/team/303691)  
-                **添加日历** : https://ctftime.org/event/2429.ics  
-                
             ??? Quote "[MOCA CTF - Quals](https://play.pwnx.io/#/event/fb765f39-bc6f-46b9-a7bc-823bc261323a)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://play.pwnx.io/#/event/fb765f39-bc6f-46b9-a7bc-823bc261323a)  
                 **比赛名称** : [MOCA CTF - Quals](https://play.pwnx.io/#/event/fb765f39-bc6f-46b9-a7bc-823bc261323a)  
@@ -823,13 +814,6 @@ hide:
                 **比赛时间** : 2024年07月20日 00:00 - 2024年07月21日 23:59  
                 **其他说明** : QQ群：979328132  
                 
-            ??? Quote "[第四届极客少年挑战赛（初赛）](https://www.cdccs.cn/#/geekYouth)"  
-                **比赛名称** : [第四届极客少年挑战赛（初赛）](https://www.cdccs.cn/#/geekYouth)  
-                **比赛类型** : 个人赛  
-                **报名时间** : 2024年06月19日 00:00 - 2024年07月13日 23:59  
-                **比赛时间** : 2024年07月06日 10:00 - 2024年07月20日 12:00  
-                **其他说明** : QQ群：961713058  
-                
         === "国外赛事"
             ??? Quote "[Sydbox CTF: read /etc/CTF](https://git.sr.ht/~alip/syd#ctf-howto-sydbx-capture-the-flag-challenge)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://git.sr.ht/~alip/syd#ctf-howto-sydbx-capture-the-flag-challenge)  
@@ -867,8 +851,24 @@ hide:
                 **赛事主办** : ImaginaryCTF (https://ctftime.org/team/131529)  
                 **添加日历** : https://ctftime.org/event/2396.ics  
                 
+            ??? Quote "[DASCTF 2024 Summer Challenge](https://buuoj.cn/match/matches/207)"  
+                [![](https://ctftime.org/media/events/Dingtalk_20240709141420.jpg){ width="200" align=left }](https://buuoj.cn/match/matches/207)  
+                **比赛名称** : [DASCTF 2024 Summer Challenge](https://buuoj.cn/match/matches/207)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-07-20 10:00:00 - 2024-07-20 18:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : DASCTF (https://ctftime.org/team/303691)  
+                **添加日历** : https://ctftime.org/event/2429.ics  
+                
     === "*已经结束*"
         === "国内赛事"
+            ??? Quote "[第四届极客少年挑战赛（初赛）](https://www.cdccs.cn/#/geekYouth)"  
+                **比赛名称** : [第四届极客少年挑战赛（初赛）](https://www.cdccs.cn/#/geekYouth)  
+                **比赛类型** : 个人赛  
+                **报名时间** : 2024年06月19日 00:00 - 2024年07月13日 23:59  
+                **比赛时间** : 2024年07月06日 10:00 - 2024年07月20日 12:00  
+                **其他说明** : QQ群：961713058  
+                
             ??? Quote "[WKCTF 2024](http://110.40.35.73:81/)"  
                 **比赛名称** : [WKCTF 2024](http://110.40.35.73:81/)  
                 **比赛类型** : 团队赛|1-4人  
