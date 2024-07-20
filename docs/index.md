@@ -83,33 +83,6 @@ hide:
             **其他说明** : 仅限在册工作人员参加  
                 
     === "国外比赛"
-        ??? Quote "[ENOWARS 8](https://8.enowars.com/)"  
-            [![](https://ctftime.org/media/events/enowars8.png){ width="200" align=left }](https://8.enowars.com/)  
-            **比赛名称** : [ENOWARS 8](https://8.enowars.com/)  
-            **比赛形式** : Attack-Defense  
-            **比赛时间** : 2024-07-20 20:00:00 - 2024-07-21 05:00:00 UTC+8  
-            **比赛权重** : 98.89  
-            **赛事主办** : ENOFLAG (https://ctftime.org/team/1438)  
-            **添加日历** : https://ctftime.org/event/2412.ics  
-            
-        ??? Quote "[pbctf 2024](https://ctf.perfect.blue/)"  
-            [![](https://ctftime.org){ width="200" align=left }](https://ctf.perfect.blue/)  
-            **比赛名称** : [pbctf 2024](https://ctf.perfect.blue/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2024-07-20 22:00:00 - 2024-07-21 22:00:00 UTC+8  
-            **比赛权重** : 55.00  
-            **赛事主办** : perfect blue (https://ctftime.org/team/53802)  
-            **添加日历** : https://ctftime.org/event/2381.ics  
-            
-        ??? Quote "[BDSec CTF 2024](https://bdsec-ctf.com/)"  
-            [![](https://ctftime.org/media/events/brand-logo_1.png){ width="200" align=left }](https://bdsec-ctf.com/)  
-            **比赛名称** : [BDSec CTF 2024](https://bdsec-ctf.com/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2024-07-20 23:00:00 - 2024-07-21 23:00:00 UTC+8  
-            **比赛权重** : 16.00  
-            **赛事主办** : Knight Squad (https://ctftime.org/team/141739)  
-            **添加日历** : https://ctftime.org/event/2421.ics  
-            
         ??? Quote "[Aptos Code Collision CTF 2024](https://ctf.aptosfoundation.org/)"  
             [![](https://ctftime.org/media/events/AptosProfilePic.png){ width="200" align=left }](https://ctf.aptosfoundation.org/)  
             **比赛名称** : [Aptos Code Collision CTF 2024](https://ctf.aptosfoundation.org/)  
@@ -118,6 +91,33 @@ hide:
             **比赛权重** : 0  
             **赛事主办** : Aptos (https://ctftime.org/team/307766)  
             **添加日历** : https://ctftime.org/event/2433.ics  
+            
+        ??? Quote "[DeadSec CTF 2024](https://deadsec.ctf.ae/)"  
+            [![](https://ctftime.org/media/events/Picture1_1.png){ width="200" align=left }](https://deadsec.ctf.ae/)  
+            **比赛名称** : [DeadSec CTF 2024](https://deadsec.ctf.ae/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2024-07-27 04:00:00 - 2024-07-28 16:00:00 UTC+8  
+            **比赛权重** : 23.96  
+            **赛事主办** : DeadSec (https://ctftime.org/team/19339)  
+            **添加日历** : https://ctftime.org/event/2353.ics  
+            
+        ??? Quote "[corCTF 2024](https://ctf.cor.team/)"  
+            [![](https://ctftime.org/media/events/corctflogo_3.png){ width="200" align=left }](https://ctf.cor.team/)  
+            **比赛名称** : [corCTF 2024](https://ctf.cor.team/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2024-07-27 08:00:00 - 2024-07-29 08:00:00 UTC+8  
+            **比赛权重** : 55.00  
+            **赛事主办** : Crusaders of Rust (https://ctftime.org/team/132628)  
+            **添加日历** : https://ctftime.org/event/2282.ics  
+            
+        ??? Quote "[TFC CTF 2024](https://ctf.thefewchosen.com/)"  
+            [![](https://ctftime.org/media/events/discord_logo_3.png){ width="200" align=left }](https://ctf.thefewchosen.com/)  
+            **比赛名称** : [TFC CTF 2024](https://ctf.thefewchosen.com/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2024-08-02 19:00:00 - 2024-08-04 19:00:00 UTC+8  
+            **比赛权重** : 41.68  
+            **赛事主办** : The Few Chosen (https://ctftime.org/team/140885)  
+            **添加日历** : https://ctftime.org/event/2423.ics  
             
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](./Event/)
