@@ -299,13 +299,6 @@ hide:
             **比赛时间** : 2024年08月31日 23:59 - 2024年08月31日 23:59  
             **其他说明** : 仅限辽宁大学研究生 | 参赛队伍需同时参加“华为杯”第三届中国研究生网络安全创新大赛  
             
-        ??? Quote "[2024年南昌市“洪工杯”网络安全行业职工职业技能竞赛](http://61.147.171.109/race/nanchang2024)"  
-            **比赛名称** : [2024年南昌市“洪工杯”网络安全行业职工职业技能竞赛](http://61.147.171.109/race/nanchang2024)  
-            **比赛类型** : 团队赛|3人  
-            **报名时间** : 2024年06月21日 00:00 - 2024年07月21日 23:59  
-            **比赛时间** : 2024年07月27日 00:00 - 2024年07月27日 23:59  
-            **其他说明** : 初赛QQ群: 787262369  
-            
         ??? Quote "[“华为杯”第三届中国研究生网络安全创新大赛](https://cpipc.acge.org.cn//pw/detail/2c9080188fc20569018fe6375eeb2eb2)"  
             **比赛名称** : [“华为杯”第三届中国研究生网络安全创新大赛](https://cpipc.acge.org.cn//pw/detail/2c9080188fc20569018fe6375eeb2eb2)  
             **比赛类型** : 团队赛|1-4人  
@@ -357,13 +350,6 @@ hide:
                 **比赛时间** : 2024年08月31日 23:59 - 2024年08月31日 23:59  
                 **其他说明** : 仅限辽宁大学研究生 | 参赛队伍需同时参加“华为杯”第三届中国研究生网络安全创新大赛  
                 
-            ??? Quote "[2024年南昌市“洪工杯”网络安全行业职工职业技能竞赛](http://61.147.171.109/race/nanchang2024)"  
-                **比赛名称** : [2024年南昌市“洪工杯”网络安全行业职工职业技能竞赛](http://61.147.171.109/race/nanchang2024)  
-                **比赛类型** : 团队赛|3人  
-                **报名时间** : 2024年06月21日 00:00 - 2024年07月21日 23:59  
-                **比赛时间** : 2024年07月27日 00:00 - 2024年07月27日 23:59  
-                **其他说明** : 初赛QQ群: 787262369  
-                
             ??? Quote "[“华为杯”第三届中国研究生网络安全创新大赛](https://cpipc.acge.org.cn//pw/detail/2c9080188fc20569018fe6375eeb2eb2)"  
                 **比赛名称** : [“华为杯”第三届中国研究生网络安全创新大赛](https://cpipc.acge.org.cn//pw/detail/2c9080188fc20569018fe6375eeb2eb2)  
                 **比赛类型** : 团队赛|1-4人  
@@ -384,6 +370,13 @@ hide:
                 **报名时间** : 2024年7月15日 00:00 - 2024年7月31日 23:59  
                 **比赛时间** : 2024年08月01日 00:00 - 2024年08月20日 23:59  
                 **其他说明** : QQ群: 622869531 组委会邮箱: tianwangcup@163.com  
+                
+            ??? Quote "[2024年南昌市“洪工杯”网络安全行业职工职业技能竞赛](http://61.147.171.109/race/nanchang2024)"  
+                **比赛名称** : [2024年南昌市“洪工杯”网络安全行业职工职业技能竞赛](http://61.147.171.109/race/nanchang2024)  
+                **比赛类型** : 团队赛|3人  
+                **报名时间** : 2024年06月21日 00:00 - 2024年07月21日 23:59  
+                **比赛时间** : 2024年07月27日 00:00 - 2024年07月27日 23:59  
+                **其他说明** : 初赛QQ群: 787262369  
                 
             ??? Quote "[“广东通信杯”广东省信息通信行业第四届网络安全技能大赛暨第八届全国职工职业技能大赛网络与信息安全管理员赛项广东省选拔赛](https://gdca.miit.gov.cn/zwgk/tzgg/art/2024/art_c220b24f198346e08bb0074f511a6121.html)"  
                 **比赛名称** : [“广东通信杯”广东省信息通信行业第四届网络安全技能大赛暨第八届全国职工职业技能大赛网络与信息安全管理员赛项广东省选拔赛](https://gdca.miit.gov.cn/zwgk/tzgg/art/2024/art_c220b24f198346e08bb0074f511a6121.html)  
@@ -771,13 +764,7 @@ hide:
                 
     === "*正在进行*"
         === "国内赛事"
-            ??? Quote "[第十七届全国大学生信息安全竞赛创新实践能力赛（总决赛）](http://www.ciscn.cn/announcement/view/350)"  
-                **比赛名称** : [第十七届全国大学生信息安全竞赛创新实践能力赛（总决赛）](http://www.ciscn.cn/announcement/view/350)  
-                **比赛类型** : 团队赛|1-4人  
-                **报名时间** : 2024年07月04日 02:50 - 2024年07月04日 03:50  
-                **比赛时间** : 2024年07月20日 00:00 - 2024年07月21日 23:59  
-                **其他说明** : QQ群：979328132  
-                
+    
         === "国外赛事"
             ??? Quote "[Sydbox CTF: read /etc/CTF](https://git.sr.ht/~alip/syd#ctf-howto-sydbx-capture-the-flag-challenge)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://git.sr.ht/~alip/syd#ctf-howto-sydbx-capture-the-flag-challenge)  
@@ -788,15 +775,6 @@ hide:
                 **赛事主办** : Exherbo GNU/Linux (https://ctftime.org/team/275214)  
                 **添加日历** : https://ctftime.org/event/2178.ics  
                 
-            ??? Quote "[Kryptokaffe CTF 2024](https://www.kryptokaffe.se/)"  
-                [![](https://ctftime.org/media/events/kryptokaffe2k24.png){ width="200" align=left }](https://www.kryptokaffe.se/)  
-                **比赛名称** : [Kryptokaffe CTF 2024](https://www.kryptokaffe.se/)  
-                **比赛形式** : Hack quest  
-                **比赛时间** : 2024-06-17 16:00:00 - 2024-07-21 20:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : Fikamyndigheten (https://ctftime.org/team/305722)  
-                **添加日历** : https://ctftime.org/event/2399.ics  
-                
             ??? Quote "[ImaginaryCTF 2024](https://2024.imaginaryctf.org/)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://2024.imaginaryctf.org/)  
                 **比赛名称** : [ImaginaryCTF 2024](https://2024.imaginaryctf.org/)  
@@ -806,26 +784,15 @@ hide:
                 **赛事主办** : ImaginaryCTF (https://ctftime.org/team/131529)  
                 **添加日历** : https://ctftime.org/event/2396.ics  
                 
-            ??? Quote "[pbctf 2024](https://ctf.perfect.blue/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://ctf.perfect.blue/)  
-                **比赛名称** : [pbctf 2024](https://ctf.perfect.blue/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-07-20 22:00:00 - 2024-07-21 22:00:00 UTC+8  
-                **比赛权重** : 55.00  
-                **赛事主办** : perfect blue (https://ctftime.org/team/53802)  
-                **添加日历** : https://ctftime.org/event/2381.ics  
-                
-            ??? Quote "[BDSec CTF 2024](https://bdsec-ctf.com/)"  
-                [![](https://ctftime.org/media/events/brand-logo_1.png){ width="200" align=left }](https://bdsec-ctf.com/)  
-                **比赛名称** : [BDSec CTF 2024](https://bdsec-ctf.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-07-20 23:00:00 - 2024-07-21 23:00:00 UTC+8  
-                **比赛权重** : 16.00  
-                **赛事主办** : Knight Squad (https://ctftime.org/team/141739)  
-                **添加日历** : https://ctftime.org/event/2421.ics  
-                
     === "*已经结束*"
         === "国内赛事"
+            ??? Quote "[第十七届全国大学生信息安全竞赛创新实践能力赛（总决赛）](http://www.ciscn.cn/announcement/view/350)"  
+                **比赛名称** : [第十七届全国大学生信息安全竞赛创新实践能力赛（总决赛）](http://www.ciscn.cn/announcement/view/350)  
+                **比赛类型** : 团队赛|1-4人  
+                **报名时间** : 2024年07月04日 02:50 - 2024年07月04日 03:50  
+                **比赛时间** : 2024年07月20日 00:00 - 2024年07月21日 23:59  
+                **其他说明** : QQ群：979328132  
+                
             ??? Quote "[第四届极客少年挑战赛（初赛）](https://www.cdccs.cn/#/geekYouth)"  
                 **比赛名称** : [第四届极客少年挑战赛（初赛）](https://www.cdccs.cn/#/geekYouth)  
                 **比赛类型** : 个人赛  
@@ -939,6 +906,24 @@ hide:
                 **其他说明** : QQ群:619577692 / 852601317 邮箱:iscc2004@163.com  
                 
         === "国外赛事"
+            ??? Quote "[BDSec CTF 2024](https://bdsec-ctf.com/)"  
+                [![](https://ctftime.org/media/events/brand-logo_1.png){ width="200" align=left }](https://bdsec-ctf.com/)  
+                **比赛名称** : [BDSec CTF 2024](https://bdsec-ctf.com/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-07-20 23:00:00 - 2024-07-21 23:00:00 UTC+8  
+                **比赛权重** : 16.00  
+                **赛事主办** : Knight Squad (https://ctftime.org/team/141739)  
+                **添加日历** : https://ctftime.org/event/2421.ics  
+                
+            ??? Quote "[pbctf 2024](https://ctf.perfect.blue/)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://ctf.perfect.blue/)  
+                **比赛名称** : [pbctf 2024](https://ctf.perfect.blue/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-07-20 22:00:00 - 2024-07-21 22:00:00 UTC+8  
+                **比赛权重** : 55.00  
+                **赛事主办** : perfect blue (https://ctftime.org/team/53802)  
+                **添加日历** : https://ctftime.org/event/2381.ics  
+                
             ??? Quote "[ENOWARS 8](https://8.enowars.com/)"  
                 [![](https://ctftime.org/media/events/enowars8.png){ width="200" align=left }](https://8.enowars.com/)  
                 **比赛名称** : [ENOWARS 8](https://8.enowars.com/)  
@@ -1016,7 +1001,7 @@ hide:
                 **比赛名称** : [Junior.Crypt.2024 CTF](http://ctf-spcs.mf.grsu.by/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2024-07-03 23:00:00 - 2024-07-05 23:00:00 UTC+8  
-                **比赛权重** : 23.81  
+                **比赛权重** : 23.88  
                 **赛事主办** : Beavers0 (https://ctftime.org/team/269281)  
                 **添加日历** : https://ctftime.org/event/2259.ics  
                 
@@ -1127,6 +1112,15 @@ hide:
                 **比赛权重** : 0.00  
                 **赛事主办** : NUSGreyhats (https://ctftime.org/team/16740)  
                 **添加日历** : https://ctftime.org/event/2244.ics  
+                
+            ??? Quote "[Kryptokaffe CTF 2024](https://www.kryptokaffe.se/)"  
+                [![](https://ctftime.org/media/events/kryptokaffe2k24.png){ width="200" align=left }](https://www.kryptokaffe.se/)  
+                **比赛名称** : [Kryptokaffe CTF 2024](https://www.kryptokaffe.se/)  
+                **比赛形式** : Hack quest  
+                **比赛时间** : 2024-06-17 16:00:00 - 2024-07-21 20:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : Fikamyndigheten (https://ctftime.org/team/305722)  
+                **添加日历** : https://ctftime.org/event/2399.ics  
                 
             ??? Quote "[Midnight Sun CTF 2024 Finals](https://play.midnightsunctf.com/)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://play.midnightsunctf.com/)  
@@ -1811,33 +1805,6 @@ hide:
                 **比赛权重** : 0.00  
                 **赛事主办** : WayneStateCTF (https://ctftime.org/team/135263)  
                 **添加日历** : https://ctftime.org/event/2337.ics  
-                
-            ??? Quote "[CybHackCTF 2024 Spring](https://event.kibhackctf.ru/)"  
-                [![](https://ctftime.org/media/events/logo_98.png){ width="200" align=left }](https://event.kibhackctf.ru/)  
-                **比赛名称** : [CybHackCTF 2024 Spring](https://event.kibhackctf.ru/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-04-13 17:00:00 - 2024-04-14 17:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : CybHackCTF (https://ctftime.org/team/278998)  
-                **添加日历** : https://ctftime.org/event/2344.ics  
-                
-            ??? Quote "[b01lers CTF 2024](https://b01lersc.tf/)"  
-                [![](https://ctftime.org/media/events/b01lers-griffen_1.png){ width="200" align=left }](https://b01lersc.tf/)  
-                **比赛名称** : [b01lers CTF 2024](https://b01lersc.tf/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-04-13 07:00:00 - 2024-04-15 07:00:00 UTC+8  
-                **比赛权重** : 30.80  
-                **赛事主办** : b01lers (https://ctftime.org/team/11464)  
-                **添加日历** : https://ctftime.org/event/2250.ics  
-                
-            ??? Quote "[Space Heroes 2024](https://spaceheroes.ctfd.io/)"  
-                [![](https://ctftime.org/media/events/moon.png){ width="200" align=left }](https://spaceheroes.ctfd.io/)  
-                **比赛名称** : [Space Heroes 2024](https://spaceheroes.ctfd.io/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-04-13 06:00:00 - 2024-04-15 06:00:00 UTC+8  
-                **比赛权重** : 24.50  
-                **赛事主办** : FITSEC (https://ctftime.org/team/65296)  
-                **添加日历** : https://ctftime.org/event/2254.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>

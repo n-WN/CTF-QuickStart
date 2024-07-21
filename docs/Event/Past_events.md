@@ -5,6 +5,13 @@ comments: true
 
 ## 国内赛事
 
+??? Quote "第十七届全国大学生信息安全竞赛创新实践能力赛（总决赛）"  
+    **比赛名称** : [第十七届全国大学生信息安全竞赛创新实践能力赛（总决赛）](http://www.ciscn.cn/announcement/view/350)  
+    **比赛类型** : 团队赛|1-4人  
+    **报名时间** : 2024年07月04日 02:50 - 2024年07月04日 03:50  
+    **比赛时间** : 2024年07月20日 00:00 - 2024年07月21日 23:59  
+    **其他说明** : QQ群：979328132  
+    
 ??? Quote "第四届极客少年挑战赛（初赛）"  
     **比赛名称** : [第四届极客少年挑战赛（初赛）](https://www.cdccs.cn/#/geekYouth)  
     **比赛类型** : 个人赛  
@@ -119,6 +126,24 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[BDSec CTF 2024](https://bdsec-ctf.com/)"  
+    [![](https://ctftime.org/media/events/brand-logo_1.png){ width="200" align=left }](https://bdsec-ctf.com/)  
+    **比赛名称** : [BDSec CTF 2024](https://bdsec-ctf.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-07-20 23:00:00 - 2024-07-21 23:00:00 UTC+8  
+    **比赛权重** : 16.00  
+    **赛事主办** : Knight Squad (https://ctftime.org/team/141739)  
+    **添加日历** : https://ctftime.org/event/2421.ics  
+    
+??? Quote "[pbctf 2024](https://ctf.perfect.blue/)"  
+    [![](https://ctftime.org){ width="200" align=left }](https://ctf.perfect.blue/)  
+    **比赛名称** : [pbctf 2024](https://ctf.perfect.blue/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-07-20 22:00:00 - 2024-07-21 22:00:00 UTC+8  
+    **比赛权重** : 55.00  
+    **赛事主办** : perfect blue (https://ctftime.org/team/53802)  
+    **添加日历** : https://ctftime.org/event/2381.ics  
+    
 ??? Quote "[ENOWARS 8](https://8.enowars.com/)"  
     [![](https://ctftime.org/media/events/enowars8.png){ width="200" align=left }](https://8.enowars.com/)  
     **比赛名称** : [ENOWARS 8](https://8.enowars.com/)  
@@ -196,7 +221,7 @@ comments: true
     **比赛名称** : [Junior.Crypt.2024 CTF](http://ctf-spcs.mf.grsu.by/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2024-07-03 23:00:00 - 2024-07-05 23:00:00 UTC+8  
-    **比赛权重** : 23.81  
+    **比赛权重** : 23.88  
     **赛事主办** : Beavers0 (https://ctftime.org/team/269281)  
     **添加日历** : https://ctftime.org/event/2259.ics  
     
@@ -307,6 +332,15 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : NUSGreyhats (https://ctftime.org/team/16740)  
     **添加日历** : https://ctftime.org/event/2244.ics  
+    
+??? Quote "[Kryptokaffe CTF 2024](https://www.kryptokaffe.se/)"  
+    [![](https://ctftime.org/media/events/kryptokaffe2k24.png){ width="200" align=left }](https://www.kryptokaffe.se/)  
+    **比赛名称** : [Kryptokaffe CTF 2024](https://www.kryptokaffe.se/)  
+    **比赛形式** : Hack quest  
+    **比赛时间** : 2024-06-17 16:00:00 - 2024-07-21 20:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : Fikamyndigheten (https://ctftime.org/team/305722)  
+    **添加日历** : https://ctftime.org/event/2399.ics  
     
 ??? Quote "[Midnight Sun CTF 2024 Finals](https://play.midnightsunctf.com/)"  
     [![](https://ctftime.org){ width="200" align=left }](https://play.midnightsunctf.com/)  
@@ -991,31 +1025,4 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : WayneStateCTF (https://ctftime.org/team/135263)  
     **添加日历** : https://ctftime.org/event/2337.ics  
-    
-??? Quote "[CybHackCTF 2024 Spring](https://event.kibhackctf.ru/)"  
-    [![](https://ctftime.org/media/events/logo_98.png){ width="200" align=left }](https://event.kibhackctf.ru/)  
-    **比赛名称** : [CybHackCTF 2024 Spring](https://event.kibhackctf.ru/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-04-13 17:00:00 - 2024-04-14 17:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : CybHackCTF (https://ctftime.org/team/278998)  
-    **添加日历** : https://ctftime.org/event/2344.ics  
-    
-??? Quote "[b01lers CTF 2024](https://b01lersc.tf/)"  
-    [![](https://ctftime.org/media/events/b01lers-griffen_1.png){ width="200" align=left }](https://b01lersc.tf/)  
-    **比赛名称** : [b01lers CTF 2024](https://b01lersc.tf/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-04-13 07:00:00 - 2024-04-15 07:00:00 UTC+8  
-    **比赛权重** : 30.80  
-    **赛事主办** : b01lers (https://ctftime.org/team/11464)  
-    **添加日历** : https://ctftime.org/event/2250.ics  
-    
-??? Quote "[Space Heroes 2024](https://spaceheroes.ctfd.io/)"  
-    [![](https://ctftime.org/media/events/moon.png){ width="200" align=left }](https://spaceheroes.ctfd.io/)  
-    **比赛名称** : [Space Heroes 2024](https://spaceheroes.ctfd.io/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-04-13 06:00:00 - 2024-04-15 06:00:00 UTC+8  
-    **比赛权重** : 24.50  
-    **赛事主办** : FITSEC (https://ctftime.org/team/65296)  
-    **添加日历** : https://ctftime.org/event/2254.ics  
     
