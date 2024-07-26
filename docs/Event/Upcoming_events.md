@@ -61,13 +61,6 @@ comments: true
     **比赛时间** : 2024年08月23日 10:00 - 2024年08月23日 15:00  
     **其他说明** : QQ群：961713058  
     
-??? Quote "2024年南昌市“洪工杯”网络安全行业职工职业技能竞赛"  
-    **比赛名称** : [2024年南昌市“洪工杯”网络安全行业职工职业技能竞赛](http://61.147.171.109/race/nanchang2024)  
-    **比赛类型** : 团队赛|3人  
-    **报名时间** : 2024年06月21日 00:00 - 2024年07月21日 23:59  
-    **比赛时间** : 2024年07月27日 00:00 - 2024年07月27日 23:59  
-    **其他说明** : 初赛QQ群: 787262369  
-    
 ??? Quote "“广东通信杯”广东省信息通信行业第四届网络安全技能大赛暨第八届全国职工职业技能大赛网络与信息安全管理员赛项广东省选拔赛"  
     **比赛名称** : [“广东通信杯”广东省信息通信行业第四届网络安全技能大赛暨第八届全国职工职业技能大赛网络与信息安全管理员赛项广东省选拔赛](https://gdca.miit.gov.cn/zwgk/tzgg/art/2024/art_c220b24f198346e08bb0074f511a6121.html)  
     **比赛类型** : 个人赛 and 团队赛|3人  
@@ -85,15 +78,6 @@ comments: true
 
 ## 国际赛事
 
-??? Quote "[Aptos Code Collision CTF 2024](https://ctf.aptosfoundation.org/)"  
-    [![](https://ctftime.org/media/events/AptosProfilePic.png){ width="200" align=left }](https://ctf.aptosfoundation.org/)  
-    **比赛名称** : [Aptos Code Collision CTF 2024](https://ctf.aptosfoundation.org/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-07-26 20:00:00 - 2024-07-28 20:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : Aptos (https://ctftime.org/team/307766)  
-    **添加日历** : https://ctftime.org/event/2433.ics  
-    
 ??? Quote "[DeadSec CTF 2024](https://deadsec.ctf.ae/)"  
     [![](https://ctftime.org/media/events/Picture1_1.png){ width="200" align=left }](https://deadsec.ctf.ae/)  
     **比赛名称** : [DeadSec CTF 2024](https://deadsec.ctf.ae/)  

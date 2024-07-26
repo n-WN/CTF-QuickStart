@@ -61,13 +61,6 @@ hide:
             **比赛时间** : 2024年06月30日 00:00 - 2024年08月31日 23:59  
             **其他说明** : 仅限研究生  
             
-        ??? Quote "[2024年南昌市“洪工杯”网络安全行业职工职业技能竞赛](http://61.147.171.109/race/nanchang2024)"  
-            **比赛名称** : [2024年南昌市“洪工杯”网络安全行业职工职业技能竞赛](http://61.147.171.109/race/nanchang2024)  
-            **比赛类型** : 团队赛|3人  
-            **报名时间** : 2024年06月21日 00:00 - 2024年07月21日 23:59  
-            **比赛时间** : 2024年07月27日 00:00 - 2024年07月27日 23:59  
-            **其他说明** : 初赛QQ群: 787262369  
-            
         ??? Quote "[第二届“天网杯”网络安全大赛](https://twcup.cverc.org.cn/twb/twb2024)"  
             **比赛名称** : [第二届“天网杯”网络安全大赛](https://twcup.cverc.org.cn/twb/twb2024)  
             **比赛类型** : 团队赛|不超过5人  
@@ -81,17 +74,15 @@ hide:
             **报名时间** : 2024年06月27日 15:42 - 2024年07月15日 23:59  
             **比赛时间** : 2024年08月04日 08:30 - 2024年08月04日 16:30  
             **其他说明** : 仅限在册工作人员参加  
+            
+        ??? Quote "[2024年浙江省网络安全行业网络安全运维工程师项目职业技能竞赛](https://mp.weixin.qq.com/s/Uf12nfGPFHxz8QMe60cpDA)"  
+            **比赛名称** : [2024年浙江省网络安全行业网络安全运维工程师项目职业技能竞赛](https://mp.weixin.qq.com/s/Uf12nfGPFHxz8QMe60cpDA)  
+            **比赛类型** : 个人赛  
+            **报名时间** : 2024年07月08日 10:46 - 2024年07月31日 20:00  
+            **比赛时间** : 2024年08月12日 00:00 - 2024年08月22日 15:00  
+            **其他说明** : QQ群: 697694051 | 仅限相关岗位在职员工参加  
                 
     === "国外比赛"
-        ??? Quote "[Aptos Code Collision CTF 2024](https://ctf.aptosfoundation.org/)"  
-            [![](https://ctftime.org/media/events/AptosProfilePic.png){ width="200" align=left }](https://ctf.aptosfoundation.org/)  
-            **比赛名称** : [Aptos Code Collision CTF 2024](https://ctf.aptosfoundation.org/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2024-07-26 20:00:00 - 2024-07-28 20:00:00 UTC+8  
-            **比赛权重** : 0  
-            **赛事主办** : Aptos (https://ctftime.org/team/307766)  
-            **添加日历** : https://ctftime.org/event/2433.ics  
-            
         ??? Quote "[DeadSec CTF 2024](https://deadsec.ctf.ae/)"  
             [![](https://ctftime.org/media/events/Picture1_1.png){ width="200" align=left }](https://deadsec.ctf.ae/)  
             **比赛名称** : [DeadSec CTF 2024](https://deadsec.ctf.ae/)  
@@ -118,6 +109,15 @@ hide:
             **比赛权重** : 0.00  
             **赛事主办** : D Asset Inc. (https://ctftime.org/team/310109)  
             **添加日历** : https://ctftime.org/event/2442.ics  
+            
+        ??? Quote "[TFC CTF 2024](https://ctf.thefewchosen.com/)"  
+            [![](https://ctftime.org/media/events/discord_logo_3.png){ width="200" align=left }](https://ctf.thefewchosen.com/)  
+            **比赛名称** : [TFC CTF 2024](https://ctf.thefewchosen.com/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2024-08-02 19:00:00 - 2024-08-04 19:00:00 UTC+8  
+            **比赛权重** : 41.68  
+            **赛事主办** : The Few Chosen (https://ctftime.org/team/140885)  
+            **添加日历** : https://ctftime.org/event/2423.ics  
             
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](./Event/)
