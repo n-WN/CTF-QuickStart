@@ -516,18 +516,6 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "DeadSec CTF 2024",
-        "比赛时间": "2024-07-27 04:00:00 - 2024-07-28 16:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2353.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://deadsec.ctf.ae/",
-        "比赛标志": "https://ctftime.org/media/events/Picture1_1.png",
-        "比赛权重": "23.96",
-        "赛事主办": "DeadSec (https://ctftime.org/team/19339)",
-        "比赛ID": "268",
-        "比赛状态": "nowrunning"
-    },
-    {
         "比赛名称": "corCTF 2024",
         "比赛时间": "2024-07-27 08:00:00 - 2024-07-29 08:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2282.ics",
@@ -538,6 +526,18 @@
         "赛事主办": "Crusaders of Rust (https://ctftime.org/team/132628)",
         "比赛ID": "627",
         "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "DeadSec CTF 2024",
+        "比赛时间": "2024-07-27 04:00:00 - 2024-07-28 16:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2353.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://deadsec.ctf.ae/",
+        "比赛标志": "https://ctftime.org/media/events/Picture1_1.png",
+        "比赛权重": "23.96",
+        "赛事主办": "DeadSec (https://ctftime.org/team/19339)",
+        "比赛ID": "268",
+        "比赛状态": "past"
     },
     {
         "比赛名称": "BDSec CTF 2024",
@@ -582,7 +582,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://play.pwnx.io/#/event/fb765f39-bc6f-46b9-a7bc-823bc261323a",
         "比赛标志": "https://ctftime.org",
-        "比赛权重": "0",
+        "比赛权重": "25.00",
         "赛事主办": "Metro Olografix (https://ctftime.org/team/268425)",
         "比赛ID": "1075",
         "比赛状态": "past"
@@ -630,7 +630,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://ctf.os.ftp.sh/",
         "比赛标志": "https://ctftime.org/media/events/os_ctf_logo.png",
-        "比赛权重": "23.11",
+        "比赛权重": "23.23",
         "赛事主办": "OSCTF (https://ctftime.org/team/307415)",
         "比赛ID": "1144",
         "比赛状态": "past"
@@ -990,7 +990,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://ctf.nops.re/",
         "比赛标志": "https://ctftime.org/media/events/favicon_5.png",
-        "比赛权重": "24.23",
+        "比赛权重": "24.26",
         "赛事主办": "NOPS (https://ctftime.org/team/4056)",
         "比赛ID": "1114",
         "比赛状态": "past"
@@ -1122,7 +1122,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://ctf.l3ak.team/",
         "比赛标志": "https://ctftime.org/media/events/ctf_final.png",
-        "比赛权重": "24.39",
+        "比赛权重": "24.41",
         "赛事主办": "L3ak (https://ctftime.org/team/220336)",
         "比赛ID": "1077",
         "比赛状态": "past"
@@ -1725,18 +1725,6 @@
         "比赛权重": "0.00",
         "赛事主办": "Zero Day Club (https://ctftime.org/team/286318)",
         "比赛ID": "1089",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "Incognito 5.0",
-        "比赛时间": "2024-04-16 18:00:00 - 2024-04-17 06:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2316.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ictf5.ninja/",
-        "比赛标志": "https://ctftime.org/media/events/lo.png",
-        "比赛权重": "21.95",
-        "赛事主办": "Byt3Scr4pp3rs (https://ctftime.org/team/57772)",
-        "比赛ID": "413",
         "比赛状态": "past"
     }
 ]
