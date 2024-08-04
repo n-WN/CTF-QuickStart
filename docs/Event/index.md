@@ -546,9 +546,9 @@ hide:
                 **赛事主办** : ECSC2024 (https://ctftime.org/team/283828)  
                 **添加日历** : https://ctftime.org/event/2356.ics  
                 
-            ??? Quote "[21ans LinuxMeetup au Québec](https://www.rencontres-linux.quebec/event/21-ans-de-linux-meetup-au-quebec-1/page/emplacement-21-ans-de-linux-meetup-au-quebec)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://www.rencontres-linux.quebec/event/21-ans-de-linux-meetup-au-quebec-1/page/emplacement-21-ans-de-linux-meetup-au-quebec)  
-                **比赛名称** : [21ans LinuxMeetup au Québec](https://www.rencontres-linux.quebec/event/21-ans-de-linux-meetup-au-quebec-1/page/emplacement-21-ans-de-linux-meetup-au-quebec)  
+            ??? Quote "[21ans LinuxMeetup au Québec](https://www.linuxver.site/)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://www.linuxver.site/)  
+                **比赛名称** : [21ans LinuxMeetup au Québec](https://www.linuxver.site/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2024-09-21 21:30:00 - 2024-09-22 05:00:00 UTC+8  
                 **比赛权重** : 0.00  
@@ -763,15 +763,6 @@ hide:
                 **赛事主办** : Exherbo GNU/Linux (https://ctftime.org/team/275214)  
                 **添加日历** : https://ctftime.org/event/2178.ics  
                 
-            ??? Quote "[CrewCTF 2024](https://2024.crewc.tf/)"  
-                [![](https://ctftime.org/media/events/THC_new.png){ width="200" align=left }](https://2024.crewc.tf/)  
-                **比赛名称** : [CrewCTF 2024](https://2024.crewc.tf/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-08-03 01:00:00 - 2024-08-05 01:00:00 UTC+8  
-                **比赛权重** : 26.89  
-                **赛事主办** : thehackerscrew (https://ctftime.org/team/85618)  
-                **添加日历** : https://ctftime.org/event/2223.ics  
-                
             ??? Quote "[n00bzCTF 2024](https://ctf.n00bzunit3d.xyz/)"  
                 [![](https://ctftime.org/media/events/logo_ascii_1.png){ width="200" align=left }](https://ctf.n00bzunit3d.xyz/)  
                 **比赛名称** : [n00bzCTF 2024](https://ctf.n00bzunit3d.xyz/)  
@@ -860,14 +851,16 @@ hide:
                 **比赛时间** : 2024年06月06日 10:00 - 2024年06月06日 14:00  
                 **其他说明** : QQ群：623112042  
                 
-            ??? Quote "[第十七届全国大学生信息安全竞赛 - 作品赛](http://www.ciscn.cn/competition/securityCompetition?compet_id=39)"  
-                **比赛名称** : [第十七届全国大学生信息安全竞赛 - 作品赛](http://www.ciscn.cn/competition/securityCompetition?compet_id=39)  
-                **比赛类型** : 作品赛  
-                **报名时间** : 2024年04月07日 23:00 - 2024年06月05日 23:00  
-                **比赛时间** : 2024年04月10日 23:00 - 2024年06月05日 23:00  
-                **其他说明** : 作品赛，不提供更多信息，如有疑问请前往比赛通知页面 http://www.ciscn.cn/competition/securityCompetition?compet_id=39  
-                
         === "国外赛事"
+            ??? Quote "[CrewCTF 2024](https://2024.crewc.tf/)"  
+                [![](https://ctftime.org/media/events/THC_new.png){ width="200" align=left }](https://2024.crewc.tf/)  
+                **比赛名称** : [CrewCTF 2024](https://2024.crewc.tf/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-08-03 01:00:00 - 2024-08-05 01:00:00 UTC+8  
+                **比赛权重** : 26.89  
+                **赛事主办** : thehackerscrew (https://ctftime.org/team/85618)  
+                **添加日历** : https://ctftime.org/event/2223.ics  
+                
             ??? Quote "[TFC CTF 2024](https://ctf.thefewchosen.com/)"  
                 [![](https://ctftime.org/media/events/discord_logo_3.png){ width="200" align=left }](https://ctf.thefewchosen.com/)  
                 **比赛名称** : [TFC CTF 2024](https://ctf.thefewchosen.com/)  
@@ -954,7 +947,7 @@ hide:
                 **比赛名称** : [DASCTF 2024 Summer Challenge](https://buuoj.cn/match/matches/207)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2024-07-20 10:00:00 - 2024-07-20 18:00:00 UTC+8  
-                **比赛权重** : 0.00  
+                **比赛权重** : 20.00  
                 **赛事主办** : DASCTF (https://ctftime.org/team/303691)  
                 **添加日历** : https://ctftime.org/event/2429.ics  
                 
@@ -1758,15 +1751,6 @@ hide:
                 **比赛权重** : 22.46  
                 **赛事主办** : NUSGreyhats (https://ctftime.org/team/16740)  
                 **添加日历** : https://ctftime.org/event/2242.ics  
-                
-            ??? Quote "[AVSS Contest 2024](https://avss.geekcon.top/)"  
-                [![](https://ctftime.org/media/events/AVSS.png){ width="200" align=left }](https://avss.geekcon.top/)  
-                **比赛名称** : [AVSS Contest 2024](https://avss.geekcon.top/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-04-20 10:00:00 - 2024-04-22 10:00:00 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : GEEKCON (https://ctftime.org/team/255059)  
-                **添加日历** : https://ctftime.org/event/2335.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
