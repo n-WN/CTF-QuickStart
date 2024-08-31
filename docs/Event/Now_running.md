@@ -19,13 +19,6 @@ comments: true
     **比赛时间** : 2024年08月10日 09:00 - 2024年10月14日 21:00  
     **其他说明** : QQ 群：187536315  
     
-??? Quote "第三届江苏大学研究生网络安全创新大赛"  
-    **比赛名称** : [第三届江苏大学研究生网络安全创新大赛](https://yjsy.ujs.edu.cn/info/1305/28415.htm)  
-    **比赛类型** : 团队赛|1-4人  
-    **报名时间** : 2024年06月30日 00:00 - 2024年08月30日 23:59  
-    **比赛时间** : 2024年06月30日 00:00 - 2024年08月31日 23:59  
-    **其他说明** : 仅限研究生  
-    
 
 ## 国际赛事
 
@@ -55,4 +48,13 @@ comments: true
     **比赛权重** : 0  
     **赛事主办** : CyberSpace (https://ctftime.org/team/116280)  
     **添加日历** : https://ctftime.org/event/2428.ics  
+    
+??? Quote "[CISA ICS CTF 2024](https://ctf.cisaicsctf.com/)"  
+    [![](https://ctftime.org/media/events/CTF_Drifveil_Logo-1.png){ width="200" align=left }](https://ctf.cisaicsctf.com/)  
+    **比赛名称** : [CISA ICS CTF 2024](https://ctf.cisaicsctf.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-09-01 01:00:00 - 2024-09-05 00:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : CISA ICSJWG (https://ctftime.org/team/182074)  
+    **添加日历** : https://ctftime.org/event/2404.ics  
     

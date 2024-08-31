@@ -1,17 +1,5 @@
 [
     {
-        "比赛名称": "CISA ICS CTF 2024",
-        "比赛时间": "2024-09-01 01:00:00 - 2024-09-05 00:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2404.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.cisaicsctf.com/",
-        "比赛标志": "https://ctftime.org/media/events/CTF_Drifveil_Logo-1.png",
-        "比赛权重": "0.00",
-        "赛事主办": "CISA ICSJWG (https://ctftime.org/team/182074)",
-        "比赛ID": "784",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "AlpacaHack Round 2 (Web)",
         "比赛时间": "2024-09-01 11:00:00 - 2024-09-01 17:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2465.ics",
@@ -732,6 +720,18 @@
         "比赛状态": "nowrunning"
     },
     {
+        "比赛名称": "CISA ICS CTF 2024",
+        "比赛时间": "2024-09-01 01:00:00 - 2024-09-05 00:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2404.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.cisaicsctf.com/",
+        "比赛标志": "https://ctftime.org/media/events/CTF_Drifveil_Logo-1.png",
+        "比赛权重": "0",
+        "赛事主办": "CISA ICSJWG (https://ctftime.org/team/182074)",
+        "比赛ID": "784",
+        "比赛状态": "nowrunning"
+    },
+    {
         "比赛名称": "Flagyard HITBSecConf Single Player CTF",
         "比赛时间": "2024-08-29 12:00:00 - 2024-08-30 19:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2475.ics",
@@ -1074,7 +1074,7 @@
         "比赛形式": "Attack-Defense",
         "比赛链接": "https://ctf.dicega.ng/",
         "比赛标志": "https://ctftime.org/media/events/dicectf_2_1_1.png",
-        "比赛权重": "0.00",
+        "比赛权重": "20.00",
         "赛事主办": "DiceGang (https://ctftime.org/team/109452)",
         "比赛ID": "568",
         "比赛状态": "past"
