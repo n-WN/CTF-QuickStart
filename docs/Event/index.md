@@ -285,6 +285,13 @@ hide:
             适度CTF益脑，沉迷CTF伤身。合理安排时间，享受健康生活。
     
     === "*正在报名*"
+        ??? Quote "[WMCTF 2024](https://wmctf.wm-team.cn/)"  
+            **比赛名称** : [WMCTF 2024](https://wmctf.wm-team.cn/)  
+            **比赛类型** : 团队赛 | 人数不限  
+            **报名时间** : 2024年08月14日 09:00 - 2024年09月09日 09:00  
+            **比赛时间** : 2024年09月07日 09:00 - 2024年09月09日 09:00  
+            **其他说明** : 有多个联系方式，具体请在赛事网站查看  
+            
         ??? Quote "[2024'源鲁杯'高校网络安全技能大赛](https://ctf.yuanloo.com/)"  
             **比赛名称** : [2024'源鲁杯'高校网络安全技能大赛](https://ctf.yuanloo.com/)  
             **比赛类型** : 个人线上赛  
@@ -308,6 +315,13 @@ hide:
             
     === "*即将开始*"
         === "国内赛事"
+            ??? Quote "[WMCTF 2024](https://wmctf.wm-team.cn/)"  
+                **比赛名称** : [WMCTF 2024](https://wmctf.wm-team.cn/)  
+                **比赛类型** : 团队赛 | 人数不限  
+                **报名时间** : 2024年08月14日 09:00 - 2024年09月09日 09:00  
+                **比赛时间** : 2024年09月07日 09:00 - 2024年09月09日 09:00  
+                **其他说明** : 有多个联系方式，具体请在赛事网站查看  
+                
             ??? Quote "[2024'源鲁杯'高校网络安全技能大赛](https://ctf.yuanloo.com/)"  
                 **比赛名称** : [2024'源鲁杯'高校网络安全技能大赛](https://ctf.yuanloo.com/)  
                 **比赛类型** : 个人线上赛  
@@ -337,15 +351,6 @@ hide:
                 **其他说明** : QQ群：676547374 或 566180593  
                 
         === "国外赛事"
-            ??? Quote "[CSAW CTF Qualification Round 2024](https://ctf.csaw.io/)"  
-                [![](https://ctftime.org/media/events/CSAW.png){ width="200" align=left }](https://ctf.csaw.io/)  
-                **比赛名称** : [CSAW CTF Qualification Round 2024](https://ctf.csaw.io/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-09-07 00:00:00 - 2024-09-09 00:00:00 UTC+8  
-                **比赛权重** : 21.80  
-                **赛事主办** : NYUSEC (https://ctftime.org/team/439)  
-                **添加日历** : https://ctftime.org/event/2398.ics  
-                
             ??? Quote "[WMCTF2024](https://wmctf.wm-team.cn/)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://wmctf.wm-team.cn/)  
                 **比赛名称** : [WMCTF2024](https://wmctf.wm-team.cn/)  
@@ -902,6 +907,15 @@ hide:
                 **比赛权重** : 0  
                 **赛事主办** : VicOne Japan (https://ctftime.org/team/314349)  
                 **添加日历** : https://ctftime.org/event/2473.ics  
+                
+            ??? Quote "[CSAW CTF Qualification Round 2024](https://ctf.csaw.io/)"  
+                [![](https://ctftime.org/media/events/CSAW.png){ width="200" align=left }](https://ctf.csaw.io/)  
+                **比赛名称** : [CSAW CTF Qualification Round 2024](https://ctf.csaw.io/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-09-07 00:00:00 - 2024-09-09 00:00:00 UTC+8  
+                **比赛权重** : 21.80  
+                **赛事主办** : NYUSEC (https://ctftime.org/team/439)  
+                **添加日历** : https://ctftime.org/event/2398.ics  
                 
     === "*已经结束*"
         === "国内赛事"

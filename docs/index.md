@@ -54,6 +54,13 @@ hide:
     ---
     <!-- 主页赛事展示_开始 -->
     === "国内比赛"
+        ??? Quote "[WMCTF 2024](https://wmctf.wm-team.cn/)"  
+            **比赛名称** : [WMCTF 2024](https://wmctf.wm-team.cn/)  
+            **比赛类型** : 团队赛 | 人数不限  
+            **报名时间** : 2024年08月14日 09:00 - 2024年09月09日 09:00  
+            **比赛时间** : 2024年09月07日 09:00 - 2024年09月09日 09:00  
+            **其他说明** : 有多个联系方式，具体请在赛事网站查看  
+            
         ??? Quote "[第五届“闽盾杯”网络空间安全大塞黑盾全国大学生赛道（决赛）](http://heidunbei.si.net.cn/hdc/cover)"  
             **比赛名称** : [第五届“闽盾杯”网络空间安全大塞黑盾全国大学生赛道（决赛）](http://heidunbei.si.net.cn/hdc/cover)  
             **比赛类型** : 团队赛|3人  
@@ -74,24 +81,8 @@ hide:
             **报名时间** : 2024年05月06日 00:00 - 2024年09月23日 23:59  
             **比赛时间** : 2024年09月25日 00:00 - 2024年09月25日 23:59  
             **其他说明** : QQ群: 794148708|仅限研究生参加  
-            
-        ??? Quote "[2024'源鲁杯'高校网络安全技能大赛](https://ctf.yuanloo.com/)"  
-            **比赛名称** : [2024'源鲁杯'高校网络安全技能大赛](https://ctf.yuanloo.com/)  
-            **比赛类型** : 个人线上赛  
-            **报名时间** : 2024年09月01日 09:00 - 2024年10月23日 15:00  
-            **比赛时间** : 2024年10月10日 09:00 - 2024年10月23日 15:00  
-            **其他说明** : QQ群:437096728 更多信息请前往赛事官网 https://ctf.yuanloo.com/  
                 
     === "国外比赛"
-        ??? Quote "[CSAW CTF Qualification Round 2024](https://ctf.csaw.io/)"  
-            [![](https://ctftime.org/media/events/CSAW.png){ width="200" align=left }](https://ctf.csaw.io/)  
-            **比赛名称** : [CSAW CTF Qualification Round 2024](https://ctf.csaw.io/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2024-09-07 00:00:00 - 2024-09-09 00:00:00 UTC+8  
-            **比赛权重** : 21.80  
-            **赛事主办** : NYUSEC (https://ctftime.org/team/439)  
-            **添加日历** : https://ctftime.org/event/2398.ics  
-            
         ??? Quote "[WMCTF2024](https://wmctf.wm-team.cn/)"  
             [![](https://ctftime.org){ width="200" align=left }](https://wmctf.wm-team.cn/)  
             **比赛名称** : [WMCTF2024](https://wmctf.wm-team.cn/)  
@@ -118,6 +109,15 @@ hide:
             **比赛权重** : 24.79  
             **赛事主办** : MadrHacks (https://ctftime.org/team/114509)  
             **添加日历** : https://ctftime.org/event/2418.ics  
+            
+        ??? Quote "[Urmia CTF 2024](https://uctf.ir/)"  
+            [![](https://ctftime.org/media/events/NewLogo_1.jpg){ width="200" align=left }](https://uctf.ir/)  
+            **比赛名称** : [Urmia CTF 2024](https://uctf.ir/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2024-09-07 20:00:00 - 2024-09-09 20:00:00 UTC+8  
+            **比赛权重** : 24.27  
+            **赛事主办** : UCG (https://ctftime.org/team/255103)  
+            **添加日历** : https://ctftime.org/event/2460.ics  
             
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](./Event/)
