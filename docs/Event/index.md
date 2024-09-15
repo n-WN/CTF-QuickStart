@@ -344,15 +344,6 @@ hide:
                 **其他说明** : QQ群: 794148708|仅限研究生参加  
                 
         === "国外赛事"
-            ??? Quote "[Pointer Overflow CTF - 2024](http://pointeroverflowctf.com/)"  
-                [![](https://ctftime.org/media/events/poctflogo1transp.png){ width="200" align=left }](http://pointeroverflowctf.com/)  
-                **比赛名称** : [Pointer Overflow CTF - 2024](http://pointeroverflowctf.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-09-15 20:00:00 - 2025-01-19 20:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : UWSP Pointers (https://ctftime.org/team/231536)  
-                **添加日历** : https://ctftime.org/event/2121.ics  
-                
             ??? Quote "[VolgaCTF 2024 Final](https://volgactf.ru/en/volgactf-2024/final/)"  
                 [![](https://ctftime.org/media/events/logo-social-yellow_15.png){ width="200" align=left }](https://volgactf.ru/en/volgactf-2024/final/)  
                 **比赛名称** : [VolgaCTF 2024 Final](https://volgactf.ru/en/volgactf-2024/final/)  
@@ -766,15 +757,6 @@ hide:
                 **赛事主办** : Exherbo GNU/Linux (https://ctftime.org/team/275214)  
                 **添加日历** : https://ctftime.org/event/2178.ics  
                 
-            ??? Quote "[RSTCON 2024 CTF (Online/Hybrid)](https://metactf.com/join/rstcon24)"  
-                [![](https://ctftime.org/media/events/rstcon.png){ width="200" align=left }](https://metactf.com/join/rstcon24)  
-                **比赛名称** : [RSTCON 2024 CTF (Online/Hybrid)](https://metactf.com/join/rstcon24)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-09-14 03:45:00 - 2024-09-16 00:45:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : RSTCON (https://ctftime.org/team/281202)  
-                **添加日历** : https://ctftime.org/event/2427.ics  
-                
             ??? Quote "[jailCTF 2024](https://ctf.pyjail.club/)"  
                 [![](https://ctftime.org/media/events/jailctf150.png){ width="200" align=left }](https://ctf.pyjail.club/)  
                 **比赛名称** : [jailCTF 2024](https://ctf.pyjail.club/)  
@@ -792,6 +774,15 @@ hide:
                 **比赛权重** : 95.59  
                 **赛事主办** : Securinets (https://ctftime.org/team/5084)  
                 **添加日历** : https://ctftime.org/event/2410.ics  
+                
+            ??? Quote "[Pointer Overflow CTF - 2024](http://pointeroverflowctf.com/)"  
+                [![](https://ctftime.org/media/events/poctflogo1transp.png){ width="200" align=left }](http://pointeroverflowctf.com/)  
+                **比赛名称** : [Pointer Overflow CTF - 2024](http://pointeroverflowctf.com/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-09-15 20:00:00 - 2025-01-19 20:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : UWSP Pointers (https://ctftime.org/team/231536)  
+                **添加日历** : https://ctftime.org/event/2121.ics  
                 
     === "*已经结束*"
         === "国内赛事"
@@ -904,6 +895,15 @@ hide:
                 **比赛权重** : 0  
                 **赛事主办** : Codeby Games (https://ctftime.org/team/299486)  
                 **添加日历** : https://ctftime.org/event/2464.ics  
+                
+            ??? Quote "[RSTCON 2024 CTF (Online/Hybrid)](https://metactf.com/join/rstcon24)"  
+                [![](https://ctftime.org/media/events/rstcon.png){ width="200" align=left }](https://metactf.com/join/rstcon24)  
+                **比赛名称** : [RSTCON 2024 CTF (Online/Hybrid)](https://metactf.com/join/rstcon24)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-09-14 03:45:00 - 2024-09-16 00:45:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : RSTCON (https://ctftime.org/team/281202)  
+                **添加日历** : https://ctftime.org/event/2427.ics  
                 
             ??? Quote "[m0leCon CTF 2025 Teaser](https://ctf.m0lecon.it/)"  
                 [![](https://ctftime.org/media/events/ctftime_2025.png){ width="200" align=left }](https://ctf.m0lecon.it/)  
@@ -1027,7 +1027,7 @@ hide:
                 **比赛名称** : [CyberSpace CTF 2024](https://2024.csc.tf/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2024-08-31 00:00:00 - 2024-09-02 00:00:00 UTC+8  
-                **比赛权重** : 24.85  
+                **比赛权重** : 24.80  
                 **赛事主办** : CyberSpace (https://ctftime.org/team/116280)  
                 **添加日历** : https://ctftime.org/event/2428.ics  
                 
@@ -1777,15 +1777,6 @@ hide:
                 **比赛权重** : 22.17  
                 **赛事主办** : TBTL (https://ctftime.org/team/170112)  
                 **添加日历** : https://ctftime.org/event/2324.ics  
-                
-            ??? Quote "[RPCA CTF 2024](https://ctf.rpca.ac.th/)"  
-                [![](https://ctftime.org/media/events/RPCACTF2024-Logo_page-0001.jpg){ width="200" align=left }](https://ctf.rpca.ac.th/)  
-                **比赛名称** : [RPCA CTF 2024](https://ctf.rpca.ac.th/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-05-11 01:00:00 - 2024-05-13 01:00:00 UTC+8  
-                **比赛权重** : 36.00  
-                **赛事主办** : RPCA Cyber Club (https://ctftime.org/team/132960)  
-                **添加日历** : https://ctftime.org/event/2352.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>

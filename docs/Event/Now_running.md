@@ -31,15 +31,6 @@ comments: true
     **赛事主办** : Exherbo GNU/Linux (https://ctftime.org/team/275214)  
     **添加日历** : https://ctftime.org/event/2178.ics  
     
-??? Quote "[RSTCON 2024 CTF (Online/Hybrid)](https://metactf.com/join/rstcon24)"  
-    [![](https://ctftime.org/media/events/rstcon.png){ width="200" align=left }](https://metactf.com/join/rstcon24)  
-    **比赛名称** : [RSTCON 2024 CTF (Online/Hybrid)](https://metactf.com/join/rstcon24)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-09-14 03:45:00 - 2024-09-16 00:45:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : RSTCON (https://ctftime.org/team/281202)  
-    **添加日历** : https://ctftime.org/event/2427.ics  
-    
 ??? Quote "[jailCTF 2024](https://ctf.pyjail.club/)"  
     [![](https://ctftime.org/media/events/jailctf150.png){ width="200" align=left }](https://ctf.pyjail.club/)  
     **比赛名称** : [jailCTF 2024](https://ctf.pyjail.club/)  
@@ -57,4 +48,13 @@ comments: true
     **比赛权重** : 95.59  
     **赛事主办** : Securinets (https://ctftime.org/team/5084)  
     **添加日历** : https://ctftime.org/event/2410.ics  
+    
+??? Quote "[Pointer Overflow CTF - 2024](http://pointeroverflowctf.com/)"  
+    [![](https://ctftime.org/media/events/poctflogo1transp.png){ width="200" align=left }](http://pointeroverflowctf.com/)  
+    **比赛名称** : [Pointer Overflow CTF - 2024](http://pointeroverflowctf.com/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-09-15 20:00:00 - 2025-01-19 20:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : UWSP Pointers (https://ctftime.org/team/231536)  
+    **添加日历** : https://ctftime.org/event/2121.ics  
     
