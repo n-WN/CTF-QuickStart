@@ -285,6 +285,13 @@ hide:
             适度CTF益脑，沉迷CTF伤身。合理安排时间，享受健康生活。
     
     === "*正在报名*"
+        ??? Quote "[SHCTF2024](暂无)"  
+            **比赛名称** : [SHCTF2024](暂无)  
+            **比赛类型** : 个人赛  
+            **报名时间** : 2024年09月26日 00:00 - 2024年10月31日 10:00  
+            **比赛时间** : 2024年10月02日 10:00 - 2024年10月31日 10:00  
+            **其他说明** : QQ 一群：536115792  二群：721693440  
+            
         ??? Quote "[0xGame 2024](https://0xgame.exp10it.cn/)"  
             **比赛名称** : [0xGame 2024](https://0xgame.exp10it.cn/)  
             **比赛类型** : 个人赛  
@@ -308,6 +315,13 @@ hide:
             
     === "*即将开始*"
         === "国内赛事"
+            ??? Quote "[SHCTF2024](暂无)"  
+                **比赛名称** : [SHCTF2024](暂无)  
+                **比赛类型** : 个人赛  
+                **报名时间** : 2024年09月26日 00:00 - 2024年10月31日 10:00  
+                **比赛时间** : 2024年10月02日 10:00 - 2024年10月31日 10:00  
+                **其他说明** : QQ 一群：536115792  二群：721693440  
+                
             ??? Quote "[0xGame 2024](https://0xgame.exp10it.cn/)"  
                 **比赛名称** : [0xGame 2024](https://0xgame.exp10it.cn/)  
                 **比赛类型** : 个人赛  
@@ -867,15 +881,6 @@ hide:
                 **赛事主办** : UWSP Pointers (https://ctftime.org/team/231536)  
                 **添加日历** : https://ctftime.org/event/2121.ics  
                 
-            ??? Quote "[H7CTF International](https://ctf.h7tex.com/)"  
-                [![](https://ctftime.org/media/events/1_3.png){ width="200" align=left }](https://ctf.h7tex.com/)  
-                **比赛名称** : [H7CTF International](https://ctf.h7tex.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-09-26 11:30:00 - 2024-09-27 19:30:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : H7Tex (https://ctftime.org/team/281844)  
-                **添加日历** : https://ctftime.org/event/2491.ics  
-                
             ??? Quote "[DefCamp Capture the Flag (D-CTF) 2024 Quals](https://dctf24-quals.cyber-edu.co/)"  
                 [![](https://ctftime.org/media/events/w5NGLTFBTZWXGg8lLPAeyg-Photoroom.png){ width="200" align=left }](https://dctf24-quals.cyber-edu.co/)  
                 **比赛名称** : [DefCamp Capture the Flag (D-CTF) 2024 Quals](https://dctf24-quals.cyber-edu.co/)  
@@ -973,6 +978,15 @@ hide:
                 **比赛权重** : 0  
                 **赛事主办** : haruulzangi-organizers (https://ctftime.org/team/266812)  
                 **添加日历** : https://ctftime.org/event/2494.ics  
+                
+            ??? Quote "[H7CTF International](https://ctf.h7tex.com/)"  
+                [![](https://ctftime.org/media/events/1_3.png){ width="200" align=left }](https://ctf.h7tex.com/)  
+                **比赛名称** : [H7CTF International](https://ctf.h7tex.com/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-09-26 11:30:00 - 2024-09-27 19:30:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : H7Tex (https://ctftime.org/team/281844)  
+                **添加日历** : https://ctftime.org/event/2491.ics  
                 
             ??? Quote "[Haruulzangi CTF 2024 Round 2](https://dashboard.haruulzangi.mn/)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://dashboard.haruulzangi.mn/)  
@@ -1855,15 +1869,6 @@ hide:
                 **比赛权重** : 0  
                 **赛事主办** : [TechnoPandas] (https://ctftime.org/team/1946)  
                 **添加日历** : https://ctftime.org/event/2383.ics  
-                
-            ??? Quote "[NahamCon CTF 2024](https://ctf.nahamcon.com/)"  
-                [![](https://ctftime.org/media/events/NAHAMCON-LOGO_BRANDING_D3_A1_1.png){ width="200" align=left }](https://ctf.nahamcon.com/)  
-                **比赛名称** : [NahamCon CTF 2024](https://ctf.nahamcon.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-05-24 04:00:00 - 2024-05-26 04:00:00 UTC+8  
-                **比赛权重** : 41.61  
-                **赛事主办** : JustHacking (https://ctftime.org/team/59573)  
-                **添加日历** : https://ctftime.org/event/2364.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
