@@ -47,15 +47,6 @@ comments: true
     **赛事主办** : UWSP Pointers (https://ctftime.org/team/231536)  
     **添加日历** : https://ctftime.org/event/2121.ics  
     
-??? Quote "[DefCamp Capture the Flag (D-CTF) 2024 Quals](https://dctf24-quals.cyber-edu.co/)"  
-    [![](https://ctftime.org/media/events/w5NGLTFBTZWXGg8lLPAeyg-Photoroom.png){ width="200" align=left }](https://dctf24-quals.cyber-edu.co/)  
-    **比赛名称** : [DefCamp Capture the Flag (D-CTF) 2024 Quals](https://dctf24-quals.cyber-edu.co/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-09-27 18:00:00 - 2024-09-29 17:00:00 UTC+8  
-    **比赛权重** : 33.56  
-    **赛事主办** : CCSIR.org (https://ctftime.org/team/9831)  
-    **添加日历** : https://ctftime.org/event/2480.ics  
-    
 ??? Quote "[Season IV, US Cyber Games Flag Fest CTF](https://www.uscybergames.com/season-4-draft-experience#ctf)"  
     [![](https://ctftime.org/media/events/2022-10-USCG_S3_logos_cybergames_1_1.png){ width="200" align=left }](https://www.uscybergames.com/season-4-draft-experience#ctf)  
     **比赛名称** : [Season IV, US Cyber Games Flag Fest CTF](https://www.uscybergames.com/season-4-draft-experience#ctf)  
@@ -82,13 +73,4 @@ comments: true
     **比赛权重** : 37.00  
     **赛事主办** : Syclover (https://ctftime.org/team/455)  
     **添加日历** : https://ctftime.org/event/2483.ics  
-    
-??? Quote "[justCTF 2024 finals](https://2024finals.justctf.team/)"  
-    [![](https://ctftime.org){ width="200" align=left }](https://2024finals.justctf.team/)  
-    **比赛名称** : [justCTF 2024 finals](https://2024finals.justctf.team/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-09-28 18:00:00 - 2024-09-29 18:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : justCatTheFish (https://ctftime.org/team/33893)  
-    **添加日历** : https://ctftime.org/event/2484.ics  
     
