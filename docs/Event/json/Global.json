@@ -1,41 +1,5 @@
 [
     {
-        "比赛名称": "IRON CTF 2024",
-        "比赛时间": "2024-10-05 13:30:00 - 2024-10-06 13:30:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2497.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.1nf1n1ty.team/",
-        "比赛标志": "https://ctftime.org/media/events/ironCTF.png",
-        "比赛权重": "0.00",
-        "赛事主办": "1nf1n1ty (https://ctftime.org/team/151859)",
-        "比赛ID": "1167",
-        "比赛状态": "oncoming"
-    },
-    {
-        "比赛名称": "BRICS+ CTF Quals 2024",
-        "比赛时间": "2024-10-05 18:00:00 - 2024-10-06 18:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2389.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://brics-ctf.com/",
-        "比赛标志": "https://ctftime.org/media/events/logo-2024.png",
-        "比赛权重": "25.00",
-        "赛事主办": "ITMO FSIT (https://ctftime.org/team/264636)",
-        "比赛ID": "986",
-        "比赛状态": "oncoming"
-    },
-    {
-        "比赛名称": "TU Delft CTF 2024",
-        "比赛时间": "2024-10-05 18:00:00 - 2024-10-06 02:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2487.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.ewi.tudelft.nl/",
-        "比赛标志": "https://ctftime.org/media/events/fddd624d58320dba5f40c75a47d72974.jpg",
-        "比赛权重": "0.00",
-        "赛事主办": "TU Delft CTF Team (https://ctftime.org/team/134822)",
-        "比赛ID": "842",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "TCP1P CTF 2024: Exploring Nusantara's Digital Realm",
         "比赛时间": "2024-10-11 20:00:00 - 2024-10-13 20:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2256.ics",
@@ -708,18 +672,6 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "AlpacaHack Round 4 (Rev)",
-        "比赛时间": "2024-10-05 11:00:00 - 2024-10-05 17:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2499.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://alpacahack.com/ctfs/round-4",
-        "比赛标志": "https://ctftime.org/media/events/ctftime_5.png",
-        "比赛权重": "0",
-        "赛事主办": "AlpacaHack (https://ctftime.org/team/312315)",
-        "比赛ID": "1163",
-        "比赛状态": "nowrunning"
-    },
-    {
         "比赛名称": "RuCTF Finals 2024",
         "比赛时间": "2024-10-05 13:00:00 - 2024-10-07 03:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2386.ics",
@@ -730,6 +682,54 @@
         "赛事主办": "HackerDom (https://ctftime.org/team/552)",
         "比赛ID": "7",
         "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "IRON CTF 2024",
+        "比赛时间": "2024-10-05 13:30:00 - 2024-10-06 13:30:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2497.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.1nf1n1ty.team/",
+        "比赛标志": "https://ctftime.org/media/events/ironCTF.png",
+        "比赛权重": "0",
+        "赛事主办": "1nf1n1ty (https://ctftime.org/team/151859)",
+        "比赛ID": "1167",
+        "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "BRICS+ CTF Quals 2024",
+        "比赛时间": "2024-10-05 18:00:00 - 2024-10-06 18:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2389.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://brics-ctf.com/",
+        "比赛标志": "https://ctftime.org/media/events/logo-2024.png",
+        "比赛权重": "25.00",
+        "赛事主办": "ITMO FSIT (https://ctftime.org/team/264636)",
+        "比赛ID": "986",
+        "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "TU Delft CTF 2024",
+        "比赛时间": "2024-10-05 18:00:00 - 2024-10-06 02:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2487.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.ewi.tudelft.nl/",
+        "比赛标志": "https://ctftime.org/media/events/fddd624d58320dba5f40c75a47d72974.jpg",
+        "比赛权重": "0.00",
+        "赛事主办": "TU Delft CTF Team (https://ctftime.org/team/134822)",
+        "比赛ID": "842",
+        "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "AlpacaHack Round 4 (Rev)",
+        "比赛时间": "2024-10-05 11:00:00 - 2024-10-05 17:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2499.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://alpacahack.com/ctfs/round-4",
+        "比赛标志": "https://ctftime.org/media/events/ctftime_5.png",
+        "比赛权重": "0",
+        "赛事主办": "AlpacaHack (https://ctftime.org/team/312315)",
+        "比赛ID": "1163",
+        "比赛状态": "past"
     },
     {
         "比赛名称": "FAUST CTF 2024",
@@ -1917,18 +1917,6 @@
         "比赛权重": "0",
         "赛事主办": "Theori (https://ctftime.org/team/250867)",
         "比赛ID": "1090",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "Haruulzangi U18 2024 Domestic Finals",
-        "比赛时间": "2024-05-26 11:00:00 - 2024-05-26 15:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2372.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "http://www.haruulzangi.mn/",
-        "比赛标志": "https://ctftime.org/media/events/hz-u18_1_1_1.png",
-        "比赛权重": "0.00",
-        "赛事主办": "haruulzangi-organizers (https://ctftime.org/team/266812)",
-        "比赛ID": "985",
         "比赛状态": "past"
     }
 ]

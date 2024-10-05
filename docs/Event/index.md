@@ -301,13 +301,6 @@ hide:
             
     === "*即将开始*"
         === "国内赛事"
-            ??? Quote "[BRICS+ CTF Quals 2024](https://brics-ctf.com/)"  
-                **比赛名称** : [BRICS+ CTF Quals 2024](https://brics-ctf.com/)  
-                **比赛类型** : 团队赛  
-                **报名时间** : 2024年10月05日 18:00 - 2024年10月06日 18:00  
-                **比赛时间** : 2024年10月05日 18:00 - 2024年10月06日 18:00  
-                **其他说明** : 初赛将以在线解题赛的形式进行.计划邀请来自金砖国家的15支队伍（每个国家不超过3支队伍）以及总排名前10的最佳队伍参与线上的决赛.同时详情信息请加入discord -> https://discord.gg/3AwqYTvaMw 决赛总奖池7w人民币左右  
-                
             ??? Quote "[0xGame 2024](https://0xgame.exp10it.cn/)"  
                 **比赛名称** : [0xGame 2024](https://0xgame.exp10it.cn/)  
                 **比赛类型** : 个人赛  
@@ -323,33 +316,6 @@ hide:
                 **其他说明** : QQ群:437096728 更多信息请前往赛事官网 https://ctf.yuanloo.com/  
                 
         === "国外赛事"
-            ??? Quote "[IRON CTF 2024](https://ctf.1nf1n1ty.team/)"  
-                [![](https://ctftime.org/media/events/ironCTF.png){ width="200" align=left }](https://ctf.1nf1n1ty.team/)  
-                **比赛名称** : [IRON CTF 2024](https://ctf.1nf1n1ty.team/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-10-05 13:30:00 - 2024-10-06 13:30:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : 1nf1n1ty (https://ctftime.org/team/151859)  
-                **添加日历** : https://ctftime.org/event/2497.ics  
-                
-            ??? Quote "[BRICS+ CTF Quals 2024](https://brics-ctf.com/)"  
-                [![](https://ctftime.org/media/events/logo-2024.png){ width="200" align=left }](https://brics-ctf.com/)  
-                **比赛名称** : [BRICS+ CTF Quals 2024](https://brics-ctf.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-10-05 18:00:00 - 2024-10-06 18:00:00 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : ITMO FSIT (https://ctftime.org/team/264636)  
-                **添加日历** : https://ctftime.org/event/2389.ics  
-                
-            ??? Quote "[TU Delft CTF 2024](https://ctf.ewi.tudelft.nl/)"  
-                [![](https://ctftime.org/media/events/fddd624d58320dba5f40c75a47d72974.jpg){ width="200" align=left }](https://ctf.ewi.tudelft.nl/)  
-                **比赛名称** : [TU Delft CTF 2024](https://ctf.ewi.tudelft.nl/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-10-05 18:00:00 - 2024-10-06 02:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : TU Delft CTF Team (https://ctftime.org/team/134822)  
-                **添加日历** : https://ctftime.org/event/2487.ics  
-                
             ??? Quote "[TCP1P CTF 2024: Exploring Nusantara's Digital Realm](https://tcp1p.team/tcp1pctf-2024)"  
                 [![](https://ctftime.org/media/events/Asset_10.jpg){ width="200" align=left }](https://tcp1p.team/tcp1pctf-2024)  
                 **比赛名称** : [TCP1P CTF 2024: Exploring Nusantara's Digital Realm](https://tcp1p.team/tcp1pctf-2024)  
@@ -820,6 +786,13 @@ hide:
                 
     === "*正在进行*"
         === "国内赛事"
+            ??? Quote "[BRICS+ CTF Quals 2024](https://brics-ctf.com/)"  
+                **比赛名称** : [BRICS+ CTF Quals 2024](https://brics-ctf.com/)  
+                **比赛类型** : 团队赛  
+                **报名时间** : 2024年10月05日 18:00 - 2024年10月06日 18:00  
+                **比赛时间** : 2024年10月05日 18:00 - 2024年10月06日 18:00  
+                **其他说明** : 初赛将以在线解题赛的形式进行.计划邀请来自金砖国家的15支队伍（每个国家不超过3支队伍）以及总排名前10的最佳队伍参与线上的决赛.同时详情信息请加入discord -> https://discord.gg/3AwqYTvaMw 决赛总奖池7w人民币左右  
+                
             ??? Quote "[SHCTF2024](https://shc.tf/)"  
                 **比赛名称** : [SHCTF2024](https://shc.tf/)  
                 **比赛类型** : 个人赛  
@@ -885,15 +858,6 @@ hide:
                 **赛事主办** : SharLike (https://ctftime.org/team/16172)  
                 **添加日历** : https://ctftime.org/event/2376.ics  
                 
-            ??? Quote "[AlpacaHack Round 4 (Rev)](https://alpacahack.com/ctfs/round-4)"  
-                [![](https://ctftime.org/media/events/ctftime_5.png){ width="200" align=left }](https://alpacahack.com/ctfs/round-4)  
-                **比赛名称** : [AlpacaHack Round 4 (Rev)](https://alpacahack.com/ctfs/round-4)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-10-05 11:00:00 - 2024-10-05 17:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : AlpacaHack (https://ctftime.org/team/312315)  
-                **添加日历** : https://ctftime.org/event/2499.ics  
-                
             ??? Quote "[RuCTF Finals 2024](http://ructf.org/)"  
                 [![](https://ctftime.org){ width="200" align=left }](http://ructf.org/)  
                 **比赛名称** : [RuCTF Finals 2024](http://ructf.org/)  
@@ -902,6 +866,33 @@ hide:
                 **比赛权重** : 25.00  
                 **赛事主办** : HackerDom (https://ctftime.org/team/552)  
                 **添加日历** : https://ctftime.org/event/2386.ics  
+                
+            ??? Quote "[IRON CTF 2024](https://ctf.1nf1n1ty.team/)"  
+                [![](https://ctftime.org/media/events/ironCTF.png){ width="200" align=left }](https://ctf.1nf1n1ty.team/)  
+                **比赛名称** : [IRON CTF 2024](https://ctf.1nf1n1ty.team/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-10-05 13:30:00 - 2024-10-06 13:30:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : 1nf1n1ty (https://ctftime.org/team/151859)  
+                **添加日历** : https://ctftime.org/event/2497.ics  
+                
+            ??? Quote "[BRICS+ CTF Quals 2024](https://brics-ctf.com/)"  
+                [![](https://ctftime.org/media/events/logo-2024.png){ width="200" align=left }](https://brics-ctf.com/)  
+                **比赛名称** : [BRICS+ CTF Quals 2024](https://brics-ctf.com/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-10-05 18:00:00 - 2024-10-06 18:00:00 UTC+8  
+                **比赛权重** : 25.00  
+                **赛事主办** : ITMO FSIT (https://ctftime.org/team/264636)  
+                **添加日历** : https://ctftime.org/event/2389.ics  
+                
+            ??? Quote "[TU Delft CTF 2024](https://ctf.ewi.tudelft.nl/)"  
+                [![](https://ctftime.org/media/events/fddd624d58320dba5f40c75a47d72974.jpg){ width="200" align=left }](https://ctf.ewi.tudelft.nl/)  
+                **比赛名称** : [TU Delft CTF 2024](https://ctf.ewi.tudelft.nl/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-10-05 18:00:00 - 2024-10-06 02:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : TU Delft CTF Team (https://ctftime.org/team/134822)  
+                **添加日历** : https://ctftime.org/event/2487.ics  
                 
     === "*已经结束*"
         === "国内赛事"
@@ -983,6 +974,15 @@ hide:
                 **其他说明** : QQ群: 622869531 组委会邮箱: tianwangcup@163.com  
                 
         === "国外赛事"
+            ??? Quote "[AlpacaHack Round 4 (Rev)](https://alpacahack.com/ctfs/round-4)"  
+                [![](https://ctftime.org/media/events/ctftime_5.png){ width="200" align=left }](https://alpacahack.com/ctfs/round-4)  
+                **比赛名称** : [AlpacaHack Round 4 (Rev)](https://alpacahack.com/ctfs/round-4)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-10-05 11:00:00 - 2024-10-05 17:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : AlpacaHack (https://ctftime.org/team/312315)  
+                **添加日历** : https://ctftime.org/event/2499.ics  
+                
             ??? Quote "[FAUST CTF 2024](https://2024.faustctf.net/)"  
                 [![](https://ctftime.org/media/events/faust2024_1.png){ width="200" align=left }](https://2024.faustctf.net/)  
                 **比赛名称** : [FAUST CTF 2024](https://2024.faustctf.net/)  
@@ -1873,15 +1873,6 @@ hide:
                 **比赛权重** : 0  
                 **赛事主办** : Theori (https://ctftime.org/team/250867)  
                 **添加日历** : https://ctftime.org/event/2309.ics  
-                
-            ??? Quote "[Haruulzangi U18 2024 Domestic Finals](http://www.haruulzangi.mn/)"  
-                [![](https://ctftime.org/media/events/hz-u18_1_1_1.png){ width="200" align=left }](http://www.haruulzangi.mn/)  
-                **比赛名称** : [Haruulzangi U18 2024 Domestic Finals](http://www.haruulzangi.mn/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-05-26 11:00:00 - 2024-05-26 15:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : haruulzangi-organizers (https://ctftime.org/team/266812)  
-                **添加日历** : https://ctftime.org/event/2372.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
