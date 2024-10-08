@@ -753,6 +753,24 @@ hide:
                 **赛事主办** : ASIS (https://ctftime.org/team/4140)  
                 **添加日历** : https://ctftime.org/event/2403.ics  
                 
+            ??? Quote "[Cyber League 2025 - Major](https://ctfd.cyberleague.co/)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://ctfd.cyberleague.co/)  
+                **比赛名称** : [Cyber League 2025 - Major](https://ctfd.cyberleague.co/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-01-11 10:00:00 - 2025-01-12 10:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : DIV0-N0H4TS (https://ctftime.org/team/354275)  
+                **添加日历** : https://ctftime.org/event/2530.ics  
+                
+            ??? Quote "[SpartanCTF 2025](https://spartan.ctfd.io/)"  
+                [![](https://ctftime.org/media/events/spctf.png){ width="200" align=left }](https://spartan.ctfd.io/)  
+                **比赛名称** : [SpartanCTF 2025](https://spartan.ctfd.io/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-02-01 05:00:00 - 2025-02-04 05:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : Zero Day Club (https://ctftime.org/team/286318)  
+                **添加日历** : https://ctftime.org/event/2447.ics  
+                
             ??? Quote "[PlaidCTF 2025](https://plaidctf.com/)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://plaidctf.com/)  
                 **比赛名称** : [PlaidCTF 2025](https://plaidctf.com/)  
@@ -761,6 +779,15 @@ hide:
                 **比赛权重** : 100.00  
                 **赛事主办** : Plaid Parliament of Pwning (https://ctftime.org/team/284)  
                 **添加日历** : https://ctftime.org/event/2508.ics  
+                
+            ??? Quote "[UMassCTF 2025](https://ctf.umasscybersec.org/)"  
+                [![](https://ctftime.org/media/events/889a1e484f0b51dd3d865b3a53b26200.jpg){ width="200" align=left }](https://ctf.umasscybersec.org/)  
+                **比赛名称** : [UMassCTF 2025](https://ctf.umasscybersec.org/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-04-05 07:00:00 - 2025-04-07 07:00:00 UTC+8  
+                **比赛权重** : 47.60  
+                **赛事主办** : SavedByTheShell (https://ctftime.org/team/78233)  
+                **添加日历** : https://ctftime.org/event/2519.ics  
                 
             ??? Quote "[N0PSctf](https://www.nops.re/)"  
                 [![](https://ctftime.org/media/events/logo-news.png){ width="200" align=left }](https://www.nops.re/)  
@@ -792,6 +819,15 @@ hide:
                 **比赛权重** : 0  
                 **赛事主办** : UWSP Pointers (https://ctftime.org/team/231536)  
                 **添加日历** : https://ctftime.org/event/2121.ics  
+                
+            ??? Quote "[Hack Havoc 2.0](https://ctf.cybermaterial.com/)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://ctf.cybermaterial.com/)  
+                **比赛名称** : [Hack Havoc 2.0](https://ctf.cybermaterial.com/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-10-04 21:59:48 - 2024-10-25 21:59:48 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : Hack Havoc (https://ctftime.org/team/316395)  
+                **添加日历** : https://ctftime.org/event/2532.ics  
                 
     === "*已经结束*"
         === "国内赛事"
@@ -880,6 +916,15 @@ hide:
                 **其他说明** : QQ群: 622869531 组委会邮箱: tianwangcup@163.com  
                 
         === "国外赛事"
+            ??? Quote "[Kernel Kombat](https://zl-slay.vercel.app/)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://zl-slay.vercel.app/)  
+                **比赛名称** : [Kernel Kombat](https://zl-slay.vercel.app/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-10-06 14:46:54 - 2024-10-06 14:46:54 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : S14y3r (https://ctftime.org/team/282208)  
+                **添加日历** : https://ctftime.org/event/2528.ics  
+                
             ??? Quote "[TU Delft CTF 2024](https://ctf.ewi.tudelft.nl/)"  
                 [![](https://ctftime.org/media/events/fddd624d58320dba5f40c75a47d72974.jpg){ width="200" align=left }](https://ctf.ewi.tudelft.nl/)  
                 **比赛名称** : [TU Delft CTF 2024](https://ctf.ewi.tudelft.nl/)  
@@ -1770,15 +1815,6 @@ hide:
                 **比赛权重** : 23.08  
                 **赛事主办** : Akasec (https://ctftime.org/team/107202)  
                 **添加日历** : https://ctftime.org/event/2222.ics  
-                
-            ??? Quote "[DASCTF X HDCTF 2024 Open Competition](https://buuoj.cn/match/matches/204)"  
-                [![](https://ctftime.org/media/events/7cb37da3aed536041d1754ecb2083099.jpg){ width="200" align=left }](https://buuoj.cn/match/matches/204)  
-                **比赛名称** : [DASCTF X HDCTF 2024 Open Competition](https://buuoj.cn/match/matches/204)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-06-02 18:00:00 - 2024-06-03 02:00:00 UTC+8  
-                **比赛权重** : 1.00  
-                **赛事主办** : DASCTF (https://ctftime.org/team/303691)  
-                **添加日历** : https://ctftime.org/event/2390.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
