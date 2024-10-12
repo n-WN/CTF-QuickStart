@@ -56,24 +56,6 @@ hide:
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[Blue Water CTF 2024](https://bw.ctf.ing/)"  
-            [![](https://ctftime.org/media/events/4872c3c168bd1cdeb5dc564bb3a0416f.png){ width="200" align=left }](https://bw.ctf.ing/)  
-            **比赛名称** : [Blue Water CTF 2024](https://bw.ctf.ing/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2024-10-12 22:00:00 - 2024-10-14 10:00:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : 💦​ (https://ctftime.org/team/205897)  
-            **添加日历** : https://ctftime.org/event/2479.ics  
-            
-        ??? Quote "[NoHat CTF 2024](https://play.pwnx.io/#/event/40b08dba-3140-4cae-89da-6db9c0d8e5a0)"  
-            [![](https://ctftime.org){ width="200" align=left }](https://play.pwnx.io/#/event/40b08dba-3140-4cae-89da-6db9c0d8e5a0)  
-            **比赛名称** : [NoHat CTF 2024](https://play.pwnx.io/#/event/40b08dba-3140-4cae-89da-6db9c0d8e5a0)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2024-10-13 00:00:00 - 2024-10-14 00:00:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : PWNX (https://ctftime.org/team/179989)  
-            **添加日历** : https://ctftime.org/event/2518.ics  
-            
         ??? Quote "[Securinets CTF Quals 2024](https://ctf.securinets.tn/)"  
             [![](https://ctftime.org/media/events/d82bcfc5f1d83b7cc51c7dd0dbc8f5c6_1.png){ width="200" align=left }](https://ctf.securinets.tn/)  
             **比赛名称** : [Securinets CTF Quals 2024](https://ctf.securinets.tn/)  
@@ -91,6 +73,24 @@ hide:
             **比赛权重** : 0.00  
             **赛事主办** : CTF.ae (https://ctftime.org/team/151875)  
             **添加日历** : https://ctftime.org/event/2522.ics  
+            
+        ??? Quote "[Breach Bytes 2.0](https://unstop.com/hackathons/breach-bytes-20-shri-vile-parle-kelavani-mandals-dwarkadas-j-sanghvi-college-of-engineering-djsce-mumbai-1171442)"  
+            [![](https://ctftime.org/media/events/BREACH_BYTES_2.0_Logo_1.png){ width="200" align=left }](https://unstop.com/hackathons/breach-bytes-20-shri-vile-parle-kelavani-mandals-dwarkadas-j-sanghvi-college-of-engineering-djsce-mumbai-1171442)  
+            **比赛名称** : [Breach Bytes 2.0](https://unstop.com/hackathons/breach-bytes-20-shri-vile-parle-kelavani-mandals-dwarkadas-j-sanghvi-college-of-engineering-djsce-mumbai-1171442)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2024-10-15 10:30:00 - 2024-10-15 21:30:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : The dangers of my heart (https://ctftime.org/team/300150)  
+            **添加日历** : https://ctftime.org/event/2526.ics  
+            
+        ??? Quote "[CTF MetaRed Mexico Anuies-TIC 2024](https://ctfd.anuies.mx/)"  
+            [![](https://ctftime.org/media/events/ctf_2024_1.jpg){ width="200" align=left }](https://ctfd.anuies.mx/)  
+            **比赛名称** : [CTF MetaRed Mexico Anuies-TIC 2024](https://ctfd.anuies.mx/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2024-10-15 23:00:00 - 2024-10-16 11:00:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : UV-CSIRT (https://ctftime.org/team/166955)  
+            **添加日历** : https://ctftime.org/event/2482.ics  
             
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](./Event/)
