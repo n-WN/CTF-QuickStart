@@ -5,25 +5,10 @@ comments: true
 
 ## 国内赛事
 
-??? Quote "GEEKGAME 2024"  
-    **比赛名称** : [GEEKGAME 2024](https://geekgame.pku.edu.cn)  
-    **比赛类型** : 线上Jeopardy解题赛  
-    **报名时间** : 2024年10月06日 12:00 - 2024年10月11日 11:59  
-    **比赛时间** : 2024年10月12日 12:00 - 2024年10月19日 12:00  
-    **其他说明** : 第四届北京大学信息安全综合能力竞赛GEEKGAME 2024由北京大学学生 Linux 俱乐部主办，比赛时间为2024年10月12日至10月19日，采用个人线上赛的模式，选手可加入QQ群133986617获取更多信息。  
-    
+
 
 ## 国际赛事
 
-??? Quote "[AlpacaHack Round 5 (Crypto)](https://alpacahack.com/ctfs/round-5)"  
-    [![](https://ctftime.org/media/events/ctftime_6.png){ width="200" align=left }](https://alpacahack.com/ctfs/round-5)  
-    **比赛名称** : [AlpacaHack Round 5 (Crypto)](https://alpacahack.com/ctfs/round-5)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-10-12 11:00:00 - 2024-10-12 17:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : AlpacaHack (https://ctftime.org/team/312315)  
-    **添加日历** : https://ctftime.org/event/2500.ics  
-    
 ??? Quote "[Haus der Flaggen/Flag Heist](https://laokoon-security.com/ctf2024)"  
     [![](https://ctftime.org/media/events/HausDerFlaggen_Plakat_1080_x_1080_px.png){ width="200" align=left }](https://laokoon-security.com/ctf2024)  
     **比赛名称** : [Haus der Flaggen/Flag Heist](https://laokoon-security.com/ctf2024)  
