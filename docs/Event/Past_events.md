@@ -91,6 +91,15 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[Securinets CTF Quals 2024](https://ctf.securinets.tn/)"  
+    [![](https://ctftime.org/media/events/d82bcfc5f1d83b7cc51c7dd0dbc8f5c6_1.png){ width="200" align=left }](https://ctf.securinets.tn/)  
+    **比赛名称** : [Securinets CTF Quals 2024](https://ctf.securinets.tn/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-10-13 03:00:00 - 2024-10-14 03:00:00 UTC+8  
+    **比赛权重** : 95.59  
+    **赛事主办** : Securinets (https://ctftime.org/team/5084)  
+    **添加日历** : https://ctftime.org/event/2520.ics  
+    
 ??? Quote "[NoHat CTF 2024](https://play.pwnx.io/#/event/40b08dba-3140-4cae-89da-6db9c0d8e5a0)"  
     [![](https://ctftime.org){ width="200" align=left }](https://play.pwnx.io/#/event/40b08dba-3140-4cae-89da-6db9c0d8e5a0)  
     **比赛名称** : [NoHat CTF 2024](https://play.pwnx.io/#/event/40b08dba-3140-4cae-89da-6db9c0d8e5a0)  
@@ -384,7 +393,7 @@ comments: true
     **比赛名称** : [RSTCON 2024 CTF (Online/Hybrid)](https://metactf.com/join/rstcon24)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2024-09-14 03:45:00 - 2024-09-16 00:45:00 UTC+8  
-    **比赛权重** : 24.00  
+    **比赛权重** : 25.00  
     **赛事主办** : RSTCON (https://ctftime.org/team/281202)  
     **添加日历** : https://ctftime.org/event/2427.ics  
     
@@ -798,7 +807,7 @@ comments: true
     **比赛名称** : [Junior.Crypt.2024 CTF](http://ctf-spcs.mf.grsu.by/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2024-07-03 23:00:00 - 2024-07-05 23:00:00 UTC+8  
-    **比赛权重** : 24.05  
+    **比赛权重** : 24.00  
     **赛事主办** : Beavers0 (https://ctftime.org/team/269281)  
     **添加日历** : https://ctftime.org/event/2259.ics  
     
@@ -981,13 +990,4 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : diver_osint (https://ctftime.org/team/299569)  
     **添加日历** : https://ctftime.org/event/2365.ics  
-    
-??? Quote "[R3CTF/YUANHENGCTF 2024](https://ctf2024.r3kapig.com/)"  
-    [![](https://ctftime.org/media/events/r3_logo.png){ width="200" align=left }](https://ctf2024.r3kapig.com/)  
-    **比赛名称** : [R3CTF/YUANHENGCTF 2024](https://ctf2024.r3kapig.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-06-08 10:00:00 - 2024-06-10 10:00:00 UTC+8  
-    **比赛权重** : 24.56  
-    **赛事主办** : r3kapig (https://ctftime.org/team/58979)  
-    **添加日历** : https://ctftime.org/event/2273.ics  
     
