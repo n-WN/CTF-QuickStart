@@ -344,15 +344,6 @@ hide:
                 **赛事主办** : FluxFingers (https://ctftime.org/team/551)  
                 **添加日历** : https://ctftime.org/event/2438.ics  
                 
-            ??? Quote "[Cyber Odyssey 2024 : Qualifications](https://ctf.akasec.club/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://ctf.akasec.club/)  
-                **比赛名称** : [Cyber Odyssey 2024 : Qualifications](https://ctf.akasec.club/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-10-19 20:37:00 - 2024-10-20 20:37:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : Akasec (https://ctftime.org/team/107202)  
-                **添加日历** : https://ctftime.org/event/2533.ics  
-                
             ??? Quote "[SunshineCTF 2024](https://sunshinectf.org/)"  
                 [![](https://ctftime.org/media/events/sctf_logo_24.png){ width="200" align=left }](https://sunshinectf.org/)  
                 **比赛名称** : [SunshineCTF 2024](https://sunshinectf.org/)  
@@ -826,7 +817,7 @@ hide:
                 **比赛名称** : [UMassCTF 2025](https://ctf.umasscybersec.org/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-04-05 07:00:00 - 2025-04-07 07:00:00 UTC+8  
-                **比赛权重** : 47.60  
+                **比赛权重** : 48.38  
                 **赛事主办** : SavedByTheShell (https://ctftime.org/team/78233)  
                 **添加日历** : https://ctftime.org/event/2519.ics  
                 
@@ -964,6 +955,13 @@ hide:
                 **报名时间** : 2024年7月15日 00:00 - 2024年7月31日 23:59  
                 **比赛时间** : 2024年08月01日 00:00 - 2024年08月20日 23:59  
                 **其他说明** : QQ群: 622869531 组委会邮箱: tianwangcup@163.com  
+                
+            ??? Quote "[MoeCTF 2024](https://ctf.xidian.edu.cn)"  
+                **比赛名称** : [MoeCTF 2024](https://ctf.xidian.edu.cn)  
+                **比赛类型** : 个人赛  
+                **报名时间** : 2024年08月07日 14:23 - 2024年10月14日 21:00  
+                **比赛时间** : 2024年08月10日 09:00 - 2024年10月14日 21:00  
+                **其他说明** : QQ 群：187536315  
                 
         === "国外赛事"
             ??? Quote "[Securinets CTF Quals 2024](https://ctf.securinets.tn/)"  
@@ -1268,7 +1266,7 @@ hide:
                 **比赛名称** : [jailCTF 2024](https://ctf.pyjail.club/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2024-09-14 04:00:00 - 2024-09-17 04:00:00 UTC+8  
-                **比赛权重** : 24.86  
+                **比赛权重** : 24.87  
                 **赛事主办** : jailctf (https://ctftime.org/team/311088)  
                 **添加日历** : https://ctftime.org/event/2450.ics  
                 
@@ -1475,7 +1473,7 @@ hide:
                 **比赛名称** : [idekCTF 2024](https://ctf.idek.team/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2024-08-17 08:00:00 - 2024-08-19 08:00:00 UTC+8  
-                **比赛权重** : 52.27  
+                **比赛权重** : 52.29  
                 **赛事主办** : idek (https://ctftime.org/team/157039)  
                 **添加日历** : https://ctftime.org/event/2304.ics  
                 
