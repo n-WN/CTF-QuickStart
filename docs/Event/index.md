@@ -290,15 +290,6 @@ hide:
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[SunshineCTF 2024](https://sunshinectf.org/)"  
-                [![](https://ctftime.org/media/events/sctf_logo_24.png){ width="200" align=left }](https://sunshinectf.org/)  
-                **比赛名称** : [SunshineCTF 2024](https://sunshinectf.org/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-10-19 22:00:00 - 2024-10-21 22:00:00 UTC+8  
-                **比赛权重** : 38.57  
-                **赛事主办** : Knightsec (https://ctftime.org/team/2500)  
-                **添加日历** : https://ctftime.org/event/2485.ics  
-                
             ??? Quote "[SAS CTF 2024 Finals](https://ctf.thesascon.com/)"  
                 [![](https://ctftime.org/media/events/SAS24_2_1.png){ width="200" align=left }](https://ctf.thesascon.com/)  
                 **比赛名称** : [SAS CTF 2024 Finals](https://ctf.thesascon.com/)  
@@ -852,6 +843,15 @@ hide:
                 **赛事主办** : FluxFingers (https://ctftime.org/team/551)  
                 **添加日历** : https://ctftime.org/event/2438.ics  
                 
+            ??? Quote "[SunshineCTF 2024](https://sunshinectf.org/)"  
+                [![](https://ctftime.org/media/events/sctf_logo_24.png){ width="200" align=left }](https://sunshinectf.org/)  
+                **比赛名称** : [SunshineCTF 2024](https://sunshinectf.org/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-10-19 22:00:00 - 2024-10-21 22:00:00 UTC+8  
+                **比赛权重** : 38.57  
+                **赛事主办** : Knightsec (https://ctftime.org/team/2500)  
+                **添加日历** : https://ctftime.org/event/2485.ics  
+                
     === "*已经结束*"
         === "国内赛事"
             ??? Quote "[BRICS+ CTF Quals 2024](https://brics-ctf.com/)"  
@@ -930,13 +930,6 @@ hide:
                 **报名时间** : 2024年07月08日 10:46 - 2024年07月31日 20:00  
                 **比赛时间** : 2024年08月12日 00:00 - 2024年08月22日 15:00  
                 **其他说明** : QQ群: 697694051 | 仅限相关岗位在职员工参加  
-                
-            ??? Quote "[第二届“天网杯”网络安全大赛](https://twcup.cverc.org.cn/twb/twb2024)"  
-                **比赛名称** : [第二届“天网杯”网络安全大赛](https://twcup.cverc.org.cn/twb/twb2024)  
-                **比赛类型** : 团队赛|不超过5人  
-                **报名时间** : 2024年7月15日 00:00 - 2024年7月31日 23:59  
-                **比赛时间** : 2024年08月01日 00:00 - 2024年08月20日 23:59  
-                **其他说明** : QQ群: 622869531 组委会邮箱: tianwangcup@163.com  
                 
             ??? Quote "[MoeCTF 2024](https://ctf.xidian.edu.cn)"  
                 **比赛名称** : [MoeCTF 2024](https://ctf.xidian.edu.cn)  
