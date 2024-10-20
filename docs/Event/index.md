@@ -443,15 +443,6 @@ hide:
                 **赛事主办** : Blue Hens (https://ctftime.org/team/64660)  
                 **添加日历** : https://ctftime.org/event/2512.ics  
                 
-            ??? Quote "[x3ctf 2024](https://x3c.tf/)"  
-                [![](https://ctftime.org/media/events/temp_pfp.png){ width="200" align=left }](https://x3c.tf/)  
-                **比赛名称** : [x3ctf 2024](https://x3c.tf/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-11-09 02:00:00 - 2024-11-11 02:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : x3CTF (https://ctftime.org/team/309820)  
-                **添加日历** : https://ctftime.org/event/2467.ics  
-                
             ??? Quote "[4T$ CTF](https://ctf.4ts.fr/)"  
                 [![](https://ctftime.org/media/events/53b0900ddae2f59936bcc4eafc1458cf.jpg){ width="200" align=left }](https://ctf.4ts.fr/)  
                 **比赛名称** : [4T$ CTF](https://ctf.4ts.fr/)  
@@ -740,6 +731,15 @@ hide:
                 **赛事主办** : DIV0-N0H4TS (https://ctftime.org/team/354275)  
                 **添加日历** : https://ctftime.org/event/2530.ics  
                 
+            ??? Quote "[x3ctf 2024](https://x3c.tf/)"  
+                [![](https://ctftime.org/media/events/temp_pfp.png){ width="200" align=left }](https://x3c.tf/)  
+                **比赛名称** : [x3ctf 2024](https://x3c.tf/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-01-25 02:00:00 - 2025-01-27 02:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : x3CTF (https://ctftime.org/team/309820)  
+                **添加日历** : https://ctftime.org/event/2467.ics  
+                
             ??? Quote "[SpartanCTF 2025](https://spartan.ctfd.io/)"  
                 [![](https://ctftime.org/media/events/spctf.png){ width="200" align=left }](https://spartan.ctfd.io/)  
                 **比赛名称** : [SpartanCTF 2025](https://spartan.ctfd.io/)  
@@ -1005,7 +1005,7 @@ hide:
                 **比赛名称** : [Haus der Flaggen/Flag Heist](https://laokoon-security.com/ctf2024)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2024-10-12 16:00:00 - 2024-10-13 02:00:00 UTC+8  
-                **比赛权重** : 0  
+                **比赛权重** : 21.00  
                 **赛事主办** : Laokoon SecurITy (https://ctftime.org/team/201667)  
                 **添加日历** : https://ctftime.org/event/2436.ics  
                 
