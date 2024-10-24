@@ -290,15 +290,6 @@ hide:
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[Z3R0 D4Y CTF](https://ctf.zerologon.co.in/)"  
-                [![](https://ctftime.org/media/events/Logo.c1dfc2e2d63945110c8d.png){ width="200" align=left }](https://ctf.zerologon.co.in/)  
-                **比赛名称** : [Z3R0 D4Y CTF](https://ctf.zerologon.co.in/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-10-24 17:00:00 - 2024-10-25 05:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : Z3r0_l0g0n (https://ctftime.org/team/227457)  
-                **添加日历** : https://ctftime.org/event/2529.ics  
-                
             ??? Quote "[EngimaXplore2.0 2024](https://unstop.com/hackathons/engimaxplore-20-ctf-tantrafiesta24-iiit-nagpur-1153719)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://unstop.com/hackathons/engimaxplore-20-ctf-tantrafiesta24-iiit-nagpur-1153719)  
                 **比赛名称** : [EngimaXplore2.0 2024](https://unstop.com/hackathons/engimaxplore-20-ctf-tantrafiesta24-iiit-nagpur-1153719)  
@@ -371,9 +362,9 @@ hide:
                 **赛事主办** : SKSD (https://ctftime.org/team/211952)  
                 **添加日历** : https://ctftime.org/event/2552.ics  
                 
-            ??? Quote "[TuxCTF V2](https://www.instagram.com/tuxpwners/)"  
-                [![](https://ctftime.org/media/events/tuxpwners-logo.png){ width="200" align=left }](https://www.instagram.com/tuxpwners/)  
-                **比赛名称** : [TuxCTF V2](https://www.instagram.com/tuxpwners/)  
+            ??? Quote "[TuxCTF V2](https://tuxctf.cyberalien.net/)"  
+                [![](https://ctftime.org/media/events/tuxpwners-logo.png){ width="200" align=left }](https://tuxctf.cyberalien.net/)  
+                **比赛名称** : [TuxCTF V2](https://tuxctf.cyberalien.net/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2024-10-29 17:00:00 - 2024-10-29 22:00:00 UTC+8  
                 **比赛权重** : 0.00  
@@ -932,6 +923,15 @@ hide:
                 **比赛权重** : 0  
                 **赛事主办** : Hack Havoc (https://ctftime.org/team/316395)  
                 **添加日历** : https://ctftime.org/event/2532.ics  
+                
+            ??? Quote "[Z3R0 D4Y CTF](https://ctf.zerologon.co.in/)"  
+                [![](https://ctftime.org/media/events/Logo.c1dfc2e2d63945110c8d.png){ width="200" align=left }](https://ctf.zerologon.co.in/)  
+                **比赛名称** : [Z3R0 D4Y CTF](https://ctf.zerologon.co.in/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-10-24 17:00:00 - 2024-10-25 05:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : Z3r0_l0g0n (https://ctftime.org/team/227457)  
+                **添加日历** : https://ctftime.org/event/2529.ics  
                 
     === "*已经结束*"
         === "国内赛事"
