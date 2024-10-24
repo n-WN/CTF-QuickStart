@@ -9,15 +9,6 @@ comments: true
 
 ## 国际赛事
 
-??? Quote "[EngimaXplore2.0 2024](https://unstop.com/hackathons/engimaxplore-20-ctf-tantrafiesta24-iiit-nagpur-1153719)"  
-    [![](https://ctftime.org){ width="200" align=left }](https://unstop.com/hackathons/engimaxplore-20-ctf-tantrafiesta24-iiit-nagpur-1153719)  
-    **比赛名称** : [EngimaXplore2.0 2024](https://unstop.com/hackathons/engimaxplore-20-ctf-tantrafiesta24-iiit-nagpur-1153719)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-10-24 20:29:59 - 2024-10-25 20:30:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : Crispr_iiitn (https://ctftime.org/team/270138)  
-    **添加日历** : https://ctftime.org/event/2524.ics  
-    
 ??? Quote "[HeroCTF v6](https://heroctf.fr/)"  
     [![](https://ctftime.org/media/events/HeroCTF_icon_500_1_1.png){ width="200" align=left }](https://heroctf.fr/)  
     **比赛名称** : [HeroCTF v6](https://heroctf.fr/)  
@@ -450,6 +441,15 @@ comments: true
     **赛事主办** : The DFIR Report (https://ctftime.org/team/309500)  
     **添加日历** : https://ctftime.org/event/2488.ics  
     
+??? Quote "[LakeCTF Quals 24-25](https://lakectf.epfl.ch/)"  
+    [![](https://ctftime.org/media/events/7fb065c04dbec7e33dfbb1f4456196c7.png){ width="200" align=left }](https://lakectf.epfl.ch/)  
+    **比赛名称** : [LakeCTF Quals 24-25](https://lakectf.epfl.ch/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-12-08 02:00:00 - 2024-12-09 02:00:00 UTC+8  
+    **比赛权重** : 36.00  
+    **赛事主办** : polygl0ts (https://ctftime.org/team/53791)  
+    **添加日历** : https://ctftime.org/event/2502.ics  
+    
 ??? Quote "[WannaGame Championship 2024](https://cnsc.uit.edu.vn/ctf/)"  
     [![](https://ctftime.org/media/events/WGC2024_2.png){ width="200" align=left }](https://cnsc.uit.edu.vn/ctf/)  
     **比赛名称** : [WannaGame Championship 2024](https://cnsc.uit.edu.vn/ctf/)  
@@ -494,15 +494,6 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : ctfcup (https://ctftime.org/team/203499)  
     **添加日历** : https://ctftime.org/event/2406.ics  
-    
-??? Quote "[LakeCTF Quals 24-25 (moved to 7th-8th Dec.)](https://lakectf.epfl.ch/)"  
-    [![](https://ctftime.org/media/events/7fb065c04dbec7e33dfbb1f4456196c7.png){ width="200" align=left }](https://lakectf.epfl.ch/)  
-    **比赛名称** : [LakeCTF Quals 24-25 (moved to 7th-8th Dec.)](https://lakectf.epfl.ch/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-12-15 02:00:00 - 2024-12-16 02:00:00 UTC+8  
-    **比赛权重** : 36.00  
-    **赛事主办** : polygl0ts (https://ctftime.org/team/53791)  
-    **添加日历** : https://ctftime.org/event/2502.ics  
     
 ??? Quote "[0CTF 2024](https://ctf.0ops.sjtu.cn/)"  
     [![](https://ctftime.org/media/events/0ctf.png){ width="200" align=left }](https://ctf.0ops.sjtu.cn/)  
