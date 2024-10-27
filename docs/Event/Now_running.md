@@ -45,15 +45,6 @@ comments: true
     **赛事主办** : NICC (https://ctftime.org/team/214936)  
     **添加日历** : https://ctftime.org/event/2516.ics  
     
-??? Quote "[ISITDTU CTF 2024 Quals](https://ctf.isitdtu.com/)"  
-    [![](https://ctftime.org/media/events/index_2.gif){ width="200" align=left }](https://ctf.isitdtu.com/)  
-    **比赛名称** : [ISITDTU CTF 2024 Quals](https://ctf.isitdtu.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-10-26 10:00:00 - 2024-10-27 18:00:00 UTC+8  
-    **比赛权重** : 51.00  
-    **赛事主办** : ISITDTU (https://ctftime.org/team/8241)  
-    **添加日历** : https://ctftime.org/event/2456.ics  
-    
 ??? Quote "[UrchinSec Aware CTF](https://ctf.urchinsec.com/)"  
     [![](https://ctftime.org/media/events/URCHINSEC_free-file_1.png){ width="200" align=left }](https://ctf.urchinsec.com/)  
     **比赛名称** : [UrchinSec Aware CTF](https://ctf.urchinsec.com/)  
@@ -71,15 +62,6 @@ comments: true
     **比赛权重** : 0  
     **赛事主办** : Singapore AI CTF (https://ctftime.org/team/357504)  
     **添加日历** : https://ctftime.org/event/2546.ics  
-    
-??? Quote "[Russian CTF Cup 2024 Qualifier](https://ctfcup.ru/)"  
-    [![](https://ctftime.org){ width="200" align=left }](https://ctfcup.ru/)  
-    **比赛名称** : [Russian CTF Cup 2024 Qualifier](https://ctfcup.ru/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-10-26 17:00:00 - 2024-10-27 17:00:00 UTC+8  
-    **比赛权重** : 24.21  
-    **赛事主办** : ctfcup (https://ctftime.org/team/203499)  
-    **添加日历** : https://ctftime.org/event/2405.ics  
     
 ??? Quote "[The Cyber Jawara International 2024](https://international.cyberjawara.pro/)"  
     [![](https://ctftime.org/media/events/73b32f71c82304b9e3df7fe9dedada59-transformed.png){ width="200" align=left }](https://international.cyberjawara.pro/)  
