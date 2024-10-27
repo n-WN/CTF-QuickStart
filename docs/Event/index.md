@@ -290,15 +290,6 @@ hide:
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[The Cyber Jawara International 2024](https://international.cyberjawara.pro/)"  
-                [![](https://ctftime.org/media/events/73b32f71c82304b9e3df7fe9dedada59-transformed.png){ width="200" align=left }](https://international.cyberjawara.pro/)  
-                **比赛名称** : [The Cyber Jawara International 2024](https://international.cyberjawara.pro/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-10-27 10:00:00 - 2024-10-28 10:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : SKSD (https://ctftime.org/team/211952)  
-                **添加日历** : https://ctftime.org/event/2552.ics  
-                
             ??? Quote "[TuxCTF V2](https://www.instagram.com/tuxpwners/)"  
                 [![](https://ctftime.org/media/events/tuxpwners-logo.png){ width="200" align=left }](https://www.instagram.com/tuxpwners/)  
                 **比赛名称** : [TuxCTF V2](https://www.instagram.com/tuxpwners/)  
@@ -906,6 +897,15 @@ hide:
                 **赛事主办** : ctfcup (https://ctftime.org/team/203499)  
                 **添加日历** : https://ctftime.org/event/2405.ics  
                 
+            ??? Quote "[The Cyber Jawara International 2024](https://international.cyberjawara.pro/)"  
+                [![](https://ctftime.org/media/events/73b32f71c82304b9e3df7fe9dedada59-transformed.png){ width="200" align=left }](https://international.cyberjawara.pro/)  
+                **比赛名称** : [The Cyber Jawara International 2024](https://international.cyberjawara.pro/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-10-27 10:00:00 - 2024-10-28 10:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : SKSD (https://ctftime.org/team/211952)  
+                **添加日历** : https://ctftime.org/event/2552.ics  
+                
     === "*已经结束*"
         === "国内赛事"
             ??? Quote "[BRICS+ CTF Quals 2024](https://brics-ctf.com/)"  
@@ -956,13 +956,6 @@ hide:
                 **报名时间** : 2024年06月30日 00:00 - 2024年08月30日 23:59  
                 **比赛时间** : 2024年06月30日 00:00 - 2024年08月31日 23:59  
                 **其他说明** : 仅限研究生  
-                
-            ??? Quote "[2024年“羊城杯”粤港澳大湾区网络安全大赛](https://2024ycb.dasctf.com/compete/compete?matchCode=87659256dbc7485&competeId=268)"  
-                **比赛名称** : [2024年“羊城杯”粤港澳大湾区网络安全大赛](https://2024ycb.dasctf.com/compete/compete?matchCode=87659256dbc7485&competeId=268)  
-                **比赛类型** : 个人赛|团队赛 1-4人  
-                **报名时间** : 2024年08月01日 18:45 - 2024年08月20日 23:59  
-                **比赛时间** : 2024年08月27日 09:00 - 2024年08月28日 09:00  
-                **其他说明** : QQ群1：1148320638 QQ群2：696494060 | 研究生、本科、高职、相关企业、党政机关及事业单位和港澳特邀  
                 
             ??? Quote "[MoeCTF 2024](https://ctf.xidian.edu.cn)"  
                 **比赛名称** : [MoeCTF 2024](https://ctf.xidian.edu.cn)  
@@ -1216,7 +1209,7 @@ hide:
                 **比赛名称** : [IRON CTF 2024](https://ctf.1nf1n1ty.team/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2024-10-05 13:30:00 - 2024-10-06 13:30:00 UTC+8  
-                **比赛权重** : 24.65  
+                **比赛权重** : 24.66  
                 **赛事主办** : 1nf1n1ty (https://ctftime.org/team/151859)  
                 **添加日历** : https://ctftime.org/event/2497.ics  
                 
