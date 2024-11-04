@@ -27,15 +27,6 @@ comments: true
     **赛事主办** : UWSP Pointers (https://ctftime.org/team/231536)  
     **添加日历** : https://ctftime.org/event/2121.ics  
     
-??? Quote "[Hack The Vote 2024](https://hackthe.vote/)"  
-    [![](https://ctftime.org/media/events/image_center.png){ width="200" align=left }](https://hackthe.vote/)  
-    **比赛名称** : [Hack The Vote 2024](https://hackthe.vote/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-11-02 07:00:00 - 2024-11-04 07:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : RPISEC (https://ctftime.org/team/572)  
-    **添加日历** : https://ctftime.org/event/2498.ics  
-    
 ??? Quote "[USC CTF Fall 2024](https://usc.ctfd.io/)"  
     [![](https://ctftime.org/media/events/USC_CTF_Logo_Handdrawn.png){ width="200" align=left }](https://usc.ctfd.io/)  
     **比赛名称** : [USC CTF Fall 2024](https://usc.ctfd.io/)  
@@ -44,15 +35,6 @@ comments: true
     **比赛权重** : 0  
     **赛事主办** : 7r0j4npwn135 (https://ctftime.org/team/214221)  
     **添加日历** : https://ctftime.org/event/2543.ics  
-    
-??? Quote "[Hackers N' Hops](https://hackersnhops.ctfd.io/)"  
-    [![](https://ctftime.org/media/events/HACKERSNHOPS.png){ width="200" align=left }](https://hackersnhops.ctfd.io/)  
-    **比赛名称** : [Hackers N' Hops](https://hackersnhops.ctfd.io/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-11-02 18:00:00 - 2024-11-04 02:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : Hackers N' Hops (https://ctftime.org/team/119910)  
-    **添加日历** : https://ctftime.org/event/2550.ics  
     
 ??? Quote "[RedShift.Eclipse 2 Quals](https://quals.o1d-bu7-go1d.ru/)"  
     [![](https://ctftime.org/media/events/IMG_5703.JPG){ width="200" align=left }](https://quals.o1d-bu7-go1d.ru/)  
