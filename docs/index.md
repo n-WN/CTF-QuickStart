@@ -56,24 +56,6 @@ hide:
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[cruXipher 2024 - ATMoS '24, BITS Hyderabad](https://cruxipher.crux-bphc.com/)"  
-            [![](https://ctftime.org/media/events/b93b251d190e41c5976063cdc151ac47.jpg){ width="200" align=left }](https://cruxipher.crux-bphc.com/)  
-            **比赛名称** : [cruXipher 2024 - ATMoS '24, BITS Hyderabad](https://cruxipher.crux-bphc.com/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2024-11-08 20:30:00 - 2024-11-10 20:30:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : CRUx BPHC (https://ctftime.org/team/270645)  
-            **添加日历** : https://ctftime.org/event/2559.ics  
-            
-        ??? Quote "[BlueHens CTF 2024](https://bluehens.ctfd.io/)"  
-            [![](https://ctftime.org/media/events/UDCTF-logo_2.png){ width="200" align=left }](https://bluehens.ctfd.io/)  
-            **比赛名称** : [BlueHens CTF 2024](https://bluehens.ctfd.io/)  
-            **比赛形式** : Jeopardy  
-            **比赛时间** : 2024-11-09 01:00:00 - 2024-11-10 13:00:00 UTC+8  
-            **比赛权重** : 34.05  
-            **赛事主办** : Blue Hens (https://ctftime.org/team/64660)  
-            **添加日历** : https://ctftime.org/event/2512.ics  
-            
         ??? Quote "[4T$ CTF](https://ctf.4ts.fr/)"  
             [![](https://ctftime.org/media/events/53b0900ddae2f59936bcc4eafc1458cf.jpg){ width="200" align=left }](https://ctf.4ts.fr/)  
             **比赛名称** : [4T$ CTF](https://ctf.4ts.fr/)  
@@ -91,6 +73,24 @@ hide:
             **比赛权重** : 0.00  
             **赛事主办** : HITCON (https://ctftime.org/team/8299)  
             **添加日历** : https://ctftime.org/event/2523.ics  
+            
+        ??? Quote "[M*CTF 2024 Quals](https://mctf.mtuci.ru/)"  
+            [![](https://ctftime.org/media/events/6sKaJXoc4I4.jpg){ width="200" align=left }](https://mctf.mtuci.ru/)  
+            **比赛名称** : [M*CTF 2024 Quals](https://mctf.mtuci.ru/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2024-11-09 17:00:00 - 2024-11-10 17:00:00 UTC+8  
+            **比赛权重** : 33.59  
+            **赛事主办** : BinaryBears (https://ctftime.org/team/36281)  
+            **添加日历** : https://ctftime.org/event/2534.ics  
+            
+        ??? Quote "[Bambi CTF #11](https://bambi11.enoflag.de/)"  
+            [![](https://ctftime.org/media/events/reh_1.png){ width="200" align=left }](https://bambi11.enoflag.de/)  
+            **比赛名称** : [Bambi CTF #11](https://bambi11.enoflag.de/)  
+            **比赛形式** : Attack-Defense  
+            **比赛时间** : 2024-11-09 19:00:00 - 2024-11-10 01:00:00 UTC+8  
+            **比赛权重** : 0.00  
+            **赛事主办** : ENOFLAG (https://ctftime.org/team/1438)  
+            **添加日历** : https://ctftime.org/event/2551.ics  
             
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](./Event/)
