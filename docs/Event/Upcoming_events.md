@@ -9,23 +9,14 @@ comments: true
 
 ## 国际赛事
 
-??? Quote "[HKCERT CTF 2024 (Qualifying Round)](https://platform.ctf.hkcert.org/)"  
-    [![](https://ctftime.org/media/events/Screenshot_2024-08-13_100427.png){ width="200" align=left }](https://platform.ctf.hkcert.org/)  
-    **比赛名称** : [HKCERT CTF 2024 (Qualifying Round)](https://platform.ctf.hkcert.org/)  
+??? Quote "[cruXipher 2024 - ATMoS '24, BITS Hyderabad](https://cruxipher.crux-bphc.com/)"  
+    [![](https://ctftime.org/media/events/b93b251d190e41c5976063cdc151ac47.jpg){ width="200" align=left }](https://cruxipher.crux-bphc.com/)  
+    **比赛名称** : [cruXipher 2024 - ATMoS '24, BITS Hyderabad](https://cruxipher.crux-bphc.com/)  
     **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-11-08 18:00:00 - 2024-11-10 18:00:00 UTC+8  
-    **比赛权重** : 61.22  
-    **赛事主办** : HKCERT (https://ctftime.org/team/134746)  
-    **添加日历** : https://ctftime.org/event/2455.ics  
-    
-??? Quote "[Metared Argentina CERTUNLP](https://ctf.cert.unlp.edu.ar/)"  
-    [![](https://ctftime.org/media/events/unlp.png){ width="200" align=left }](https://ctf.cert.unlp.edu.ar/)  
-    **比赛名称** : [Metared Argentina CERTUNLP](https://ctf.cert.unlp.edu.ar/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-11-08 19:00:00 - 2024-11-09 19:00:00 UTC+8  
-    **比赛权重** : 25.00  
-    **赛事主办** : CERTUNLP (https://ctftime.org/team/89294)  
-    **添加日历** : https://ctftime.org/event/2537.ics  
+    **比赛时间** : 2024-11-08 20:30:00 - 2024-11-10 20:30:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : CRUx BPHC (https://ctftime.org/team/270645)  
+    **添加日历** : https://ctftime.org/event/2559.ics  
     
 ??? Quote "[BlueHens CTF 2024](https://bluehens.ctfd.io/)"  
     [![](https://ctftime.org/media/events/UDCTF-logo_2.png){ width="200" align=left }](https://bluehens.ctfd.io/)  
@@ -224,6 +215,15 @@ comments: true
     **比赛权重** : 24.67  
     **赛事主办** : WreckTheLine (https://ctftime.org/team/57908)  
     **添加日历** : https://ctftime.org/event/2452.ics  
+    
+??? Quote "[CYBERGON CTF_2024](https://cybergon.ctfd.io/)"  
+    [![](https://ctftime.org/media/events/CYBERGON_Logo.png){ width="200" align=left }](https://cybergon.ctfd.io/)  
+    **比赛名称** : [CYBERGON CTF_2024](https://cybergon.ctfd.io/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-11-30 20:00:00 - 2024-12-02 20:00:00 UTC+8  
+    **比赛权重** : 23.08  
+    **赛事主办** : My4nM4r (https://ctftime.org/team/145625)  
+    **添加日历** : https://ctftime.org/event/2560.ics  
     
 ??? Quote "[saarCTF 2024](https://ctf.saarland/)"  
     [![](https://ctftime.org/media/events/e21b4ef017572441617115eaa6bd9823.jpg){ width="200" align=left }](https://ctf.saarland/)  
