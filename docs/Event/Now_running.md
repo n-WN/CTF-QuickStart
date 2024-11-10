@@ -27,15 +27,6 @@ comments: true
     **赛事主办** : UWSP Pointers (https://ctftime.org/team/231536)  
     **添加日历** : https://ctftime.org/event/2121.ics  
     
-??? Quote "[cruXipher 2024 - ATMoS '24, BITS Hyderabad](https://cruxipher.crux-bphc.com/)"  
-    [![](https://ctftime.org/media/events/b93b251d190e41c5976063cdc151ac47.jpg){ width="200" align=left }](https://cruxipher.crux-bphc.com/)  
-    **比赛名称** : [cruXipher 2024 - ATMoS '24, BITS Hyderabad](https://cruxipher.crux-bphc.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-11-08 20:30:00 - 2024-11-10 20:30:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : CRUx BPHC (https://ctftime.org/team/270645)  
-    **添加日历** : https://ctftime.org/event/2559.ics  
-    
 ??? Quote "[4T$ CTF](https://ctf.4ts.fr/)"  
     [![](https://ctftime.org/media/events/53b0900ddae2f59936bcc4eafc1458cf.jpg){ width="200" align=left }](https://ctf.4ts.fr/)  
     **比赛名称** : [4T$ CTF](https://ctf.4ts.fr/)  
@@ -44,13 +35,4 @@ comments: true
     **比赛权重** : 0  
     **赛事主办** : 4T$ (https://ctftime.org/team/302295)  
     **添加日历** : https://ctftime.org/event/2545.ics  
-    
-??? Quote "[N1CTF 2024](https://ctf2024.nu1l.com/)"  
-    [![](https://ctftime.org/media/events/logo2_5_1.png){ width="200" align=left }](https://ctf2024.nu1l.com/)  
-    **比赛名称** : [N1CTF 2024](https://ctf2024.nu1l.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-11-09 20:00:00 - 2024-11-10 20:00:00 UTC+8  
-    **比赛权重** : 89.85  
-    **赛事主办** : Nu1L (https://ctftime.org/team/19208)  
-    **添加日历** : https://ctftime.org/event/2459.ics  
     
