@@ -504,18 +504,6 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "HKCERT CTF 2024 (Qualifying Round)",
-        "比赛时间": "2024-11-08 18:00:00 - 2024-11-10 18:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2455.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://platform.ctf.hkcert.org/",
-        "比赛标志": "https://ctftime.org/media/events/Screenshot_2024-08-13_100427.png",
-        "比赛权重": "61.22",
-        "赛事主办": "HKCERT (https://ctftime.org/team/134746)",
-        "比赛ID": "529",
-        "比赛状态": "nowrunning"
-    },
-    {
         "比赛名称": "cruXipher 2024 - ATMoS '24, BITS Hyderabad",
         "比赛时间": "2024-11-08 20:30:00 - 2024-11-10 20:30:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2559.ics",
@@ -537,30 +525,6 @@
         "比赛权重": "0",
         "赛事主办": "4T$ (https://ctftime.org/team/302295)",
         "比赛ID": "1188",
-        "比赛状态": "nowrunning"
-    },
-    {
-        "比赛名称": "HITCON CTF 2024 Final",
-        "比赛时间": "2024-11-09 08:00:00 - 2024-11-10 16:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2523.ics",
-        "比赛形式": "Attack-Defense",
-        "比赛链接": "http://ctf.hitcon.org/",
-        "比赛标志": "https://ctftime.org/media/events/eb3c04d49c017eda197bab74939403eb.jpg",
-        "比赛权重": "0",
-        "赛事主办": "HITCON (https://ctftime.org/team/8299)",
-        "比赛ID": "79",
-        "比赛状态": "nowrunning"
-    },
-    {
-        "比赛名称": "M*CTF 2024 Quals",
-        "比赛时间": "2024-11-09 17:00:00 - 2024-11-10 17:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2534.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://mctf.mtuci.ru/",
-        "比赛标志": "https://ctftime.org/media/events/6sKaJXoc4I4.jpg",
-        "比赛权重": "33.59",
-        "赛事主办": "BinaryBears (https://ctftime.org/team/36281)",
-        "比赛ID": "165",
         "比赛状态": "nowrunning"
     },
     {
@@ -588,6 +552,30 @@
         "比赛状态": "past"
     },
     {
+        "比赛名称": "M*CTF 2024 Quals",
+        "比赛时间": "2024-11-09 17:00:00 - 2024-11-10 17:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2534.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://mctf.mtuci.ru/",
+        "比赛标志": "https://ctftime.org/media/events/6sKaJXoc4I4.jpg",
+        "比赛权重": "33.59",
+        "赛事主办": "BinaryBears (https://ctftime.org/team/36281)",
+        "比赛ID": "165",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "HITCON CTF 2024 Final",
+        "比赛时间": "2024-11-09 08:00:00 - 2024-11-10 16:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2523.ics",
+        "比赛形式": "Attack-Defense",
+        "比赛链接": "http://ctf.hitcon.org/",
+        "比赛标志": "https://ctftime.org/media/events/eb3c04d49c017eda197bab74939403eb.jpg",
+        "比赛权重": "0",
+        "赛事主办": "HITCON (https://ctftime.org/team/8299)",
+        "比赛ID": "79",
+        "比赛状态": "past"
+    },
+    {
         "比赛名称": "BlueHens CTF 2024",
         "比赛时间": "2024-11-09 01:00:00 - 2024-11-10 13:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2512.ics",
@@ -609,6 +597,18 @@
         "比赛权重": "25.00",
         "赛事主办": "CERTUNLP (https://ctftime.org/team/89294)",
         "比赛ID": "653",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "HKCERT CTF 2024 (Qualifying Round)",
+        "比赛时间": "2024-11-08 18:00:00 - 2024-11-10 18:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2455.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://platform.ctf.hkcert.org/",
+        "比赛标志": "https://ctftime.org/media/events/Screenshot_2024-08-13_100427.png",
+        "比赛权重": "61.22",
+        "赛事主办": "HKCERT (https://ctftime.org/team/134746)",
+        "比赛ID": "529",
         "比赛状态": "past"
     },
     {
@@ -1698,7 +1698,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://ctf.idek.team/",
         "比赛标志": "https://ctftime.org",
-        "比赛权重": "52.30",
+        "比赛权重": "52.04",
         "赛事主办": "idek (https://ctftime.org/team/157039)",
         "比赛ID": "700",
         "比赛状态": "past"
@@ -1737,42 +1737,6 @@
         "比赛权重": "35.00",
         "赛事主办": "Nautilus Institute (https://ctftime.org/team/181536)",
         "比赛ID": "2",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "PECAN+ CTF 2024",
-        "比赛时间": "2024-08-04 09:00:00 - 2024-08-04 13:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2439.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://pecanplus.ecusdf.org/",
-        "比赛标志": "https://ctftime.org/media/events/Pecan_Logo_Transparent_1.png",
-        "比赛权重": "0.00",
-        "赛事主办": "PECAN+ (https://ctftime.org/team/250009)",
-        "比赛ID": "973",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "n00bzCTF 2024",
-        "比赛时间": "2024-08-03 09:00:00 - 2024-08-05 09:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2378.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.n00bzunit3d.xyz/",
-        "比赛标志": "https://ctftime.org/media/events/logo_ascii_1.png",
-        "比赛权重": "24.23",
-        "赛事主办": "n00bzUnit3d (https://ctftime.org/team/152491)",
-        "比赛ID": "792",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "CrewCTF 2024",
-        "比赛时间": "2024-08-03 01:00:00 - 2024-08-05 01:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2223.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://2024.crewc.tf/",
-        "比赛标志": "https://ctftime.org/media/events/THC_new.png",
-        "比赛权重": "26.89",
-        "赛事主办": "thehackerscrew (https://ctftime.org/team/85618)",
-        "比赛ID": "738",
         "比赛状态": "past"
     }
 ]
