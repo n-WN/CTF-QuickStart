@@ -512,9 +512,9 @@ hide:
                 **赛事主办** : Wanna.W1n (https://ctftime.org/team/138431)  
                 **添加日历** : https://ctftime.org/event/2515.ics  
                 
-            ??? Quote "[niteCTF 2024](https://www.nitectf2024.live/)"  
-                [![](https://ctftime.org/media/events/nitectf_2024_logo.jpg){ width="200" align=left }](https://www.nitectf2024.live/)  
-                **比赛名称** : [niteCTF 2024](https://www.nitectf2024.live/)  
+            ??? Quote "[niteCTF 2024](https://www.nitectf.live/)"  
+                [![](https://ctftime.org/media/events/nitectf_2024_logo.jpg){ width="200" align=left }](https://www.nitectf.live/)  
+                **比赛名称** : [niteCTF 2024](https://www.nitectf.live/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2024-12-13 20:00:00 - 2024-12-15 20:00:00 UTC+8  
                 **比赛权重** : 29.33  
@@ -700,13 +700,6 @@ hide:
                 **报名时间** : 2024年05月06日 00:00 - 2024年09月23日 23:59  
                 **比赛时间** : 2024年09月25日 00:00 - 2024年09月25日 23:59  
                 **其他说明** : QQ群: 794148708|仅限研究生参加  
-                
-            ??? Quote "[第五届“闽盾杯”网络空间安全大塞黑盾全国大学生赛道（决赛）](http://heidunbei.si.net.cn/hdc/cover)"  
-                **比赛名称** : [第五届“闽盾杯”网络空间安全大塞黑盾全国大学生赛道（决赛）](http://heidunbei.si.net.cn/hdc/cover)  
-                **比赛类型** : 团队赛|3人  
-                **报名时间** : 2024年06月26日 10:35 - 2024年06月26日 10:35  
-                **比赛时间** : 2024年09月13日 00:00 - 2024年09月13日 23:59  
-                **其他说明** : QQ群：676547374 或 566180593  
                 
             ??? Quote "[MoeCTF 2024](https://ctf.xidian.edu.cn)"  
                 **比赛名称** : [MoeCTF 2024](https://ctf.xidian.edu.cn)  
