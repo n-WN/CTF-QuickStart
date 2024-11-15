@@ -296,24 +296,6 @@ hide:
                 **其他说明** : 蜀道山高校联合公益赛由西南民族大学、成都东软学院、成都信息工程大学、四川师范大学、成都理工大学D1no战队、西南石油大学、成都大学、西华师范大学、江西警察学院、哈尔滨理工大学、衡阳师范学院、宁波职业技术学院、浙江工商职业技术学院、山东警察学院、广东行政职业学院、四川大学、南京信息职业技术学院、聊城职业技术学院等高校联合主办。竞赛时间为2024年11月17日10:00至18:00，竞赛形式为Jeopardy，每队3人。  
                 
         === "国外赛事"
-            ??? Quote "[1337UP LIVE CTF](https://ctf.intigriti.io/)"  
-                [![](https://ctftime.org/media/events/intigriti_icon_cmyk_navy.png){ width="200" align=left }](https://ctf.intigriti.io/)  
-                **比赛名称** : [1337UP LIVE CTF](https://ctf.intigriti.io/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-11-15 19:59:59 - 2024-11-17 07:59:59 UTC+8  
-                **比赛权重** : 24.23  
-                **赛事主办** : CryptoCat (https://ctftime.org/team/124896)  
-                **添加日历** : https://ctftime.org/event/2446.ics  
-                
-            ??? Quote "[PwnSec CTF 2024](https://ctf.pwnsec.xyz/)"  
-                [![](https://ctftime.org/media/events/Logo_12.png){ width="200" align=left }](https://ctf.pwnsec.xyz/)  
-                **比赛名称** : [PwnSec CTF 2024](https://ctf.pwnsec.xyz/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-11-15 23:00:00 - 2024-11-16 23:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : PwnSec (https://ctftime.org/team/28797)  
-                **添加日历** : https://ctftime.org/event/2454.ics  
-                
             ??? Quote "[BRICS+ CTF Finals 2024](https://brics-ctf.com/)"  
                 [![](https://ctftime.org/media/events/brics-logo-2024-square.png){ width="200" align=left }](https://brics-ctf.com/)  
                 **比赛名称** : [BRICS+ CTF Finals 2024](https://brics-ctf.com/)  
@@ -660,14 +642,23 @@ hide:
                 **赛事主办** : NULL Life (https://ctftime.org/team/321)  
                 **添加日历** : https://ctftime.org/event/2507.ics  
                 
-            ??? Quote "[Die Abenteuer von KIM & TIM Kapt. II - To TI-Mfinity and Beyond](http://ctf.gematik.de/)"  
-                [![](https://ctftime.org/media/events/Bild_1.png){ width="200" align=left }](http://ctf.gematik.de/)  
-                **比赛名称** : [Die Abenteuer von KIM & TIM Kapt. II - To TI-Mfinity and Beyond](http://ctf.gematik.de/)  
+            ??? Quote "[1337UP LIVE CTF](https://ctf.intigriti.io/)"  
+                [![](https://ctftime.org/media/events/intigriti_icon_cmyk_navy.png){ width="200" align=left }](https://ctf.intigriti.io/)  
+                **比赛名称** : [1337UP LIVE CTF](https://ctf.intigriti.io/)  
                 **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-11-15 17:00:00 - 2024-11-16 01:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : H34lthineer (https://ctftime.org/team/170109)  
-                **添加日历** : https://ctftime.org/event/2481.ics  
+                **比赛时间** : 2024-11-15 19:59:59 - 2024-11-17 07:59:59 UTC+8  
+                **比赛权重** : 24.23  
+                **赛事主办** : CryptoCat (https://ctftime.org/team/124896)  
+                **添加日历** : https://ctftime.org/event/2446.ics  
+                
+            ??? Quote "[PwnSec CTF 2024](https://ctf.pwnsec.xyz/)"  
+                [![](https://ctftime.org/media/events/Logo_12.png){ width="200" align=left }](https://ctf.pwnsec.xyz/)  
+                **比赛名称** : [PwnSec CTF 2024](https://ctf.pwnsec.xyz/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-11-15 23:00:00 - 2024-11-16 23:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : PwnSec (https://ctftime.org/team/28797)  
+                **添加日历** : https://ctftime.org/event/2454.ics  
                 
     === "*已经结束*"
         === "国内赛事"
@@ -763,6 +754,15 @@ hide:
                 **其他说明** : CTFshow单身杯(DSBCTF)比赛由CTFshow主办，是一场个人赛形式的CTF夺旗赛，比赛时间为2024年11月11日11时11分至2024年11月13日11时11分，共48小时。比赛报名需提前注册账号，比赛开始后放出题目。  
                 
         === "国外赛事"
+            ??? Quote "[Die Abenteuer von KIM & TIM Kapt. II - To TI-Mfinity and Beyond](http://ctf.gematik.de/)"  
+                [![](https://ctftime.org/media/events/Bild_1.png){ width="200" align=left }](http://ctf.gematik.de/)  
+                **比赛名称** : [Die Abenteuer von KIM & TIM Kapt. II - To TI-Mfinity and Beyond](http://ctf.gematik.de/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-11-15 17:00:00 - 2024-11-16 01:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : H34lthineer (https://ctftime.org/team/170109)  
+                **添加日历** : https://ctftime.org/event/2481.ics  
+                
             ??? Quote "[BlockCTF 2024 (Formerly SquareCTF)](https://2024.blockctf.com/)"  
                 [![](https://ctftime.org/media/events/0ed304c3c4dcb6a3e887778f3928e26e.png){ width="200" align=left }](https://2024.blockctf.com/)  
                 **比赛名称** : [BlockCTF 2024 (Formerly SquareCTF)](https://2024.blockctf.com/)  
@@ -1653,15 +1653,6 @@ hide:
                 **比赛权重** : 20.00  
                 **赛事主办** : DASCTF (https://ctftime.org/team/303691)  
                 **添加日历** : https://ctftime.org/event/2458.ics  
-                
-            ??? Quote "[SekaiCTF 2024](https://ctf.sekai.team/)"  
-                [![](https://ctftime.org/media/events/sekai2_SEKAI_CTF_Square_Black_BG.r_1_1.png){ width="200" align=left }](https://ctf.sekai.team/)  
-                **比赛名称** : [SekaiCTF 2024](https://ctf.sekai.team/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-08-24 00:00:00 - 2024-08-26 00:00:00 UTC+8  
-                **比赛权重** : 36.96  
-                **赛事主办** : Project Sekai (https://ctftime.org/team/169557)  
-                **添加日历** : https://ctftime.org/event/2243.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
