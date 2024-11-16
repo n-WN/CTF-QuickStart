@@ -1,17 +1,5 @@
 [
     {
-        "比赛名称": "No Hack No CTF 2024",
-        "比赛时间": "2024-11-16 09:30:00 - 2024-11-17 21:30:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2574.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://nhnc.ic3dt3a.org/",
-        "比赛标志": "https://ctftime.org",
-        "比赛权重": "0.00",
-        "赛事主办": "ICEDTEA (https://ctftime.org/team/303514)",
-        "比赛ID": "1199",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "BRICS+ CTF Finals 2024",
         "比赛时间": "2024-11-16 18:00:00 - 2024-11-17 02:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2521.ics",
@@ -636,6 +624,18 @@
         "比赛状态": "nowrunning"
     },
     {
+        "比赛名称": "No Hack No CTF 2024",
+        "比赛时间": "2024-11-16 09:30:00 - 2024-11-17 21:30:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2574.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://nhnc.ic3dt3a.org/",
+        "比赛标志": "https://ctftime.org",
+        "比赛权重": "0",
+        "赛事主办": "ICEDTEA (https://ctftime.org/team/303514)",
+        "比赛ID": "1199",
+        "比赛状态": "nowrunning"
+    },
+    {
         "比赛名称": "Die Abenteuer von KIM & TIM Kapt. II - To TI-Mfinity and Beyond",
         "比赛时间": "2024-11-15 17:00:00 - 2024-11-16 01:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2481.ics",
@@ -798,7 +798,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://ctf.csaw.io/",
         "比赛标志": "https://ctftime.org/media/events/CSAW15LOGO_COLOR_1.png",
-        "比赛权重": "0",
+        "比赛权重": "25.00",
         "赛事主办": "NYUSEC (https://ctftime.org/team/439)",
         "比赛ID": "19",
         "比赛状态": "past"
