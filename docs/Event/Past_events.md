@@ -98,6 +98,24 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[Crate-CTF 2024](https://foi.se/cratectf)"  
+    [![](https://ctftime.org/media/events/crate-ctf-2024.png){ width="200" align=left }](https://foi.se/cratectf)  
+    **比赛名称** : [Crate-CTF 2024](https://foi.se/cratectf)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-11-16 21:00:00 - 2024-11-17 05:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : Crate-CTF (https://ctftime.org/team/352250)  
+    **添加日历** : https://ctftime.org/event/2489.ics  
+    
+??? Quote "[BRICS+ CTF Finals 2024](https://brics-ctf.com/)"  
+    [![](https://ctftime.org/media/events/brics-logo-2024-square.png){ width="200" align=left }](https://brics-ctf.com/)  
+    **比赛名称** : [BRICS+ CTF Finals 2024](https://brics-ctf.com/)  
+    **比赛形式** : Attack-Defense  
+    **比赛时间** : 2024-11-16 18:00:00 - 2024-11-17 02:00:00 UTC+8  
+    **比赛权重** : 25.00  
+    **赛事主办** : ITMO FSIT (https://ctftime.org/team/264636)  
+    **添加日历** : https://ctftime.org/event/2521.ics  
+    
 ??? Quote "[PwnSec CTF 2024](https://ctf.pwnsec.xyz/)"  
     [![](https://ctftime.org/media/events/Logo_12.png){ width="200" align=left }](https://ctf.pwnsec.xyz/)  
     **比赛名称** : [PwnSec CTF 2024](https://ctf.pwnsec.xyz/)  
@@ -979,22 +997,4 @@ comments: true
     **比赛权重** : 21.80  
     **赛事主办** : NYUSEC (https://ctftime.org/team/439)  
     **添加日历** : https://ctftime.org/event/2398.ics  
-    
-??? Quote "[BlackHat MEA CTF Qualification 2024](https://blackhatmea.com/capture-the-flag)"  
-    [![](https://ctftime.org/media/events/e0c283c95f7b0db516dae505d31ca20b_2.jpg){ width="200" align=left }](https://blackhatmea.com/capture-the-flag)  
-    **比赛名称** : [BlackHat MEA CTF Qualification 2024](https://blackhatmea.com/capture-the-flag)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-09-01 18:00:00 - 2024-09-02 17:59:59 UTC+8  
-    **比赛权重** : 25.00  
-    **赛事主办** : SAFCSP (https://ctftime.org/team/54707)  
-    **添加日历** : https://ctftime.org/event/2430.ics  
-    
-??? Quote "[AlpacaHack Round 2 (Web)](https://alpacahack.com/ctfs/round-2)"  
-    [![](https://ctftime.org/media/events/dark_512.png){ width="200" align=left }](https://alpacahack.com/ctfs/round-2)  
-    **比赛名称** : [AlpacaHack Round 2 (Web)](https://alpacahack.com/ctfs/round-2)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-09-01 11:00:00 - 2024-09-01 17:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : AlpacaHack (https://ctftime.org/team/312315)  
-    **添加日历** : https://ctftime.org/event/2465.ics  
     
