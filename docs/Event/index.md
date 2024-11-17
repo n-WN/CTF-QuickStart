@@ -699,15 +699,6 @@ hide:
                 **赛事主办** : UWSP Pointers (https://ctftime.org/team/231536)  
                 **添加日历** : https://ctftime.org/event/2121.ics  
                 
-            ??? Quote "[No Hack No CTF 2024](https://nhnc.ic3dt3a.org/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://nhnc.ic3dt3a.org/)  
-                **比赛名称** : [No Hack No CTF 2024](https://nhnc.ic3dt3a.org/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-11-16 09:30:00 - 2024-11-17 21:30:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : ICEDTEA (https://ctftime.org/team/303514)  
-                **添加日历** : https://ctftime.org/event/2574.ics  
-                
             ??? Quote "[iCTF 2024 (Undergrad)](https://ictf.cs.ucsb.edu/)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://ictf.cs.ucsb.edu/)  
                 **比赛名称** : [iCTF 2024 (Undergrad)](https://ictf.cs.ucsb.edu/)  
@@ -845,6 +836,15 @@ hide:
                 **赛事主办** : ITMO FSIT (https://ctftime.org/team/264636)  
                 **添加日历** : https://ctftime.org/event/2521.ics  
                 
+            ??? Quote "[No Hack No CTF 2024](https://nhnc.ic3dt3a.org/)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://nhnc.ic3dt3a.org/)  
+                **比赛名称** : [No Hack No CTF 2024](https://nhnc.ic3dt3a.org/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-11-16 09:30:00 - 2024-11-17 21:30:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : ICEDTEA (https://ctftime.org/team/303514)  
+                **添加日历** : https://ctftime.org/event/2574.ics  
+                
             ??? Quote "[PwnSec CTF 2024](https://ctf.pwnsec.xyz/)"  
                 [![](https://ctftime.org/media/events/Logo_12.png){ width="200" align=left }](https://ctf.pwnsec.xyz/)  
                 **比赛名称** : [PwnSec CTF 2024](https://ctf.pwnsec.xyz/)  
@@ -949,7 +949,7 @@ hide:
                 **比赛名称** : [cruXipher 2024 - ATMoS '24, BITS Hyderabad](https://cruxipher.crux-bphc.com/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2024-11-08 20:30:00 - 2024-11-10 20:30:00 UTC+8  
-                **比赛权重** : 0  
+                **比赛权重** : 25.00  
                 **赛事主办** : CRUx BPHC (https://ctftime.org/team/270645)  
                 **添加日历** : https://ctftime.org/event/2559.ics  
                 
@@ -1717,15 +1717,6 @@ hide:
                 **比赛权重** : 0.00  
                 **赛事主办** : HackTheDrone (https://ctftime.org/team/337463)  
                 **添加日历** : https://ctftime.org/event/2474.ics  
-                
-            ??? Quote "[WMCTF2024](https://wmctf.wm-team.cn/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://wmctf.wm-team.cn/)  
-                **比赛名称** : [WMCTF2024](https://wmctf.wm-team.cn/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-09-07 09:00:00 - 2024-09-09 09:00:00 UTC+8  
-                **比赛权重** : 53.88  
-                **赛事主办** : W&M (https://ctftime.org/team/54666)  
-                **添加日历** : https://ctftime.org/event/2457.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
