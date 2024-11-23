@@ -290,15 +290,6 @@ hide:
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[CyberSci Regional Qualifiers 2024-25](https://cybersecuritychallenge.ca/)"  
-                [![](https://ctftime.org/media/events/9ad26ba791d2c5418b515bd4699ea7e2.png){ width="200" align=left }](https://cybersecuritychallenge.ca/)  
-                **比赛名称** : [CyberSci Regional Qualifiers 2024-25](https://cybersecuritychallenge.ca/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-11-24 00:00:00 - 2024-11-24 07:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : CyberSciOrganizers (https://ctftime.org/team/157536)  
-                **添加日历** : https://ctftime.org/event/2511.ics  
-                
             ??? Quote "[CTFZone 2024 Final](http://ctf.bi.zone/)"  
                 [![](https://ctftime.org/media/events/aa86f826480a008ed91d88a917a0c33b.png){ width="200" align=left }](http://ctf.bi.zone/)  
                 **比赛名称** : [CTFZone 2024 Final](http://ctf.bi.zone/)  
@@ -672,23 +663,14 @@ hide:
                 **赛事主办** : SECCON CTF (https://ctftime.org/team/11918)  
                 **添加日历** : https://ctftime.org/event/2478.ics  
                 
-            ??? Quote "[WP CTF 2024](https://wpctf.it/)"  
-                [![](https://ctftime.org/media/events/WP_CTF_logo.png){ width="200" align=left }](https://wpctf.it/)  
-                **比赛名称** : [WP CTF 2024](https://wpctf.it/)  
+            ??? Quote "[CyberSci Regional Qualifiers 2024-25](https://cybersecuritychallenge.ca/)"  
+                [![](https://ctftime.org/media/events/9ad26ba791d2c5418b515bd4699ea7e2.png){ width="200" align=left }](https://cybersecuritychallenge.ca/)  
+                **比赛名称** : [CyberSci Regional Qualifiers 2024-25](https://cybersecuritychallenge.ca/)  
                 **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-11-23 16:00:00 - 2024-11-24 00:00:00 UTC+8  
+                **比赛时间** : 2024-11-24 00:00:00 - 2024-11-24 07:00:00 UTC+8  
                 **比赛权重** : 0  
-                **赛事主办** : WP CTF (https://ctftime.org/team/303099)  
-                **添加日历** : https://ctftime.org/event/2395.ics  
-                
-            ??? Quote "[The Hacker Conclave v2](https://ctf.thehackerconclave.es/)"  
-                [![](https://ctftime.org/media/events/ctftime2.png){ width="200" align=left }](https://ctf.thehackerconclave.es/)  
-                **比赛名称** : [The Hacker Conclave v2](https://ctf.thehackerconclave.es/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-11-23 17:00:00 - 2024-11-23 20:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : C0ncl4v3 (https://ctftime.org/team/303692)  
-                **添加日历** : https://ctftime.org/event/2575.ics  
+                **赛事主办** : CyberSciOrganizers (https://ctftime.org/team/157536)  
+                **添加日历** : https://ctftime.org/event/2511.ics  
                 
     === "*已经结束*"
         === "国内赛事"
@@ -791,6 +773,24 @@ hide:
                 **其他说明** : CTFshow单身杯(DSBCTF)比赛由CTFshow主办，是一场个人赛形式的CTF夺旗赛，比赛时间为2024年11月11日11时11分至2024年11月13日11时11分，共48小时。比赛报名需提前注册账号，比赛开始后放出题目。  
                 
         === "国外赛事"
+            ??? Quote "[The Hacker Conclave v2](https://ctf.thehackerconclave.es/)"  
+                [![](https://ctftime.org/media/events/ctftime2.png){ width="200" align=left }](https://ctf.thehackerconclave.es/)  
+                **比赛名称** : [The Hacker Conclave v2](https://ctf.thehackerconclave.es/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-11-23 17:00:00 - 2024-11-23 20:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : C0ncl4v3 (https://ctftime.org/team/303692)  
+                **添加日历** : https://ctftime.org/event/2575.ics  
+                
+            ??? Quote "[WP CTF 2024](https://wpctf.it/)"  
+                [![](https://ctftime.org/media/events/WP_CTF_logo.png){ width="200" align=left }](https://wpctf.it/)  
+                **比赛名称** : [WP CTF 2024](https://wpctf.it/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-11-23 16:00:00 - 2024-11-24 00:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : WP CTF (https://ctftime.org/team/303099)  
+                **添加日历** : https://ctftime.org/event/2395.ics  
+                
             ??? Quote "[Hackvens 2024](https://hackvens.fr/)"  
                 [![](https://ctftime.org/media/events/Logo_Hackvens.png){ width="200" align=left }](https://hackvens.fr/)  
                 **比赛名称** : [Hackvens 2024](https://hackvens.fr/)  
@@ -850,7 +850,7 @@ hide:
                 **比赛名称** : [PwnSec CTF 2024](https://ctf.pwnsec.xyz/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2024-11-15 23:00:00 - 2024-11-16 23:00:00 UTC+8  
-                **比赛权重** : 0  
+                **比赛权重** : 24.13  
                 **赛事主办** : PwnSec (https://ctftime.org/team/28797)  
                 **添加日历** : https://ctftime.org/event/2454.ics  
                 
@@ -1672,24 +1672,6 @@ hide:
                 **比赛权重** : 23.33  
                 **赛事主办** : haruulzangi-organizers (https://ctftime.org/team/266812)  
                 **添加日历** : https://ctftime.org/event/2476.ics  
-                
-            ??? Quote "[COMPFEST CTF 2024](https://ctf-mirror.compfest.id/)"  
-                [![](https://ctftime.org/media/events/Group_49363.png){ width="200" align=left }](https://ctf-mirror.compfest.id/)  
-                **比赛名称** : [COMPFEST CTF 2024](https://ctf-mirror.compfest.id/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-09-08 08:00:00 - 2024-09-09 08:00:00 UTC+8  
-                **比赛权重** : 43.00  
-                **赛事主办** : CSUI (https://ctftime.org/team/70551)  
-                **添加日历** : https://ctftime.org/event/2463.ics  
-                
-            ??? Quote "[DFIR Labs CTF by The DFIR Report](https://thedfirreport.com/services/dfir-labs/ctf/)"  
-                [![](https://ctftime.org/media/events/image_31.png){ width="200" align=left }](https://thedfirreport.com/services/dfir-labs/ctf/)  
-                **比赛名称** : [DFIR Labs CTF by The DFIR Report](https://thedfirreport.com/services/dfir-labs/ctf/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-09-08 00:00:00 - 2024-09-08 04:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : The DFIR Report (https://ctftime.org/team/309500)  
-                **添加日历** : https://ctftime.org/event/2451.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
