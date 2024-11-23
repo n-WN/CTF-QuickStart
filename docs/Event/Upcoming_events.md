@@ -9,15 +9,6 @@ comments: true
 
 ## 国际赛事
 
-??? Quote "[SECCON CTF 13 Quals](https://ctf.seccon.jp/)"  
-    [![](https://ctftime.org/media/events/seccon_s_7.png){ width="200" align=left }](https://ctf.seccon.jp/)  
-    **比赛名称** : [SECCON CTF 13 Quals](https://ctf.seccon.jp/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-11-23 13:00:00 - 2024-11-24 13:00:00 UTC+8  
-    **比赛权重** : 100.00  
-    **赛事主办** : SECCON CTF (https://ctftime.org/team/11918)  
-    **添加日历** : https://ctftime.org/event/2478.ics  
-    
 ??? Quote "[WP CTF 2024](https://wpctf.it/)"  
     [![](https://ctftime.org/media/events/WP_CTF_logo.png){ width="200" align=left }](https://wpctf.it/)  
     **比赛名称** : [WP CTF 2024](https://wpctf.it/)  
@@ -81,9 +72,9 @@ comments: true
     **赛事主办** : Pic0wn (https://ctftime.org/team/6514)  
     **添加日历** : https://ctftime.org/event/2564.ics  
     
-??? Quote "[HackTM CTF 2024](https://ctf.hacktm.ro/)"  
+??? Quote "[HackTM CTF 2024 - Postponed](https://ctf.hacktm.ro/)"  
     [![](https://ctftime.org/media/events/e2b12b3390413f1cf2cdeb7b12e076c6.jpg){ width="200" align=left }](https://ctf.hacktm.ro/)  
-    **比赛名称** : [HackTM CTF 2024](https://ctf.hacktm.ro/)  
+    **比赛名称** : [HackTM CTF 2024 - Postponed](https://ctf.hacktm.ro/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2024-11-30 20:00:00 - 2024-12-01 20:00:00 UTC+8  
     **比赛权重** : 24.67  
