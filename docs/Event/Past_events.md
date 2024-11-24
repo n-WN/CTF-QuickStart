@@ -40,13 +40,6 @@ comments: true
     **比赛时间** : 2024年08月15日 09:00 - 2024年09月30日 21:00  
     **其他说明** : QQ 群：530184592 面向新生的比赛，题目分 Week 1 - 7，从入门到挑战循序渐进  
     
-??? Quote "“华为杯”第三届中国研究生网络安全创新大赛"  
-    **比赛名称** : [“华为杯”第三届中国研究生网络安全创新大赛](https://cpipc.acge.org.cn//pw/detail/2c9080188fc20569018fe6375eeb2eb2)  
-    **比赛类型** : 团队赛|1-4人  
-    **报名时间** : 2024年05月06日 00:00 - 2024年09月23日 23:59  
-    **比赛时间** : 2024年09月25日 00:00 - 2024年09月25日 23:59  
-    **其他说明** : QQ群: 794148708|仅限研究生参加  
-    
 ??? Quote "MoeCTF 2024"  
     **比赛名称** : [MoeCTF 2024](https://ctf.xidian.edu.cn)  
     **比赛类型** : 个人赛  
@@ -105,6 +98,15 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[CTFZone 2024 Final](http://ctf.bi.zone/)"  
+    [![](https://ctftime.org/media/events/aa86f826480a008ed91d88a917a0c33b.png){ width="200" align=left }](http://ctf.bi.zone/)  
+    **比赛名称** : [CTFZone 2024 Final](http://ctf.bi.zone/)  
+    **比赛形式** : Attack-Defense  
+    **比赛时间** : 2024-11-24 17:00:00 - 2024-11-25 01:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : BIZone (https://ctftime.org/team/32190)  
+    **添加日历** : https://ctftime.org/event/2506.ics  
+    
 ??? Quote "[CyberSci Regional Qualifiers 2024-25](https://cybersecuritychallenge.ca/)"  
     [![](https://ctftime.org/media/events/9ad26ba791d2c5418b515bd4699ea7e2.png){ width="200" align=left }](https://cybersecuritychallenge.ca/)  
     **比赛名称** : [CyberSci Regional Qualifiers 2024-25](https://cybersecuritychallenge.ca/)  
@@ -200,7 +202,7 @@ comments: true
     **比赛名称** : [No Hack No CTF 2024](https://nhnc.ic3dt3a.org/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2024-11-16 09:30:00 - 2024-11-17 21:30:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 0.00  
     **赛事主办** : ICEDTEA (https://ctftime.org/team/303514)  
     **添加日历** : https://ctftime.org/event/2574.ics  
     
@@ -995,13 +997,4 @@ comments: true
     **比赛权重** : 24.88  
     **赛事主办** : jailctf (https://ctftime.org/team/311088)  
     **添加日历** : https://ctftime.org/event/2450.ics  
-    
-??? Quote "[RSTCON 2024 CTF (Online/Hybrid)](https://metactf.com/join/rstcon24)"  
-    [![](https://ctftime.org/media/events/rstcon.png){ width="200" align=left }](https://metactf.com/join/rstcon24)  
-    **比赛名称** : [RSTCON 2024 CTF (Online/Hybrid)](https://metactf.com/join/rstcon24)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-09-14 03:45:00 - 2024-09-16 00:45:00 UTC+8  
-    **比赛权重** : 24.00  
-    **赛事主办** : RSTCON (https://ctftime.org/team/281202)  
-    **添加日历** : https://ctftime.org/event/2427.ics  
     
