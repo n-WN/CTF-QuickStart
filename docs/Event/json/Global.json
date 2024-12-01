@@ -372,18 +372,6 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "HackTM CTF 2024 - Postponed",
-        "比赛时间": "2024-11-30 20:00:00 - 2024-12-01 20:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2452.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.hacktm.ro/",
-        "比赛标志": "https://ctftime.org/media/events/e2b12b3390413f1cf2cdeb7b12e076c6.jpg",
-        "比赛权重": "24.67",
-        "赛事主办": "WreckTheLine (https://ctftime.org/team/57908)",
-        "比赛ID": "401",
-        "比赛状态": "nowrunning"
-    },
-    {
         "比赛名称": "CYBERGON CTF_2024",
         "比赛时间": "2024-11-30 20:00:00 - 2024-12-02 20:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2560.ics",
@@ -396,18 +384,6 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "World Wide CTF 2024",
-        "比赛时间": "2024-11-30 20:00:00 - 2024-12-01 20:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2572.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://wwctf.com/",
-        "比赛标志": "https://ctftime.org/media/events/logobg.png",
-        "比赛权重": "0",
-        "赛事主办": "World Wide Flags (https://ctftime.org/team/283853)",
-        "比赛ID": "1208",
-        "比赛状态": "nowrunning"
-    },
-    {
         "比赛名称": "M*CTF 2024 Junior Finals",
         "比赛时间": "2024-12-01 15:00:00 - 2024-12-01 21:30:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2586.ics",
@@ -417,7 +393,7 @@
         "比赛权重": "0",
         "赛事主办": "BinaryBears (https://ctftime.org/team/36281)",
         "比赛ID": "164",
-        "比赛状态": "nowrunning"
+        "比赛状态": "past"
     },
     {
         "比赛名称": "saarCTF 2024",
@@ -429,6 +405,30 @@
         "比赛权重": "98.50",
         "赛事主办": "saarsec (https://ctftime.org/team/15337)",
         "比赛ID": "412",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "HackTM CTF 2024 - Postponed",
+        "比赛时间": "2024-11-30 20:00:00 - 2024-12-01 20:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2452.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.hacktm.ro/",
+        "比赛标志": "https://ctftime.org/media/events/e2b12b3390413f1cf2cdeb7b12e076c6.jpg",
+        "比赛权重": "24.67",
+        "赛事主办": "WreckTheLine (https://ctftime.org/team/57908)",
+        "比赛ID": "401",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "World Wide CTF 2024",
+        "比赛时间": "2024-11-30 20:00:00 - 2024-12-01 20:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2572.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://wwctf.com/",
+        "比赛标志": "https://ctftime.org/media/events/logobg.png",
+        "比赛权重": "0",
+        "赛事主办": "World Wide Flags (https://ctftime.org/team/283853)",
+        "比赛ID": "1208",
         "比赛状态": "past"
     },
     {
@@ -474,7 +474,7 @@
         "比赛形式": "Attack-Defense",
         "比赛链接": "http://ctf.bi.zone/",
         "比赛标志": "https://ctftime.org/media/events/aa86f826480a008ed91d88a917a0c33b.png",
-        "比赛权重": "0",
+        "比赛权重": "96.90",
         "赛事主办": "BIZone (https://ctftime.org/team/32190)",
         "比赛ID": "201",
         "比赛状态": "past"
@@ -1581,42 +1581,6 @@
         "比赛权重": "25.00",
         "赛事主办": "ierae (https://ctftime.org/team/224122)",
         "比赛ID": "1130",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "Cyber Jawara International",
-        "比赛时间": "2024-09-21 09:59:00 - 2024-09-22 09:59:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2411.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://cyberjawara.id/2024",
-        "比赛标志": "https://ctftime.org/media/events/067297e97f084c5492331b121d1b0507.png",
-        "比赛权重": "0.00",
-        "赛事主办": "idnsa (https://ctftime.org/team/239714)",
-        "比赛ID": "971",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "BlazCTF 2024",
-        "比赛时间": "2024-09-21 09:00:00 - 2024-09-23 09:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2492.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.blaz.ai/",
-        "比赛标志": "https://ctftime.org",
-        "比赛权重": "25.00",
-        "赛事主办": "FuzzLand (https://ctftime.org/team/270659)",
-        "比赛ID": "1005",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "PatriotCTF 2024",
-        "比赛时间": "2024-09-21 06:00:00 - 2024-09-23 06:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2426.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "http://pctf.competitivecyber.club/",
-        "比赛标志": "https://ctftime.org/media/events/masoncc_2.png",
-        "比赛权重": "31.83",
-        "赛事主办": "Competitive Cyber at Mason (https://ctftime.org/team/176906)",
-        "比赛ID": "737",
         "比赛状态": "past"
     }
 ]
