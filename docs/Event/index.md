@@ -296,15 +296,6 @@ hide:
                 **其他说明** : 国城杯初赛由国城杯初赛主办，比赛链接为https://ctf2024.goalcent.com/，4人组队，报名开始时间为2024年11月23日，报名截止时间为2024年12月06日，比赛开始时间为2024年12月07日，选手可通过QQ群629910816进行沟通。  
                 
         === "国外赛事"
-            ??? Quote "[snakeCTF 2024 Finals](https://2024.snakectf.org/)"  
-                [![](https://ctftime.org/media/events/LogoCroppable_2.png){ width="200" align=left }](https://2024.snakectf.org/)  
-                **比赛名称** : [snakeCTF 2024 Finals](https://2024.snakectf.org/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-12-05 16:00:00 - 2024-12-08 16:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : MadrHacks (https://ctftime.org/team/114509)  
-                **添加日历** : https://ctftime.org/event/2419.ics  
-                
             ??? Quote "[ISITDTU CTF 2024 Finals](https://ctf.isitdtu.com/)"  
                 [![](https://ctftime.org/media/events/index_3.gif){ width="200" align=left }](https://ctf.isitdtu.com/)  
                 **比赛名称** : [ISITDTU CTF 2024 Finals](https://ctf.isitdtu.com/)  
@@ -579,6 +570,15 @@ hide:
                 **赛事主办** : UWSP Pointers (https://ctftime.org/team/231536)  
                 **添加日历** : https://ctftime.org/event/2121.ics  
                 
+            ??? Quote "[snakeCTF 2024 Finals](https://2024.snakectf.org/)"  
+                [![](https://ctftime.org/media/events/LogoCroppable_2.png){ width="200" align=left }](https://2024.snakectf.org/)  
+                **比赛名称** : [snakeCTF 2024 Finals](https://2024.snakectf.org/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-12-05 16:00:00 - 2024-12-08 16:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : MadrHacks (https://ctftime.org/team/114509)  
+                **添加日历** : https://ctftime.org/event/2419.ics  
+                
     === "*已经结束*"
         === "国内赛事"
             ??? Quote "[第一届吾杯网络安全技能大赛](https://www.wucup.net/games/1)"  
@@ -601,13 +601,6 @@ hide:
                 **报名时间** : 2024年11月09日 10:00 - 2024年11月15日 16:59  
                 **比赛时间** : 2024年11月09日 10:00 - 2024年11月15日 17:00  
                 **其他说明** : 第四届ISCTF高校联合安全技能挑战赛由福州蓝鲨信息技术有限公司和DK云赞助，由大理大学、信阳师范大学、福建师范大学主办，联合院校名单包括安徽工业经济职业技术学院、成都东软学院等32所高校的网络与信息安全协会联合主办。比赛时间为11月9日10:00至11月15日17:00，比赛平台为isctf2024.bluesharkinfo.com，目前已开放注册。  
-                
-            ??? Quote "[BRICS+ CTF Quals 2024](https://brics-ctf.com/)"  
-                **比赛名称** : [BRICS+ CTF Quals 2024](https://brics-ctf.com/)  
-                **比赛类型** : 团队赛  
-                **报名时间** : 2024年10月05日 18:00 - 2024年10月06日 18:00  
-                **比赛时间** : 2024年10月05日 18:00 - 2024年10月06日 18:00  
-                **其他说明** : 初赛将以在线解题赛的形式进行.计划邀请来自金砖国家的15支队伍（每个国家不超过3支队伍）以及总排名前10的最佳队伍参与线上的决赛.同时详情信息请加入discord -> https://discord.gg/3AwqYTvaMw 决赛总奖池7w人民币左右  
                 
             ??? Quote "[MoeCTF 2024](https://ctf.xidian.edu.cn)"  
                 **比赛名称** : [MoeCTF 2024](https://ctf.xidian.edu.cn)  
