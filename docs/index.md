@@ -56,24 +56,6 @@ hide:
     === "国内比赛"
     
     === "国外比赛"
-        ??? Quote "[M*CTF 2024 Finals](https://mctf.ru/)"  
-            [![](https://ctftime.org/media/events/IMG_2613_1.PNG){ width="200" align=left }](https://mctf.ru/)  
-            **比赛名称** : [M*CTF 2024 Finals](https://mctf.ru/)  
-            **比赛形式** : Attack-Defense  
-            **比赛时间** : 2024-12-07 15:30:00 - 2024-12-08 00:30:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : BinaryBears (https://ctftime.org/team/36281)  
-            **添加日历** : https://ctftime.org/event/2595.ics  
-            
-        ??? Quote "[RedShift.Eclipse 2 Finals]()"  
-            [![](https://ctftime.org/media/events/5202034882946130981.jpg){ width="200" align=left }]()  
-            **比赛名称** : [RedShift.Eclipse 2 Finals]()  
-            **比赛形式** : Attack-Defense  
-            **比赛时间** : 2024-12-07 18:00:00 - 2024-12-08 03:00:00 UTC+8  
-            **比赛权重** : 0.00  
-            **赛事主办** : o1d_bu7_go1d (https://ctftime.org/team/213673)  
-            **添加日历** : https://ctftime.org/event/2538.ics  
-            
         ??? Quote "[Platypwn 2024](https://platypwn.ctf.platypwnies.de/)"  
             [![](https://ctftime.org/media/events/Platypwnie.png){ width="200" align=left }](https://platypwn.ctf.platypwnies.de/)  
             **比赛名称** : [Platypwn 2024](https://platypwn.ctf.platypwnies.de/)  
@@ -91,6 +73,24 @@ hide:
             **比赛权重** : 0  
             **赛事主办** : The DFIR Report (https://ctftime.org/team/309500)  
             **添加日历** : https://ctftime.org/event/2488.ics  
+            
+        ??? Quote "[LakeCTF Quals 24-25](https://lakectf.epfl.ch/)"  
+            [![](https://ctftime.org/media/events/7fb065c04dbec7e33dfbb1f4456196c7.png){ width="200" align=left }](https://lakectf.epfl.ch/)  
+            **比赛名称** : [LakeCTF Quals 24-25](https://lakectf.epfl.ch/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2024-12-08 02:00:00 - 2024-12-09 02:00:00 UTC+8  
+            **比赛权重** : 36.00  
+            **赛事主办** : polygl0ts (https://ctftime.org/team/53791)  
+            **添加日历** : https://ctftime.org/event/2502.ics  
+            
+        ??? Quote "[WannaGame Championship 2024](https://cnsc.com.vn/ctf/)"  
+            [![](https://ctftime.org/media/events/WGC2024_2.png){ width="200" align=left }](https://cnsc.com.vn/ctf/)  
+            **比赛名称** : [WannaGame Championship 2024](https://cnsc.com.vn/ctf/)  
+            **比赛形式** : Jeopardy  
+            **比赛时间** : 2024-12-13 09:00:00 - 2024-12-14 09:00:00 UTC+8  
+            **比赛权重** : 19.80  
+            **赛事主办** : Wanna.W1n (https://ctftime.org/team/138431)  
+            **添加日历** : https://ctftime.org/event/2515.ics  
             
     <!-- 主页赛事展示_结束 -->
     [→ 了解更多](./Event/)
