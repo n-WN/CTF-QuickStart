@@ -91,6 +91,24 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[DFIR Labs CTF by The DFIR Report](https://thedfirreport.com/services/dfir-labs/ctf/)"  
+    [![](https://ctftime.org){ width="200" align=left }](https://thedfirreport.com/services/dfir-labs/ctf/)  
+    **比赛名称** : [DFIR Labs CTF by The DFIR Report](https://thedfirreport.com/services/dfir-labs/ctf/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-12-08 00:00:00 - 2024-12-08 04:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : The DFIR Report (https://ctftime.org/team/309500)  
+    **添加日历** : https://ctftime.org/event/2488.ics  
+    
+??? Quote "[RedShift.Eclipse 2 Finals]()"  
+    [![](https://ctftime.org/media/events/5202034882946130981.jpg){ width="200" align=left }]()  
+    **比赛名称** : [RedShift.Eclipse 2 Finals]()  
+    **比赛形式** : Attack-Defense  
+    **比赛时间** : 2024-12-07 18:00:00 - 2024-12-08 03:00:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : o1d_bu7_go1d (https://ctftime.org/team/213673)  
+    **添加日历** : https://ctftime.org/event/2538.ics  
+    
 ??? Quote "[M*CTF 2024 Finals](https://mctf.ru/)"  
     [![](https://ctftime.org/media/events/IMG_2613_1.PNG){ width="200" align=left }](https://mctf.ru/)  
     **比赛名称** : [M*CTF 2024 Finals](https://mctf.ru/)  
@@ -972,22 +990,4 @@ comments: true
     **比赛权重** : 22.67  
     **赛事主办** : H7Tex (https://ctftime.org/team/281844)  
     **添加日历** : https://ctftime.org/event/2491.ics  
-    
-??? Quote "[Haruulzangi CTF 2024 Round 2](https://dashboard.haruulzangi.mn/)"  
-    [![](https://ctftime.org){ width="200" align=left }](https://dashboard.haruulzangi.mn/)  
-    **比赛名称** : [Haruulzangi CTF 2024 Round 2](https://dashboard.haruulzangi.mn/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-09-22 12:00:00 - 2024-09-22 16:00:00 UTC+8  
-    **比赛权重** : 0.00  
-    **赛事主办** : haruulzangi-organizers (https://ctftime.org/team/266812)  
-    **添加日历** : https://ctftime.org/event/2493.ics  
-    
-??? Quote "[ASIS CTF Quals 2024](https://asisctf.com/)"  
-    [![](https://ctftime.org/media/events/asisctf.jpg){ width="200" align=left }](https://asisctf.com/)  
-    **比赛名称** : [ASIS CTF Quals 2024](https://asisctf.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-09-21 22:00:00 - 2024-09-22 22:00:00 UTC+8  
-    **比赛权重** : 66.25  
-    **赛事主办** : ASIS (https://ctftime.org/team/4140)  
-    **添加日历** : https://ctftime.org/event/2211.ics  
     
