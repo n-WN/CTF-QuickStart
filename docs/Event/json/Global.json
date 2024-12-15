@@ -1,17 +1,5 @@
 [
     {
-        "比赛名称": "NTUA_H4CK",
-        "比赛时间": "2024-12-15 17:00:00 - 2024-12-16 05:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2571.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctfnhack.ctflib.eu/",
-        "比赛标志": "https://ctftime.org/media/events/Copy_of_Untitled_Design1.png",
-        "比赛权重": "0.00",
-        "赛事主办": "Thread in the Needle (https://ctftime.org/team/278978)",
-        "比赛ID": "1207",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "0CTF 2024",
         "比赛时间": "2024-12-21 10:00:00 - 2024-12-23 10:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2448.ics",
@@ -312,6 +300,18 @@
         "比赛状态": "nowrunning"
     },
     {
+        "比赛名称": "Advent of CTF 2024",
+        "比赛时间": "2024-12-02 04:00:00 - 2025-01-01 12:59:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2600.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://cyberstudents.net/advent",
+        "比赛标志": "https://ctftime.org/media/events/IMG_4522.png",
+        "比赛权重": "0",
+        "赛事主办": "CyberStudentsCTF (https://ctftime.org/team/365239)",
+        "比赛ID": "1218",
+        "比赛状态": "nowrunning"
+    },
+    {
         "比赛名称": "niteCTF 2024",
         "比赛时间": "2024-12-13 20:00:00 - 2024-12-15 20:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2461.ics",
@@ -348,18 +348,6 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "TSG CTF 2024",
-        "比赛时间": "2024-12-14 15:00:00 - 2024-12-15 15:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2424.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.tsg.ne.jp/",
-        "比赛标志": "https://ctftime.org",
-        "比赛权重": "25.00",
-        "赛事主办": "TSG (https://ctftime.org/team/16088)",
-        "比赛ID": "294",
-        "比赛状态": "nowrunning"
-    },
-    {
         "比赛名称": "Russian CTF Cup 2024 Final",
         "比赛时间": "2024-12-14 18:00:00 - 2024-12-16 03:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2406.ics",
@@ -372,6 +360,18 @@
         "比赛状态": "nowrunning"
     },
     {
+        "比赛名称": "NTUA_H4CK",
+        "比赛时间": "2024-12-15 17:00:00 - 2024-12-16 05:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2571.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctfnhack.ctflib.eu/",
+        "比赛标志": "https://ctftime.org/media/events/Copy_of_Untitled_Design1.png",
+        "比赛权重": "0",
+        "赛事主办": "Thread in the Needle (https://ctftime.org/team/278978)",
+        "比赛ID": "1207",
+        "比赛状态": "nowrunning"
+    },
+    {
         "比赛名称": "m0leCon 2025 Beginner CTF",
         "比赛时间": "2024-12-14 21:00:00 - 2024-12-15 02:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2578.ics",
@@ -381,6 +381,18 @@
         "比赛权重": "75.00",
         "赛事主办": "pwnthem0le (https://ctftime.org/team/60467)",
         "比赛ID": "372",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "TSG CTF 2024",
+        "比赛时间": "2024-12-14 15:00:00 - 2024-12-15 15:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2424.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://ctf.tsg.ne.jp/",
+        "比赛标志": "https://ctftime.org",
+        "比赛权重": "25.00",
+        "赛事主办": "TSG (https://ctftime.org/team/16088)",
+        "比赛ID": "294",
         "比赛状态": "past"
     },
     {
@@ -1557,18 +1569,6 @@
         "比赛权重": "25.00",
         "赛事主办": "justCatTheFish (https://ctftime.org/team/33893)",
         "比赛ID": "399",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "Capture the Flag Competition in TON 2024",
-        "比赛时间": "2024-09-28 09:00:00 - 2024-09-29 09:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2509.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.tonbit.xyz/",
-        "比赛标志": "https://ctftime.org/media/events/TonBit.png",
-        "比赛权重": "0.00",
-        "赛事主办": "BitsLab (https://ctftime.org/team/331124)",
-        "比赛ID": "1166",
         "比赛状态": "past"
     }
 ]

@@ -18,6 +18,15 @@ comments: true
     **赛事主办** : UWSP Pointers (https://ctftime.org/team/231536)  
     **添加日历** : https://ctftime.org/event/2121.ics  
     
+??? Quote "[Advent of CTF 2024](https://cyberstudents.net/advent)"  
+    [![](https://ctftime.org/media/events/IMG_4522.png){ width="200" align=left }](https://cyberstudents.net/advent)  
+    **比赛名称** : [Advent of CTF 2024](https://cyberstudents.net/advent)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-12-02 04:00:00 - 2025-01-01 12:59:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : CyberStudentsCTF (https://ctftime.org/team/365239)  
+    **添加日历** : https://ctftime.org/event/2600.ics  
+    
 ??? Quote "[niteCTF 2024](https://www.nitectf2024.live/)"  
     [![](https://ctftime.org/media/events/nitectf_2024_logo.jpg){ width="200" align=left }](https://www.nitectf2024.live/)  
     **比赛名称** : [niteCTF 2024](https://www.nitectf2024.live/)  
@@ -45,15 +54,6 @@ comments: true
     **赛事主办** : CakeisTheFake (https://ctftime.org/team/276544)  
     **添加日历** : https://ctftime.org/event/2581.ics  
     
-??? Quote "[TSG CTF 2024](https://ctf.tsg.ne.jp/)"  
-    [![](https://ctftime.org){ width="200" align=left }](https://ctf.tsg.ne.jp/)  
-    **比赛名称** : [TSG CTF 2024](https://ctf.tsg.ne.jp/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-12-14 15:00:00 - 2024-12-15 15:00:00 UTC+8  
-    **比赛权重** : 25.00  
-    **赛事主办** : TSG (https://ctftime.org/team/16088)  
-    **添加日历** : https://ctftime.org/event/2424.ics  
-    
 ??? Quote "[Russian CTF Cup 2024 Final](https://ctfcup.ru/)"  
     [![](https://ctftime.org){ width="200" align=left }](https://ctfcup.ru/)  
     **比赛名称** : [Russian CTF Cup 2024 Final](https://ctfcup.ru/)  
@@ -62,4 +62,13 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : ctfcup (https://ctftime.org/team/203499)  
     **添加日历** : https://ctftime.org/event/2406.ics  
+    
+??? Quote "[NTUA_H4CK](https://ctfnhack.ctflib.eu/)"  
+    [![](https://ctftime.org/media/events/Copy_of_Untitled_Design1.png){ width="200" align=left }](https://ctfnhack.ctflib.eu/)  
+    **比赛名称** : [NTUA_H4CK](https://ctfnhack.ctflib.eu/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2024-12-15 17:00:00 - 2024-12-16 05:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : Thread in the Needle (https://ctftime.org/team/278978)  
+    **添加日历** : https://ctftime.org/event/2571.ics  
     

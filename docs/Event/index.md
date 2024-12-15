@@ -290,15 +290,6 @@ hide:
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[NTUA_H4CK](https://ctfnhack.ctflib.eu/)"  
-                [![](https://ctftime.org/media/events/Copy_of_Untitled_Design1.png){ width="200" align=left }](https://ctfnhack.ctflib.eu/)  
-                **比赛名称** : [NTUA_H4CK](https://ctfnhack.ctflib.eu/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-12-15 17:00:00 - 2024-12-16 05:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : Thread in the Needle (https://ctftime.org/team/278978)  
-                **添加日历** : https://ctftime.org/event/2571.ics  
-                
             ??? Quote "[0CTF 2024](https://ctf.0ops.sjtu.cn/)"  
                 [![](https://ctftime.org/media/events/0ctf.png){ width="200" align=left }](https://ctf.0ops.sjtu.cn/)  
                 **比赛名称** : [0CTF 2024](https://ctf.0ops.sjtu.cn/)  
@@ -528,6 +519,15 @@ hide:
                 **赛事主办** : UWSP Pointers (https://ctftime.org/team/231536)  
                 **添加日历** : https://ctftime.org/event/2121.ics  
                 
+            ??? Quote "[Advent of CTF 2024](https://cyberstudents.net/advent)"  
+                [![](https://ctftime.org/media/events/IMG_4522.png){ width="200" align=left }](https://cyberstudents.net/advent)  
+                **比赛名称** : [Advent of CTF 2024](https://cyberstudents.net/advent)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-12-02 04:00:00 - 2025-01-01 12:59:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : CyberStudentsCTF (https://ctftime.org/team/365239)  
+                **添加日历** : https://ctftime.org/event/2600.ics  
+                
             ??? Quote "[niteCTF 2024](https://www.nitectf2024.live/)"  
                 [![](https://ctftime.org/media/events/nitectf_2024_logo.jpg){ width="200" align=left }](https://www.nitectf2024.live/)  
                 **比赛名称** : [niteCTF 2024](https://www.nitectf2024.live/)  
@@ -555,15 +555,6 @@ hide:
                 **赛事主办** : CakeisTheFake (https://ctftime.org/team/276544)  
                 **添加日历** : https://ctftime.org/event/2581.ics  
                 
-            ??? Quote "[TSG CTF 2024](https://ctf.tsg.ne.jp/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://ctf.tsg.ne.jp/)  
-                **比赛名称** : [TSG CTF 2024](https://ctf.tsg.ne.jp/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-12-14 15:00:00 - 2024-12-15 15:00:00 UTC+8  
-                **比赛权重** : 25.00  
-                **赛事主办** : TSG (https://ctftime.org/team/16088)  
-                **添加日历** : https://ctftime.org/event/2424.ics  
-                
             ??? Quote "[Russian CTF Cup 2024 Final](https://ctfcup.ru/)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://ctfcup.ru/)  
                 **比赛名称** : [Russian CTF Cup 2024 Final](https://ctfcup.ru/)  
@@ -572,6 +563,15 @@ hide:
                 **比赛权重** : 0.00  
                 **赛事主办** : ctfcup (https://ctftime.org/team/203499)  
                 **添加日历** : https://ctftime.org/event/2406.ics  
+                
+            ??? Quote "[NTUA_H4CK](https://ctfnhack.ctflib.eu/)"  
+                [![](https://ctftime.org/media/events/Copy_of_Untitled_Design1.png){ width="200" align=left }](https://ctfnhack.ctflib.eu/)  
+                **比赛名称** : [NTUA_H4CK](https://ctfnhack.ctflib.eu/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-12-15 17:00:00 - 2024-12-16 05:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : Thread in the Needle (https://ctftime.org/team/278978)  
+                **添加日历** : https://ctftime.org/event/2571.ics  
                 
     === "*已经结束*"
         === "国内赛事"
@@ -661,6 +661,15 @@ hide:
                 **比赛权重** : 75.00  
                 **赛事主办** : pwnthem0le (https://ctftime.org/team/60467)  
                 **添加日历** : https://ctftime.org/event/2578.ics  
+                
+            ??? Quote "[TSG CTF 2024](https://ctf.tsg.ne.jp/)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://ctf.tsg.ne.jp/)  
+                **比赛名称** : [TSG CTF 2024](https://ctf.tsg.ne.jp/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-12-14 15:00:00 - 2024-12-15 15:00:00 UTC+8  
+                **比赛权重** : 25.00  
+                **赛事主办** : TSG (https://ctftime.org/team/16088)  
+                **添加日历** : https://ctftime.org/event/2424.ics  
                 
             ??? Quote "[WannaGame Championship 2024](https://cnsc.com.vn/ctf/)"  
                 [![](https://ctftime.org/media/events/WGC2024_2.png){ width="200" align=left }](https://cnsc.com.vn/ctf/)  
@@ -1543,15 +1552,6 @@ hide:
                 **比赛权重** : 25.00  
                 **赛事主办** : justCatTheFish (https://ctftime.org/team/33893)  
                 **添加日历** : https://ctftime.org/event/2484.ics  
-                
-            ??? Quote "[Capture the Flag Competition in TON 2024](https://ctf.tonbit.xyz/)"  
-                [![](https://ctftime.org/media/events/TonBit.png){ width="200" align=left }](https://ctf.tonbit.xyz/)  
-                **比赛名称** : [Capture the Flag Competition in TON 2024](https://ctf.tonbit.xyz/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-09-28 09:00:00 - 2024-09-29 09:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : BitsLab (https://ctftime.org/team/331124)  
-                **添加日历** : https://ctftime.org/event/2509.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
