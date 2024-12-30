@@ -290,15 +290,6 @@ hide:
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[AlpacaHack Round 8 (Rev)](https://alpacahack.com/)"  
-                [![](https://ctftime.org/media/events/dark_512_2.png){ width="200" align=left }](https://alpacahack.com/)  
-                **比赛名称** : [AlpacaHack Round 8 (Rev)](https://alpacahack.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-12-30 11:00:00 - 2024-12-30 17:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : AlpacaHack (https://ctftime.org/team/312315)  
-                **添加日历** : https://ctftime.org/event/2590.ics  
-                
             ??? Quote "[IrisCTF 2025](https://2025.irisc.tf/)"  
                 [![](https://ctftime.org/media/events/IrisSec.png){ width="200" align=left }](https://2025.irisc.tf/)  
                 **比赛名称** : [IrisCTF 2025](https://2025.irisc.tf/)  
@@ -474,6 +465,15 @@ hide:
                 **赛事主办** : CyberStudentsCTF (https://ctftime.org/team/365239)  
                 **添加日历** : https://ctftime.org/event/2600.ics  
                 
+            ??? Quote "[AlpacaHack Round 8 (Rev)](https://alpacahack.com/)"  
+                [![](https://ctftime.org/media/events/dark_512_2.png){ width="200" align=left }](https://alpacahack.com/)  
+                **比赛名称** : [AlpacaHack Round 8 (Rev)](https://alpacahack.com/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2024-12-30 11:00:00 - 2024-12-30 17:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : AlpacaHack (https://ctftime.org/team/312315)  
+                **添加日历** : https://ctftime.org/event/2590.ics  
+                
     === "*已经结束*"
         === "国内赛事"
             ??? Quote "[NSSCTF Round26](https://www.nssctf.cn/contest)"  
@@ -510,13 +510,6 @@ hide:
                 **报名时间** : 2024年11月09日 10:00 - 2024年11月15日 16:59  
                 **比赛时间** : 2024年11月09日 10:00 - 2024年11月15日 17:00  
                 **其他说明** : 第四届ISCTF高校联合安全技能挑战赛由福州蓝鲨信息技术有限公司和DK云赞助，由大理大学、信阳师范大学、福建师范大学主办，联合院校名单包括安徽工业经济职业技术学院、成都东软学院等32所高校的网络与信息安全协会联合主办。比赛时间为11月9日10:00至11月15日17:00，比赛平台为isctf2024.bluesharkinfo.com，目前已开放注册。  
-                
-            ??? Quote "[SHCTF2024](https://shc.tf/)"  
-                **比赛名称** : [SHCTF2024](https://shc.tf/)  
-                **比赛类型** : 个人赛  
-                **报名时间** : 2024年09月26日 00:00 - 2024年10月31日 10:00  
-                **比赛时间** : 2024年10月02日 10:00 - 2024年10月31日 10:00  
-                **其他说明** : QQ 一群：536115792  二群：721693440  
                 
             ??? Quote "[0xGame 2024](https://0xgame.exp10it.cn/)"  
                 **比赛名称** : [0xGame 2024](https://0xgame.exp10it.cn/)  
