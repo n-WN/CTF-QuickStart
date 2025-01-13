@@ -290,15 +290,6 @@ hide:
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[TSCCTF 2025](https://ctfd.tscctf.com/)"  
-                [![](https://ctftime.org/media/events/TSC_logo_extra_large.png){ width="200" align=left }](https://ctfd.tscctf.com/)  
-                **比赛名称** : [TSCCTF 2025](https://ctfd.tscctf.com/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-01-13 10:00:00 - 2025-01-16 10:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : Taiwan Security Club (https://ctftime.org/team/365248)  
-                **添加日历** : https://ctftime.org/event/2598.ics  
-                
             ??? Quote "[2025 Embedded Capture the Flag](https://ectf.mitre.org/)"  
                 [![](https://ctftime.org){ width="200" align=left }](https://ectf.mitre.org/)  
                 **比赛名称** : [2025 Embedded Capture the Flag](https://ectf.mitre.org/)  
@@ -501,24 +492,6 @@ hide:
                 **赛事主办** : UWSP Pointers (https://ctftime.org/team/231536)  
                 **添加日历** : https://ctftime.org/event/2121.ics  
                 
-            ??? Quote "[UofTCTF 2025](https://ctf.uoftctf.org/)"  
-                [![](https://ctftime.org/media/events/uoftctf_logo_3000_black.png){ width="200" align=left }](https://ctf.uoftctf.org/)  
-                **比赛名称** : [UofTCTF 2025](https://ctf.uoftctf.org/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-01-11 08:00:00 - 2025-01-13 08:00:00 UTC+8  
-                **比赛权重** : 23.90  
-                **赛事主办** : UofTCTF (https://ctftime.org/team/139261)  
-                **添加日历** : https://ctftime.org/event/2570.ics  
-                
-            ??? Quote "[SUCTF 2025](https://suctf2025.xctf.org.cn/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://suctf2025.xctf.org.cn/)  
-                **比赛名称** : [SUCTF 2025](https://suctf2025.xctf.org.cn/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-01-11 09:00:00 - 2025-01-13 09:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : SU (https://ctftime.org/team/29641)  
-                **添加日历** : https://ctftime.org/event/2620.ics  
-                
             ??? Quote "[New Year CTF 2025](http://ctf-spcs.mf.grsu.by/)"  
                 [![](https://ctftime.org/media/events/NY2025.jpg){ width="200" align=left }](http://ctf-spcs.mf.grsu.by/)  
                 **比赛名称** : [New Year CTF 2025](http://ctf-spcs.mf.grsu.by/)  
@@ -527,6 +500,15 @@ hide:
                 **比赛权重** : 23.13  
                 **赛事主办** : Beavers0 (https://ctftime.org/team/269281)  
                 **添加日历** : https://ctftime.org/event/2582.ics  
+                
+            ??? Quote "[TSCCTF 2025](https://ctfd.tscctf.com/)"  
+                [![](https://ctftime.org/media/events/TSC_logo_extra_large.png){ width="200" align=left }](https://ctfd.tscctf.com/)  
+                **比赛名称** : [TSCCTF 2025](https://ctfd.tscctf.com/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-01-13 10:00:00 - 2025-01-16 10:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : Taiwan Security Club (https://ctftime.org/team/365248)  
+                **添加日历** : https://ctftime.org/event/2598.ics  
                 
     === "*已经结束*"
         === "国内赛事"
@@ -574,6 +556,24 @@ hide:
                 **比赛权重** : 0.00  
                 **赛事主办** : DIV0-N0H4TS (https://ctftime.org/team/354275)  
                 **添加日历** : https://ctftime.org/event/2530.ics  
+                
+            ??? Quote "[SUCTF 2025](https://suctf2025.xctf.org.cn/)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://suctf2025.xctf.org.cn/)  
+                **比赛名称** : [SUCTF 2025](https://suctf2025.xctf.org.cn/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-01-11 09:00:00 - 2025-01-13 09:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : SU (https://ctftime.org/team/29641)  
+                **添加日历** : https://ctftime.org/event/2620.ics  
+                
+            ??? Quote "[UofTCTF 2025](https://ctf.uoftctf.org/)"  
+                [![](https://ctftime.org/media/events/uoftctf_logo_3000_black.png){ width="200" align=left }](https://ctf.uoftctf.org/)  
+                **比赛名称** : [UofTCTF 2025](https://ctf.uoftctf.org/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-01-11 08:00:00 - 2025-01-13 08:00:00 UTC+8  
+                **比赛权重** : 23.90  
+                **赛事主办** : UofTCTF (https://ctftime.org/team/139261)  
+                **添加日历** : https://ctftime.org/event/2570.ics  
                 
             ??? Quote "[Dreamhack CTF Season 7 Round #1 (Div. 1)](https://dreamhack.io/ctf/655)"  
                 [![](https://ctftime.org/media/events/cover01.jpg){ width="200" align=left }](https://dreamhack.io/ctf/655)  
@@ -1447,24 +1447,6 @@ hide:
                 **比赛权重** : 0.00  
                 **赛事主办** : UV-CSIRT (https://ctftime.org/team/166955)  
                 **添加日历** : https://ctftime.org/event/2482.ics  
-                
-            ??? Quote "[Breach Bytes 2.0](https://unstop.com/hackathons/breach-bytes-20-shri-vile-parle-kelavani-mandals-dwarkadas-j-sanghvi-college-of-engineering-djsce-mumbai-1171442)"  
-                [![](https://ctftime.org/media/events/BREACH_BYTES_2.0_Logo_1.png){ width="200" align=left }](https://unstop.com/hackathons/breach-bytes-20-shri-vile-parle-kelavani-mandals-dwarkadas-j-sanghvi-college-of-engineering-djsce-mumbai-1171442)  
-                **比赛名称** : [Breach Bytes 2.0](https://unstop.com/hackathons/breach-bytes-20-shri-vile-parle-kelavani-mandals-dwarkadas-j-sanghvi-college-of-engineering-djsce-mumbai-1171442)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-10-15 10:30:00 - 2024-10-15 21:30:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : The dangers of my heart (https://ctftime.org/team/300150)  
-                **添加日历** : https://ctftime.org/event/2526.ics  
-                
-            ??? Quote "[GITEX GLOBAL CTF](https://gitex.ctf.ae/)"  
-                [![](https://ctftime.org/media/events/New_Project_17.png){ width="200" align=left }](https://gitex.ctf.ae/)  
-                **比赛名称** : [GITEX GLOBAL CTF](https://gitex.ctf.ae/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-10-14 15:00:00 - 2024-10-15 20:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : CTF.ae (https://ctftime.org/team/151875)  
-                **添加日历** : https://ctftime.org/event/2522.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
