@@ -94,6 +94,15 @@ comments: true
     **赛事主办** : DiceGang (https://ctftime.org/team/109452)  
     **添加日历** : https://ctftime.org/event/2617.ics  
     
+??? Quote "[BroncoCTF 2025](https://broncoctf.xyz/)"  
+    [![](https://ctftime.org){ width="200" align=left }](https://broncoctf.xyz/)  
+    **比赛名称** : [BroncoCTF 2025](https://broncoctf.xyz/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-02-16 03:00:00 - 2025-02-17 03:00:00 UTC+8  
+    **比赛权重** : 22.51  
+    **赛事主办** : BroncoSec (https://ctftime.org/team/112673)  
+    **添加日历** : https://ctftime.org/event/2657.ics  
+    
 ??? Quote "[ThunderCipher](https://thundercipher.tech/)"  
     [![](https://ctftime.org){ width="200" align=left }](https://thundercipher.tech/)  
     **比赛名称** : [ThunderCipher](https://thundercipher.tech/)  
@@ -122,7 +131,7 @@ comments: true
     **添加日历** : https://ctftime.org/event/2624.ics  
     
 ??? Quote "[PwnMe CTF Quals 2025](https://pwnme.fr/)"  
-    [![](https://ctftime.org/media/events/Untitled_design1.png){ width="200" align=left }](https://pwnme.fr/)  
+    [![](https://ctftime.org/media/events/PWNME_ReseauxPP1_1.jpg){ width="200" align=left }](https://pwnme.fr/)  
     **比赛名称** : [PwnMe CTF Quals 2025](https://pwnme.fr/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2025-03-01 04:00:00 - 2025-03-03 02:00:00 UTC+8  
@@ -302,7 +311,7 @@ comments: true
     **添加日历** : https://ctftime.org/event/2604.ics  
     
 ??? Quote "[PwnMe CTF Finals 2025](https://pwnme.fr/)"  
-    [![](https://ctftime.org/media/events/Untitled_design1_1.png){ width="200" align=left }](https://pwnme.fr/)  
+    [![](https://ctftime.org/media/events/PWNME_ReseauxPP1.jpg){ width="200" align=left }](https://pwnme.fr/)  
     **比赛名称** : [PwnMe CTF Finals 2025](https://pwnme.fr/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2025-04-12 18:00:00 - 2025-04-13 04:00:00 UTC+8  
