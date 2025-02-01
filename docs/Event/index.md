@@ -303,15 +303,6 @@ hide:
                 **其他说明** : VNCTF 2025由V&N Team主办，个人赛，可报名，即将开始，中途可加入。报名开始时间为2025年01月01日 00:00，比赛时间为2025年02月08日 10:00至2025年02月09日 10:00。更多信息请加QQ群717513199。  
                 
         === "国外赛事"
-            ??? Quote "[Nullcon Goa HackIM 2025 CTF](https://ctf.nullcon.net/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://ctf.nullcon.net/)  
-                **比赛名称** : [Nullcon Goa HackIM 2025 CTF](https://ctf.nullcon.net/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-02-01 16:30:00 - 2025-02-02 16:30:00 UTC+8  
-                **比赛权重** : 30.00  
-                **赛事主办** : ENOFLAG (https://ctftime.org/team/1438)  
-                **添加日历** : https://ctftime.org/event/2642.ics  
-                
             ??? Quote "[BearcatCTF 2025: World Tour](https://play.bearcatctf.io/)"  
                 [![](https://ctftime.org/media/events/bearcat25_logo_short.png){ width="200" align=left }](https://play.bearcatctf.io/)  
                 **比赛名称** : [BearcatCTF 2025: World Tour](https://play.bearcatctf.io/)  
@@ -694,15 +685,6 @@ hide:
                 **赛事主办** : ectfmitre (https://ctftime.org/team/87292)  
                 **添加日历** : https://ctftime.org/event/2542.ics  
                 
-            ??? Quote "[ATC Winter Vibes Community CTF](https://atcwintervibescommunityctf.ctfd.io/)"  
-                [![](https://ctftime.org/media/events/ATC_Logo_2.PNG){ width="200" align=left }](https://atcwintervibescommunityctf.ctfd.io/)  
-                **比赛名称** : [ATC Winter Vibes Community CTF](https://atcwintervibescommunityctf.ctfd.io/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-01-31 15:00:00 - 2025-02-01 15:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : ATC CTF Team (https://ctftime.org/team/370333)  
-                **添加日历** : https://ctftime.org/event/2665.ics  
-                
             ??? Quote "[ECTF](https://ectf.fr/)"  
                 [![](https://ctftime.org/media/events/fond-blanc_texte-noir.png){ width="200" align=left }](https://ectf.fr/)  
                 **比赛名称** : [ECTF](https://ectf.fr/)  
@@ -721,6 +703,15 @@ hide:
                 **赛事主办** : Dreamhack (https://ctftime.org/team/367894)  
                 **添加日历** : https://ctftime.org/event/2623.ics  
                 
+            ??? Quote "[Nullcon Goa HackIM 2025 CTF](https://ctf.nullcon.net/)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://ctf.nullcon.net/)  
+                **比赛名称** : [Nullcon Goa HackIM 2025 CTF](https://ctf.nullcon.net/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-02-01 16:30:00 - 2025-02-02 16:30:00 UTC+8  
+                **比赛权重** : 30.00  
+                **赛事主办** : ENOFLAG (https://ctftime.org/team/1438)  
+                **添加日历** : https://ctftime.org/event/2642.ics  
+                
     === "*已经结束*"
         === "国内赛事"
             ??? Quote "[NSSCTF Round26](https://www.nssctf.cn/contest)"  
@@ -738,6 +729,15 @@ hide:
                 **其他说明** : 国城杯初赛由国城杯初赛主办，比赛链接为https://ctf2024.goalcent.com/，4人组队，报名开始时间为2024年11月23日，报名截止时间为2024年12月06日，比赛开始时间为2024年12月07日，选手可通过QQ群629910816进行沟通。  
                 
         === "国外赛事"
+            ??? Quote "[ATC Winter Vibes Community CTF](https://atcwintervibescommunityctf.ctfd.io/)"  
+                [![](https://ctftime.org/media/events/ATC_Logo_2.PNG){ width="200" align=left }](https://atcwintervibescommunityctf.ctfd.io/)  
+                **比赛名称** : [ATC Winter Vibes Community CTF](https://atcwintervibescommunityctf.ctfd.io/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-01-31 15:00:00 - 2025-02-01 15:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : ATC CTF Team (https://ctftime.org/team/370333)  
+                **添加日历** : https://ctftime.org/event/2665.ics  
+                
             ??? Quote "[AlpacaHack Round 9 (Crypto)](https://alpacahack.com/)"  
                 [![](https://ctftime.org/media/events/dark_512_3.png){ width="200" align=left }](https://alpacahack.com/)  
                 **比赛名称** : [AlpacaHack Round 9 (Crypto)](https://alpacahack.com/)  
@@ -1628,15 +1628,6 @@ hide:
                 **比赛权重** : 24.58  
                 **赛事主办** : Crispr_iiitn (https://ctftime.org/team/270138)  
                 **添加日历** : https://ctftime.org/event/2524.ics  
-                
-            ??? Quote "[Z3R0 D4Y CTF](https://ctf.zerologon.co.in/)"  
-                [![](https://ctftime.org/media/events/Logo.c1dfc2e2d63945110c8d.png){ width="200" align=left }](https://ctf.zerologon.co.in/)  
-                **比赛名称** : [Z3R0 D4Y CTF](https://ctf.zerologon.co.in/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-10-24 17:00:00 - 2024-10-25 05:00:00 UTC+8  
-                **比赛权重** : 24.77  
-                **赛事主办** : Z3r0_l0g0n (https://ctftime.org/team/227457)  
-                **添加日历** : https://ctftime.org/event/2529.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
