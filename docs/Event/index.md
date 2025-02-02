@@ -676,24 +676,6 @@ hide:
                 **赛事主办** : ectfmitre (https://ctftime.org/team/87292)  
                 **添加日历** : https://ctftime.org/event/2542.ics  
                 
-            ??? Quote "[ECTF](https://ectf.fr/)"  
-                [![](https://ctftime.org/media/events/fond-blanc_texte-noir.png){ width="200" align=left }](https://ectf.fr/)  
-                **比赛名称** : [ECTF](https://ectf.fr/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-01-31 19:00:00 - 2025-02-02 19:00:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : CYBER & CHILL (https://ctftime.org/team/299061)  
-                **添加日历** : https://ctftime.org/event/2663.ics  
-                
-            ??? Quote "[Nullcon Goa HackIM 2025 CTF](https://ctf.nullcon.net/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://ctf.nullcon.net/)  
-                **比赛名称** : [Nullcon Goa HackIM 2025 CTF](https://ctf.nullcon.net/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-02-01 16:30:00 - 2025-02-02 16:30:00 UTC+8  
-                **比赛权重** : 30.00  
-                **赛事主办** : ENOFLAG (https://ctftime.org/team/1438)  
-                **添加日历** : https://ctftime.org/event/2642.ics  
-                
             ??? Quote "[BearcatCTF 2025: World Tour](https://play.bearcatctf.io/)"  
                 [![](https://ctftime.org/media/events/bearcat25_logo_short.png){ width="200" align=left }](https://play.bearcatctf.io/)  
                 **比赛名称** : [BearcatCTF 2025: World Tour](https://play.bearcatctf.io/)  
@@ -720,6 +702,15 @@ hide:
                 **其他说明** : 国城杯初赛由国城杯初赛主办，比赛链接为https://ctf2024.goalcent.com/，4人组队，报名开始时间为2024年11月23日，报名截止时间为2024年12月06日，比赛开始时间为2024年12月07日，选手可通过QQ群629910816进行沟通。  
                 
         === "国外赛事"
+            ??? Quote "[Nullcon Goa HackIM 2025 CTF](https://ctf.nullcon.net/)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://ctf.nullcon.net/)  
+                **比赛名称** : [Nullcon Goa HackIM 2025 CTF](https://ctf.nullcon.net/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-02-01 16:30:00 - 2025-02-02 16:30:00 UTC+8  
+                **比赛权重** : 30.00  
+                **赛事主办** : ENOFLAG (https://ctftime.org/team/1438)  
+                **添加日历** : https://ctftime.org/event/2642.ics  
+                
             ??? Quote "[Dreamhack CTF Season 7 Round #3 (Div. 1)](https://dreamhack.io/ctf/657)"  
                 [![](https://ctftime.org/media/events/cover03.jpg){ width="200" align=left }](https://dreamhack.io/ctf/657)  
                 **比赛名称** : [Dreamhack CTF Season 7 Round #3 (Div. 1)](https://dreamhack.io/ctf/657)  
@@ -728,6 +719,15 @@ hide:
                 **比赛权重** : 0  
                 **赛事主办** : Dreamhack (https://ctftime.org/team/367894)  
                 **添加日历** : https://ctftime.org/event/2623.ics  
+                
+            ??? Quote "[ECTF](https://ectf.fr/)"  
+                [![](https://ctftime.org/media/events/fond-blanc_texte-noir.png){ width="200" align=left }](https://ectf.fr/)  
+                **比赛名称** : [ECTF](https://ectf.fr/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-01-31 19:00:00 - 2025-02-02 19:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : CYBER & CHILL (https://ctftime.org/team/299061)  
+                **添加日历** : https://ctftime.org/event/2663.ics  
                 
             ??? Quote "[ATC Winter Vibes Community CTF](https://atcwintervibescommunityctf.ctfd.io/)"  
                 [![](https://ctftime.org/media/events/ATC_Logo_2.PNG){ width="200" align=left }](https://atcwintervibescommunityctf.ctfd.io/)  
@@ -1601,24 +1601,6 @@ hide:
                 **比赛权重** : 43.94  
                 **赛事主办** : HeroCTF (https://ctftime.org/team/145166)  
                 **添加日历** : https://ctftime.org/event/2496.ics  
-                
-            ??? Quote "[CipherHunt CTF](https://cipherhunt.ycfteam.in/)"  
-                [![](https://ctftime.org/media/events/logo_1_2.png){ width="200" align=left }](https://cipherhunt.ycfteam.in/)  
-                **比赛名称** : [CipherHunt CTF](https://cipherhunt.ycfteam.in/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-10-25 15:30:00 - 2024-10-26 15:30:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : CypherLock (https://ctftime.org/team/356395)  
-                **添加日历** : https://ctftime.org/event/2556.ics  
-                
-            ??? Quote "[Enigma Xplore 2.0 CTF](https://enigmaxplore.ctfd.io/)"  
-                [![](https://ctftime.org/media/events/tf-logo-24-min.png){ width="200" align=left }](https://enigmaxplore.ctfd.io/)  
-                **比赛名称** : [Enigma Xplore 2.0 CTF](https://enigmaxplore.ctfd.io/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-10-24 21:30:00 - 2024-10-25 21:29:00 UTC+8  
-                **比赛权重** : 0.00  
-                **赛事主办** : Crispr_iiitn (https://ctftime.org/team/270138)  
-                **添加日历** : https://ctftime.org/event/2555.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
