@@ -638,6 +638,15 @@ hide:
                 **赛事主办** : ASIS (https://ctftime.org/team/4140)  
                 **添加日历** : https://ctftime.org/event/2577.ics  
                 
+            ??? Quote "[L3akCTF 2025](https://ctf.l3ak.team/)"  
+                [![](https://ctftime.org/media/events/l3ak-color-transparent.png){ width="200" align=left }](https://ctf.l3ak.team/)  
+                **比赛名称** : [L3akCTF 2025](https://ctf.l3ak.team/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-07-12 01:00:00 - 2025-07-14 01:00:00 UTC+8  
+                **比赛权重** : 24.43  
+                **赛事主办** : L3ak (https://ctftime.org/team/220336)  
+                **添加日历** : https://ctftime.org/event/2629.ics  
+                
             ??? Quote "[ASIS CTF Quals 2025](https://asisctf.com/)"  
                 [![](https://ctftime.org/media/events/asisctf_1.jpg){ width="200" align=left }](https://asisctf.com/)  
                 **比赛名称** : [ASIS CTF Quals 2025](https://asisctf.com/)  
@@ -683,13 +692,6 @@ hide:
                 **报名时间** : 2024年12月28日 14:00 - 2024年12月28日 13:59  
                 **比赛时间** : 2024年12月28日 14:00 - 2024年12月28日 17:00  
                 **其他说明** : NSSCTF Round26 由NSSCTF主办，比赛时间为2024年12月28日 14:00至17:00，报名已结束，比赛QQ群为864395049。  
-                
-            ??? Quote "[国城杯初赛](https://ctf2024.goalcent.com/)"  
-                **比赛名称** : [国城杯初赛](https://ctf2024.goalcent.com/)  
-                **比赛类型** : 线上Jeopardy解题赛  
-                **报名时间** : 2024年11月23日 00:00 - 2024年12月06日 00:00  
-                **比赛时间** : 2024年12月07日 09:00 - 2024年12月07日 17:00  
-                **其他说明** : 国城杯初赛由国城杯初赛主办，比赛链接为https://ctf2024.goalcent.com/，4人组队，报名开始时间为2024年11月23日，报名截止时间为2024年12月06日，比赛开始时间为2024年12月07日，选手可通过QQ群629910816进行沟通。  
                 
         === "国外赛事"
             ??? Quote "[BearcatCTF 2025: World Tour](https://play.bearcatctf.io/)"  
