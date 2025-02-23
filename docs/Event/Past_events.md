@@ -28,6 +28,24 @@ comments: true
     
 
 ## 国际赛事
+??? Quote "[TRX CTF 2025](https://ctf.theromanxpl0.it/)"  
+    [![](https://ctftime.org/media/events/TRX_1.png){ width="200" align=left }](https://ctf.theromanxpl0.it/)  
+    **比赛名称** : [TRX CTF 2025](https://ctf.theromanxpl0.it/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-02-22 22:00:00 - 2025-02-23 22:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : TheRomanXpl0it (https://ctftime.org/team/46516)  
+    **添加日历** : https://ctftime.org/event/2654.ics  
+    
+??? Quote "[Kashi CTF 2025](https://kashictf.iitbhucybersec.in/)"  
+    [![](https://ctftime.org/media/events/logo_105.png){ width="200" align=left }](https://kashictf.iitbhucybersec.in/)  
+    **比赛名称** : [Kashi CTF 2025](https://kashictf.iitbhucybersec.in/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-02-22 20:00:00 - 2025-02-23 20:00:00 UTC+8  
+    **比赛权重** : 0  
+    **赛事主办** : IIT(BHU)CyberSec (https://ctftime.org/team/22546)  
+    **添加日历** : https://ctftime.org/event/2668.ics  
+    
 ??? Quote "[Dreamhack CTF Season 7 Round #4 (Div. 2)](https://dreamhack.io/ctf/658)"  
     [![](https://ctftime.org/media/events/cover04.jpg){ width="200" align=left }](https://dreamhack.io/ctf/658)  
     **比赛名称** : [Dreamhack CTF Season 7 Round #4 (Div. 2)](https://dreamhack.io/ctf/658)  
@@ -78,7 +96,7 @@ comments: true
     **比赛名称** : [EHAX CTF 2025](https://ctf.ehax.tech/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2025-02-16 00:00:00 - 2025-02-17 00:00:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 22.58  
     **赛事主办** : EHAX (https://ctftime.org/team/270643)  
     **添加日历** : https://ctftime.org/event/2677.ics  
     
@@ -909,22 +927,4 @@ comments: true
     **比赛权重** : 0.00  
     **赛事主办** : Pacific Hackers Association (https://ctftime.org/team/304096)  
     **添加日历** : https://ctftime.org/event/2453.ics  
-    
-??? Quote "[Hackers N' Hops](https://hackersnhops.ctfd.io/)"  
-    [![](https://ctftime.org/media/events/HACKERSNHOPS.png){ width="200" align=left }](https://hackersnhops.ctfd.io/)  
-    **比赛名称** : [Hackers N' Hops](https://hackersnhops.ctfd.io/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-11-02 18:00:00 - 2024-11-04 02:00:00 UTC+8  
-    **比赛权重** : 24.71  
-    **赛事主办** : Hackers N' Hops (https://ctftime.org/team/119910)  
-    **添加日历** : https://ctftime.org/event/2550.ics  
-    
-??? Quote "[Equinor CTF 2024](https://ctf.equinor.com/)"  
-    [![](https://ctftime.org/media/events/ept_1.png){ width="200" align=left }](https://ctf.equinor.com/)  
-    **比赛名称** : [Equinor CTF 2024](https://ctf.equinor.com/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2024-11-02 17:00:00 - 2024-11-03 03:00:00 UTC+8  
-    **比赛权重** : 25.00  
-    **赛事主办** : EPT (https://ctftime.org/team/119480)  
-    **添加日历** : https://ctftime.org/event/2292.ics  
     
