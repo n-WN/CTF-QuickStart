@@ -289,15 +289,6 @@ hide:
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[CSCG 2025](https://play.cscg.live/)"  
-                [![](https://ctftime.org){ width="200" align=left }](https://play.cscg.live/)  
-                **比赛名称** : [CSCG 2025](https://play.cscg.live/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-03-02 01:00:00 - 2025-05-02 00:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : NFITS (https://ctftime.org/team/360674)  
-                **添加日历** : https://ctftime.org/event/2588.ics  
-                
             ??? Quote "[Winja CTF | Nullcon Goa 2025](https://ctf.winja.org/)"  
                 [![](https://ctftime.org/media/events/winja-logo-transparent_2.png){ width="200" align=left }](https://ctf.winja.org/)  
                 **比赛名称** : [Winja CTF | Nullcon Goa 2025](https://ctf.winja.org/)  
@@ -860,6 +851,15 @@ hide:
                 **赛事主办** : SECCON CTF (https://ctftime.org/team/11918)  
                 **添加日历** : https://ctftime.org/event/2650.ics  
                 
+            ??? Quote "[CSCG 2025](https://play.cscg.live/)"  
+                [![](https://ctftime.org){ width="200" align=left }](https://play.cscg.live/)  
+                **比赛名称** : [CSCG 2025](https://play.cscg.live/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-03-02 01:00:00 - 2025-05-02 00:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : NFITS (https://ctftime.org/team/360674)  
+                **添加日历** : https://ctftime.org/event/2588.ics  
+                
     === "*已经结束*"
         === "国内赛事"
             ??? Quote "[HGAME 2025](https://hgame.vidar.club/games/2)"  
@@ -945,7 +945,7 @@ hide:
                 **比赛名称** : [EHAX CTF 2025](https://ctf.ehax.tech/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-02-16 00:00:00 - 2025-02-17 00:00:00 UTC+8  
-                **比赛权重** : 22.00  
+                **比赛权重** : 22.14  
                 **赛事主办** : EHAX (https://ctftime.org/team/270643)  
                 **添加日历** : https://ctftime.org/event/2677.ics  
                 
@@ -1053,7 +1053,7 @@ hide:
                 **比赛名称** : [Codefest CTF 2025](https://codefest-ctf.iitbhu.tech/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-01-25 20:30:00 - 2025-01-27 08:30:00 UTC+8  
-                **比赛权重** : 23.83  
+                **比赛权重** : 23.89  
                 **赛事主办** : IIT(BHU)CyberSec (https://ctftime.org/team/22546)  
                 **添加日历** : https://ctftime.org/event/2648.ics  
                 
