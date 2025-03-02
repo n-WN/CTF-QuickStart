@@ -48,6 +48,15 @@ comments: true
     **赛事主办** : SECCON CTF (https://ctftime.org/team/11918)  
     **添加日历** : https://ctftime.org/event/2650.ics  
     
+??? Quote "[ApoorvCTF 2025](https://ctf.iiitkottayam.ac.in/)"  
+    [![](https://ctftime.org){ width="200" align=left }](https://ctf.iiitkottayam.ac.in/)  
+    **比赛名称** : [ApoorvCTF 2025](https://ctf.iiitkottayam.ac.in/)  
+    **比赛形式** : Jeopardy  
+    **比赛时间** : 2025-02-28 23:30:00 - 2025-03-02 23:30:00 UTC+8  
+    **比赛权重** : 0.00  
+    **赛事主办** : r3d_kn1ght5 (https://ctftime.org/team/212248)  
+    **添加日历** : https://ctftime.org/event/2638.ics  
+    
 ??? Quote "[ACECTF 1.0](https://acectf.tech/)"  
     [![](https://ctftime.org/media/events/WhatsApp_Image_2024-12-26_at_12.03.44_7efe1dad.jpg){ width="200" align=left }](https://acectf.tech/)  
     **比赛名称** : [ACECTF 1.0](https://acectf.tech/)  
@@ -62,7 +71,7 @@ comments: true
     **比赛名称** : [TRX CTF 2025](https://ctf.theromanxpl0.it/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2025-02-22 22:00:00 - 2025-02-23 22:00:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 24.43  
     **赛事主办** : TheRomanXpl0it (https://ctftime.org/team/46516)  
     **添加日历** : https://ctftime.org/event/2654.ics  
     
@@ -71,7 +80,7 @@ comments: true
     **比赛名称** : [Kashi CTF 2025](https://kashictf.iitbhucybersec.in/)  
     **比赛形式** : Jeopardy  
     **比赛时间** : 2025-02-22 20:00:00 - 2025-02-23 20:00:00 UTC+8  
-    **比赛权重** : 0  
+    **比赛权重** : 22.31  
     **赛事主办** : IIT(BHU)CyberSec (https://ctftime.org/team/22546)  
     **添加日历** : https://ctftime.org/event/2668.ics  
     
@@ -911,13 +920,4 @@ comments: true
     **比赛权重** : 25.00  
     **赛事主办** : NYUSEC (https://ctftime.org/team/439)  
     **添加日历** : https://ctftime.org/event/2567.ics  
-    
-??? Quote "[Sudocrypt v14.0](https://sudocrypt.com/)"  
-    [![](https://ctftime.org/media/events/eac9d32fd3264f0c9dbe542e9f853468.png){ width="200" align=left }](https://sudocrypt.com/)  
-    **比赛名称** : [Sudocrypt v14.0](https://sudocrypt.com/)  
-    **比赛形式** : Hack quest  
-    **比赛时间** : 2024-11-07 11:30:00 - 2024-11-08 23:30:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : exunclan (https://ctftime.org/team/83987)  
-    **添加日历** : https://ctftime.org/event/2562.ics  
     
