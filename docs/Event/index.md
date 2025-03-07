@@ -289,24 +289,6 @@ hide:
         === "国内赛事"
     
         === "国外赛事"
-            ??? Quote "[Pearl CTF](https://pearlctf.in/)"  
-                [![](https://ctftime.org/media/events/Pearl_Logo.png){ width="200" align=left }](https://pearlctf.in/)  
-                **比赛名称** : [Pearl CTF](https://pearlctf.in/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-03-07 20:30:00 - 2025-03-08 20:30:00 UTC+8  
-                **比赛权重** : 33.81  
-                **赛事主办** : BIT CRIMINALS (https://ctftime.org/team/151727)  
-                **添加日历** : https://ctftime.org/event/2647.ics  
-                
-            ??? Quote "[KalmarCTF 2025](http://KalmarC.TF/)"  
-                [![](https://ctftime.org/media/events/kalmar-logo.png){ width="200" align=left }](http://KalmarC.TF/)  
-                **比赛名称** : [KalmarCTF 2025](http://KalmarC.TF/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-03-08 01:00:00 - 2025-03-10 01:00:00 UTC+8  
-                **比赛权重** : 33.89  
-                **赛事主办** : kalmarunionen (https://ctftime.org/team/114856)  
-                **添加日历** : https://ctftime.org/event/2599.ics  
-                
             ??? Quote "[Dreamhack CTF Season 7 Round #5 (Div. 1)](https://dreamhack.io/ctf/659)"  
                 [![](https://ctftime.org/media/events/cover05.jpg){ width="200" align=left }](https://dreamhack.io/ctf/659)  
                 **比赛名称** : [Dreamhack CTF Season 7 Round #5 (Div. 1)](https://dreamhack.io/ctf/659)  
@@ -610,7 +592,7 @@ hide:
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-04-12 16:00:00 - 2025-04-12 16:00:00 UTC+8  
                 **比赛权重** : 23.65  
-                **赛事主办** : pony7 (https://ctftime.org/team/20769)  
+                **赛事主办** : FirewallFoxes, pony7 (https://ctftime.org/team/278913, https://ctftime.org/team/20769)  
                 **添加日历** : https://ctftime.org/event/2660.ics  
                 
             ??? Quote "[Midnight Flag CTF - INSURRECTION](https://midnightflag.fr/)"  
@@ -702,6 +684,15 @@ hide:
                 **比赛权重** : 20.72  
                 **赛事主办** : SAS CREW (https://ctftime.org/team/283057)  
                 **添加日历** : https://ctftime.org/event/2636.ics  
+                
+            ??? Quote "[DaVinciCTF 2025](https://dvc.tf/)"  
+                [![](https://ctftime.org/media/events/davincictf_vectorized.png){ width="200" align=left }](https://dvc.tf/)  
+                **比赛名称** : [DaVinciCTF 2025](https://dvc.tf/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-05-24 18:00:00 - 2025-05-26 04:00:00 UTC+8  
+                **比赛权重** : 0.00  
+                **赛事主办** : DaVinciCode (https://ctftime.org/team/112645)  
+                **添加日历** : https://ctftime.org/event/2675.ics  
                 
             ??? Quote "[N0PSctf](https://www.nops.re/)"  
                 [![](https://ctftime.org/media/events/logo-news.png){ width="200" align=left }](https://www.nops.re/)  
@@ -815,6 +806,24 @@ hide:
                 **赛事主办** : NFITS (https://ctftime.org/team/360674)  
                 **添加日历** : https://ctftime.org/event/2588.ics  
                 
+            ??? Quote "[Pearl CTF](https://pearlctf.in/)"  
+                [![](https://ctftime.org/media/events/Pearl_Logo.png){ width="200" align=left }](https://pearlctf.in/)  
+                **比赛名称** : [Pearl CTF](https://pearlctf.in/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-03-07 20:30:00 - 2025-03-08 20:30:00 UTC+8  
+                **比赛权重** : 33.81  
+                **赛事主办** : BIT CRIMINALS (https://ctftime.org/team/151727)  
+                **添加日历** : https://ctftime.org/event/2647.ics  
+                
+            ??? Quote "[KalmarCTF 2025](http://KalmarC.TF/)"  
+                [![](https://ctftime.org/media/events/kalmar-logo.png){ width="200" align=left }](http://KalmarC.TF/)  
+                **比赛名称** : [KalmarCTF 2025](http://KalmarC.TF/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-03-08 01:00:00 - 2025-03-10 01:00:00 UTC+8  
+                **比赛权重** : 33.89  
+                **赛事主办** : kalmarunionen (https://ctftime.org/team/114856)  
+                **添加日历** : https://ctftime.org/event/2599.ics  
+                
     === "*已经结束*"
         === "国内赛事"
             ??? Quote "[HGAME 2025](https://hgame.vidar.club/games/2)"  
@@ -882,7 +891,7 @@ hide:
                 **比赛名称** : [ApoorvCTF 2025](https://ctf.iiitkottayam.ac.in/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-02-28 23:30:00 - 2025-03-02 23:30:00 UTC+8  
-                **比赛权重** : 0.00  
+                **比赛权重** : 0  
                 **赛事主办** : r3d_kn1ght5 (https://ctftime.org/team/212248)  
                 **添加日历** : https://ctftime.org/event/2638.ics  
                 
@@ -900,7 +909,7 @@ hide:
                 **比赛名称** : [TRX CTF 2025](https://ctf.theromanxpl0.it/)  
                 **比赛形式** : Jeopardy  
                 **比赛时间** : 2025-02-22 22:00:00 - 2025-02-23 22:00:00 UTC+8  
-                **比赛权重** : 24.43  
+                **比赛权重** : 24.21  
                 **赛事主办** : TheRomanXpl0it (https://ctftime.org/team/46516)  
                 **添加日历** : https://ctftime.org/event/2654.ics  
                 
