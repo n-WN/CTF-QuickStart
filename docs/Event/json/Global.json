@@ -1,17 +1,5 @@
 [
     {
-        "比赛名称": "DFIR Labs CTF by The DFIR Report",
-        "比赛时间": "2025-03-09 00:00:00 - 2025-03-09 04:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2643.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://thedfirreport.com/services/dfir-labs/ctf/",
-        "比赛标志": "https://ctftime.org/media/events/DFIR_Labs_Icon.png",
-        "比赛权重": "0",
-        "赛事主办": "The DFIR Report (https://ctftime.org/team/309500)",
-        "比赛ID": "1149",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "Insomni'hack 2025",
         "比赛时间": "2025-03-15 01:00:00 - 2025-03-15 12:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2634.ics",
@@ -648,18 +636,6 @@
         "比赛状态": "nowrunning"
     },
     {
-        "比赛名称": "Pearl CTF",
-        "比赛时间": "2025-03-07 20:30:00 - 2025-03-08 20:30:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2647.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://pearlctf.in/",
-        "比赛标志": "https://ctftime.org/media/events/Pearl_Logo.png",
-        "比赛权重": "33.81",
-        "赛事主办": "BIT CRIMINALS (https://ctftime.org/team/151727)",
-        "比赛ID": "849",
-        "比赛状态": "nowrunning"
-    },
-    {
         "比赛名称": "KalmarCTF 2025",
         "比赛时间": "2025-03-08 01:00:00 - 2025-03-10 01:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2599.ics",
@@ -669,18 +645,6 @@
         "比赛权重": "33.89",
         "赛事主办": "kalmarunionen (https://ctftime.org/team/114856)",
         "比赛ID": "813",
-        "比赛状态": "nowrunning"
-    },
-    {
-        "比赛名称": "Dreamhack CTF Season 7 Round #5 (Div. 1)",
-        "比赛时间": "2025-03-08 08:00:00 - 2025-03-08 23:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2625.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://dreamhack.io/ctf/659",
-        "比赛标志": "https://ctftime.org/media/events/cover05.jpg",
-        "比赛权重": "0",
-        "赛事主办": "Dreamhack (https://ctftime.org/team/367894)",
-        "比赛ID": "1232",
         "比赛状态": "nowrunning"
     },
     {
@@ -706,6 +670,42 @@
         "赛事主办": "[team Team] (https://ctftime.org/team/49808)",
         "比赛ID": "457",
         "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "DFIR Labs CTF by The DFIR Report",
+        "比赛时间": "2025-03-09 00:00:00 - 2025-03-09 04:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2643.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://thedfirreport.com/services/dfir-labs/ctf/",
+        "比赛标志": "https://ctftime.org/media/events/DFIR_Labs_Icon.png",
+        "比赛权重": "0",
+        "赛事主办": "The DFIR Report (https://ctftime.org/team/309500)",
+        "比赛ID": "1149",
+        "比赛状态": "nowrunning"
+    },
+    {
+        "比赛名称": "Dreamhack CTF Season 7 Round #5 (Div. 1)",
+        "比赛时间": "2025-03-08 08:00:00 - 2025-03-08 23:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2625.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://dreamhack.io/ctf/659",
+        "比赛标志": "https://ctftime.org/media/events/cover05.jpg",
+        "比赛权重": "0",
+        "赛事主办": "Dreamhack (https://ctftime.org/team/367894)",
+        "比赛ID": "1232",
+        "比赛状态": "past"
+    },
+    {
+        "比赛名称": "Pearl CTF",
+        "比赛时间": "2025-03-07 20:30:00 - 2025-03-08 20:30:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2647.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://pearlctf.in/",
+        "比赛标志": "https://ctftime.org/media/events/Pearl_Logo.png",
+        "比赛权重": "33.81",
+        "赛事主办": "BIT CRIMINALS (https://ctftime.org/team/151727)",
+        "比赛ID": "849",
+        "比赛状态": "past"
     },
     {
         "比赛名称": "VishwaCTF 2025",
@@ -1881,30 +1881,6 @@
         "比赛权重": "25.00",
         "赛事主办": "CRUx BPHC (https://ctftime.org/team/270645)",
         "比赛ID": "1004",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "Metared Argentina CERTUNLP",
-        "比赛时间": "2024-11-08 19:00:00 - 2024-11-09 19:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2537.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://ctf.cert.unlp.edu.ar/",
-        "比赛标志": "https://ctftime.org/media/events/unlp.png",
-        "比赛权重": "25.00",
-        "赛事主办": "CERTUNLP (https://ctftime.org/team/89294)",
-        "比赛ID": "653",
-        "比赛状态": "past"
-    },
-    {
-        "比赛名称": "HKCERT CTF 2024 (Qualifying Round)",
-        "比赛时间": "2024-11-08 18:00:00 - 2024-11-10 18:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2455.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://platform.ctf.hkcert.org/",
-        "比赛标志": "https://ctftime.org/media/events/Screenshot_2024-08-13_100427.png",
-        "比赛权重": "61.22",
-        "赛事主办": "Black Bauhinia, HKCERT (https://ctftime.org/team/83678, https://ctftime.org/team/134746)",
-        "比赛ID": "529",
         "比赛状态": "past"
     }
 ]
