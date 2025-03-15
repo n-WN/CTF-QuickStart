@@ -1,17 +1,5 @@
 [
     {
-        "比赛名称": "@Hack 2025",
-        "比赛时间": "2025-03-15 19:00:00 - 2025-03-16 19:00:00 UTC+8",
-        "添加日历": "https://ctftime.org/event/2558.ics",
-        "比赛形式": "Jeopardy",
-        "比赛链接": "https://athackctf.com/?s=ju8uvw",
-        "比赛标志": "https://ctftime.org/media/events/Hack_Logo_WIDTH_600px.png",
-        "比赛权重": "0.00",
-        "赛事主办": "Hexploit Alliance (https://ctftime.org/team/278003)",
-        "比赛ID": "1061",
-        "比赛状态": "oncoming"
-    },
-    {
         "比赛名称": "K!nd4SUS CTF 2025",
         "比赛时间": "2025-03-15 21:00:00 - 2025-03-16 21:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2703.ics",
@@ -804,6 +792,18 @@
         "比赛状态": "nowrunning"
     },
     {
+        "比赛名称": "@Hack 2025",
+        "比赛时间": "2025-03-15 19:00:00 - 2025-03-16 19:00:00 UTC+8",
+        "添加日历": "https://ctftime.org/event/2558.ics",
+        "比赛形式": "Jeopardy",
+        "比赛链接": "https://athackctf.com/?s=ju8uvw",
+        "比赛标志": "https://ctftime.org/media/events/Hack_Logo_WIDTH_600px.png",
+        "比赛权重": "0.00",
+        "赛事主办": "Hexploit Alliance (https://ctftime.org/team/278003)",
+        "比赛ID": "1061",
+        "比赛状态": "nowrunning"
+    },
+    {
         "比赛名称": "Insomni'hack 2025",
         "比赛时间": "2025-03-15 01:00:00 - 2025-03-15 12:00:00 UTC+8",
         "添加日历": "https://ctftime.org/event/2634.ics",
@@ -1266,7 +1266,7 @@
         "比赛形式": "Jeopardy",
         "比赛链接": "https://x3c.tf/",
         "比赛标志": "https://ctftime.org/media/events/pink_logo_square_768.png",
-        "比赛权重": "23.51",
+        "比赛权重": "23.54",
         "赛事主办": "x3CTF (https://ctftime.org/team/309820)",
         "比赛ID": "1153",
         "比赛状态": "past"
