@@ -27,15 +27,6 @@ comments: true
     **赛事主办** : NFITS (https://ctftime.org/team/360674)  
     **添加日历** : https://ctftime.org/event/2588.ics  
     
-??? Quote "[AI vs Human CTF Challenge](https://ctf.hackthebox.com/event/details/ai-vs-human-ctf-challenge-2000)"  
-    [![](https://ctftime.org/media/events/TakdFKeKQfMuBnauH5bjw8olSIcjpOdGkCOjJ3Mn.png){ width="200" align=left }](https://ctf.hackthebox.com/event/details/ai-vs-human-ctf-challenge-2000)  
-    **比赛名称** : [AI vs Human CTF Challenge](https://ctf.hackthebox.com/event/details/ai-vs-human-ctf-challenge-2000)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-03-14 23:00:00 - 2025-03-16 23:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : Palisade Research (https://ctftime.org/team/373097)  
-    **添加日历** : https://ctftime.org/event/2723.ics  
-    
 ??? Quote "[UTCTF 2025](https://utctf.live/)"  
     [![](https://ctftime.org/media/events/Illustration.png){ width="200" align=left }](https://utctf.live/)  
     **比赛名称** : [UTCTF 2025](https://utctf.live/)  
@@ -44,24 +35,6 @@ comments: true
     **比赛权重** : 67.21  
     **赛事主办** : isss (https://ctftime.org/team/69010)  
     **添加日历** : https://ctftime.org/event/2641.ics  
-    
-??? Quote "[K!nd4SUS CTF 2025](https://ctf.k1nd4sus.it/)"  
-    [![](https://ctftime.org/media/events/iconH.png){ width="200" align=left }](https://ctf.k1nd4sus.it/)  
-    **比赛名称** : [K!nd4SUS CTF 2025](https://ctf.k1nd4sus.it/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-03-15 21:00:00 - 2025-03-16 21:00:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : K!nd4SUS (https://ctftime.org/team/150337)  
-    **添加日历** : https://ctftime.org/event/2703.ics  
-    
-??? Quote "[Nowruz 1404](https://1404.fmc.tf/)"  
-    [![](https://ctftime.org/media/events/FMCTF.png){ width="200" align=left }](https://1404.fmc.tf/)  
-    **比赛名称** : [Nowruz 1404](https://1404.fmc.tf/)  
-    **比赛形式** : Jeopardy  
-    **比赛时间** : 2025-03-15 21:30:00 - 2025-03-16 21:30:00 UTC+8  
-    **比赛权重** : 0  
-    **赛事主办** : FlagMotori (https://ctftime.org/team/222060)  
-    **添加日历** : https://ctftime.org/event/2601.ics  
     
 ??? Quote "[WatCTF W25](https://watctf.org/)"  
     [![](https://ctftime.org/media/events/Black_Back_Yellow_Lock.png){ width="200" align=left }](https://watctf.org/)  
