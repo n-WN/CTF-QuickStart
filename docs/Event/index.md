@@ -842,24 +842,6 @@ hide:
                 **赛事主办** : NFITS (https://ctftime.org/team/360674)  
                 **添加日历** : https://ctftime.org/event/2588.ics  
                 
-            ??? Quote "[UTCTF 2025](https://utctf.live/)"  
-                [![](https://ctftime.org/media/events/Illustration.png){ width="200" align=left }](https://utctf.live/)  
-                **比赛名称** : [UTCTF 2025](https://utctf.live/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-03-15 07:00:00 - 2025-03-17 07:00:00 UTC+8  
-                **比赛权重** : 67.21  
-                **赛事主办** : isss (https://ctftime.org/team/69010)  
-                **添加日历** : https://ctftime.org/event/2641.ics  
-                
-            ??? Quote "[WatCTF W25](https://watctf.org/)"  
-                [![](https://ctftime.org/media/events/Black_Back_Yellow_Lock.png){ width="200" align=left }](https://watctf.org/)  
-                **比赛名称** : [WatCTF W25](https://watctf.org/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2025-03-16 03:00:00 - 2025-03-17 03:00:00 UTC+8  
-                **比赛权重** : 0  
-                **赛事主办** : WATCTF (https://ctftime.org/team/373968)  
-                **添加日历** : https://ctftime.org/event/2727.ics  
-                
     === "*已经结束*"
         === "国内赛事"
             ??? Quote "[HGAME 2025](https://hgame.vidar.club/games/2)"  
@@ -877,6 +859,15 @@ hide:
                 **其他说明** : VNCTF 2025由V&N Team主办，个人赛，可报名，即将开始，中途可加入。报名开始时间为2025年01月01日 00:00，比赛时间为2025年02月08日 10:00至2025年02月09日 10:00。更多信息请加QQ群717513199。  
                 
         === "国外赛事"
+            ??? Quote "[WatCTF W25](https://watctf.org/)"  
+                [![](https://ctftime.org/media/events/Black_Back_Yellow_Lock.png){ width="200" align=left }](https://watctf.org/)  
+                **比赛名称** : [WatCTF W25](https://watctf.org/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-03-16 03:00:00 - 2025-03-17 03:00:00 UTC+8  
+                **比赛权重** : 0  
+                **赛事主办** : WATCTF (https://ctftime.org/team/373968)  
+                **添加日历** : https://ctftime.org/event/2727.ics  
+                
             ??? Quote "[Nowruz 1404](https://1404.fmc.tf/)"  
                 [![](https://ctftime.org/media/events/FMCTF.png){ width="200" align=left }](https://1404.fmc.tf/)  
                 **比赛名称** : [Nowruz 1404](https://1404.fmc.tf/)  
@@ -903,6 +894,15 @@ hide:
                 **比赛权重** : 0.00  
                 **赛事主办** : Hexploit Alliance (https://ctftime.org/team/278003)  
                 **添加日历** : https://ctftime.org/event/2558.ics  
+                
+            ??? Quote "[UTCTF 2025](https://utctf.live/)"  
+                [![](https://ctftime.org/media/events/Illustration.png){ width="200" align=left }](https://utctf.live/)  
+                **比赛名称** : [UTCTF 2025](https://utctf.live/)  
+                **比赛形式** : Jeopardy  
+                **比赛时间** : 2025-03-15 07:00:00 - 2025-03-17 07:00:00 UTC+8  
+                **比赛权重** : 67.21  
+                **赛事主办** : isss (https://ctftime.org/team/69010)  
+                **添加日历** : https://ctftime.org/event/2641.ics  
                 
             ??? Quote "[Insomni'hack 2025](https://insomnihack.ch/contest/)"  
                 [![](https://ctftime.org/media/events/skull.jpg){ width="200" align=left }](https://insomnihack.ch/contest/)  
@@ -1758,24 +1758,6 @@ hide:
                 **比赛权重** : 0.00  
                 **赛事主办** : ICEDTEA (https://ctftime.org/team/303514)  
                 **添加日历** : https://ctftime.org/event/2574.ics  
-                
-            ??? Quote "[PwnSec CTF 2024](https://ctf.pwnsec.xyz/)"  
-                [![](https://ctftime.org/media/events/Logo_12.png){ width="200" align=left }](https://ctf.pwnsec.xyz/)  
-                **比赛名称** : [PwnSec CTF 2024](https://ctf.pwnsec.xyz/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-11-15 23:00:00 - 2024-11-16 23:00:00 UTC+8  
-                **比赛权重** : 23.92  
-                **赛事主办** : PwnSec (https://ctftime.org/team/28797)  
-                **添加日历** : https://ctftime.org/event/2454.ics  
-                
-            ??? Quote "[1337UP LIVE CTF](https://ctf.intigriti.io/)"  
-                [![](https://ctftime.org/media/events/intigriti_icon_cmyk_navy.png){ width="200" align=left }](https://ctf.intigriti.io/)  
-                **比赛名称** : [1337UP LIVE CTF](https://ctf.intigriti.io/)  
-                **比赛形式** : Jeopardy  
-                **比赛时间** : 2024-11-15 19:59:59 - 2024-11-17 07:59:59 UTC+8  
-                **比赛权重** : 24.23  
-                **赛事主办** : CryptoCat (https://ctftime.org/team/124896)  
-                **添加日历** : https://ctftime.org/event/2446.ics  
                 
     <!-- 赛事内容部分_结束 -->
 </div>
